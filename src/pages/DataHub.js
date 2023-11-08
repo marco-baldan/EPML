@@ -64,17 +64,17 @@ function DataHub() {
           </select>
       </div>
       </div>
-      {yearSelected && (
-        <div className="table-container" style={{marginTop: '10px', maxHeight: '400px', overflowY: 'auto' }}>
-          {loading ? (
-            <div className="loading-spinner">
-            <PacmanLoader color="#FFFFFF" />
-        </div>
-          ) : (
-            <ResultsTable data={filteredData} />
-          )}
-        </div>
-      )}   
+      {selectedYear != '' && (
+  <div className="table-container" style={{ marginTop: '10px', maxHeight: '400px', overflowY: 'auto' }}>
+    {loading ? (
+      <div className="loading-spinner">
+        <PacmanLoader color="#FFFFFF" />
+      </div>
+    ) : (
+      <ResultsTable data={filteredData} />
+    )}
+  </div>
+)}
     </div>
 
     
