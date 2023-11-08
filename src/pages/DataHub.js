@@ -2,6 +2,7 @@ import React, { useState, useEffect } from 'react';
 import ResultsTable from '../components/ResultsTable';
 import jsonData from '../data/results.json'; // Import the converted JSON data
 import PacmanLoader from "react-spinners/PacmanLoader";
+import BackButton from '../components/BackButton';
 
 function DataHub() {
   const [loading, setLoading] = useState(false);
@@ -21,7 +22,7 @@ function DataHub() {
     setTimeout(() => {
       setLoading(false);
       setFilteredData(dataForYear); // Update the filtered data
-    }, 1200);
+    }, 1000);
   };
 
   useEffect(() => {
@@ -39,6 +40,7 @@ function DataHub() {
 
   return (
           <div className="appdatahub">
+            <BackButton />
 
       <div className='text-box'>
       <h2>DataHub</h2>

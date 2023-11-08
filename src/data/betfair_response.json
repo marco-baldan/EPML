@@ -1,0 +1,646 @@
+{
+   "jsonrpc": "2.0",
+   "result": [
+      {
+         "marketId": "1.220400616",
+         "marketName": "Match Odds",
+         "totalMatched": 101435.5,
+         "runners": [
+            {
+               "selectionId": 48044,
+               "runnerName": "Wolves",
+               "handicap": 0.0,
+               "sortPriority": 1
+            },
+            {
+               "selectionId": 48224,
+               "runnerName": "Tottenham",
+               "handicap": 0.0,
+               "sortPriority": 2
+            },
+            {
+               "selectionId": 58805,
+               "runnerName": "The Draw",
+               "handicap": 0.0,
+               "sortPriority": 3
+            }
+         ],
+         "event": {
+            "id": "32755791",
+            "name": "Wolves v Tottenham",
+            "countryCode": "GB",
+            "timezone": "GMT",
+            "openDate": "2023-11-11T12:30:00.000Z"
+         }
+      },
+      {
+         "marketId": "1.220400061",
+         "marketName": "Match Odds",
+         "totalMatched": 25356.37,
+         "runners": [
+            {
+               "selectionId": 48351,
+               "runnerName": "Man Utd",
+               "handicap": 0.0,
+               "sortPriority": 1
+            },
+            {
+               "selectionId": 223467,
+               "runnerName": "Luton",
+               "handicap": 0.0,
+               "sortPriority": 2
+            },
+            {
+               "selectionId": 58805,
+               "runnerName": "The Draw",
+               "handicap": 0.0,
+               "sortPriority": 3
+            }
+         ],
+         "event": {
+            "id": "32755808",
+            "name": "Man Utd v Luton",
+            "countryCode": "GB",
+            "timezone": "GMT",
+            "openDate": "2023-11-11T15:00:00.000Z"
+         }
+      },
+      {
+         "marketId": "1.220400475",
+         "marketName": "Match Odds",
+         "totalMatched": 3503.31,
+         "runners": [
+            {
+               "selectionId": 62523,
+               "runnerName": "Crystal Palace",
+               "handicap": 0.0,
+               "sortPriority": 1
+            },
+            {
+               "selectionId": 56343,
+               "runnerName": "Everton",
+               "handicap": 0.0,
+               "sortPriority": 2
+            },
+            {
+               "selectionId": 58805,
+               "runnerName": "The Draw",
+               "handicap": 0.0,
+               "sortPriority": 3
+            }
+         ],
+         "event": {
+            "id": "32755792",
+            "name": "Crystal Palace v Everton",
+            "countryCode": "GB",
+            "timezone": "GMT",
+            "openDate": "2023-11-11T15:00:00.000Z"
+         }
+      },
+      {
+         "marketId": "1.220399695",
+         "marketName": "Match Odds",
+         "totalMatched": 40093.19,
+         "runners": [
+            {
+               "selectionId": 1096,
+               "runnerName": "Arsenal",
+               "handicap": 0.0,
+               "sortPriority": 1
+            },
+            {
+               "selectionId": 56299,
+               "runnerName": "Burnley",
+               "handicap": 0.0,
+               "sortPriority": 2
+            },
+            {
+               "selectionId": 58805,
+               "runnerName": "The Draw",
+               "handicap": 0.0,
+               "sortPriority": 3
+            }
+         ],
+         "event": {
+            "id": "32755817",
+            "name": "Arsenal v Burnley",
+            "countryCode": "GB",
+            "timezone": "GMT",
+            "openDate": "2023-11-11T15:00:00.000Z"
+         }
+      },
+      {
+         "marketId": "1.220399836",
+         "marketName": "Match Odds",
+         "totalMatched": 7437.35,
+         "runners": [
+            {
+               "selectionId": 1141,
+               "runnerName": "Bournemouth",
+               "handicap": 0.0,
+               "sortPriority": 1
+            },
+            {
+               "selectionId": 25422,
+               "runnerName": "Newcastle",
+               "handicap": 0.0,
+               "sortPriority": 2
+            },
+            {
+               "selectionId": 58805,
+               "runnerName": "The Draw",
+               "handicap": 0.0,
+               "sortPriority": 3
+            }
+         ],
+         "event": {
+            "id": "32755816",
+            "name": "Bournemouth v Newcastle",
+            "countryCode": "GB",
+            "timezone": "GMT",
+            "openDate": "2023-11-11T17:30:00.000Z"
+         }
+      },
+      {
+         "marketId": "1.220400898",
+         "marketName": "Match Odds",
+         "totalMatched": 43059.87,
+         "runners": [
+            {
+               "selectionId": 56323,
+               "runnerName": "Liverpool",
+               "handicap": 0.0,
+               "sortPriority": 1
+            },
+            {
+               "selectionId": 78864,
+               "runnerName": "Brentford",
+               "handicap": 0.0,
+               "sortPriority": 2
+            },
+            {
+               "selectionId": 58805,
+               "runnerName": "The Draw",
+               "handicap": 0.0,
+               "sortPriority": 3
+            }
+         ],
+         "event": {
+            "id": "32755827",
+            "name": "Liverpool v Brentford",
+            "countryCode": "GB",
+            "timezone": "GMT",
+            "openDate": "2023-11-12T14:00:00.000Z"
+         }
+      },
+      {
+         "marketId": "1.220400757",
+         "marketName": "Match Odds",
+         "totalMatched": 1392.13,
+         "runners": [
+            {
+               "selectionId": 48756,
+               "runnerName": "West Ham",
+               "handicap": 0.0,
+               "sortPriority": 1
+            },
+            {
+               "selectionId": 39674645,
+               "runnerName": "Nottm Forest",
+               "handicap": 0.0,
+               "sortPriority": 2
+            },
+            {
+               "selectionId": 58805,
+               "runnerName": "The Draw",
+               "handicap": 0.0,
+               "sortPriority": 3
+            }
+         ],
+         "event": {
+            "id": "32755843",
+            "name": "West Ham v Nottm Forest",
+            "countryCode": "GB",
+            "timezone": "GMT",
+            "openDate": "2023-11-12T14:00:00.000Z"
+         }
+      },
+      {
+         "marketId": "1.220401039",
+         "marketName": "Match Odds",
+         "totalMatched": 25694.99,
+         "runners": [
+            {
+               "selectionId": 18567,
+               "runnerName": "Brighton",
+               "handicap": 0.0,
+               "sortPriority": 1
+            },
+            {
+               "selectionId": 48470,
+               "runnerName": "Sheff Utd",
+               "handicap": 0.0,
+               "sortPriority": 2
+            },
+            {
+               "selectionId": 58805,
+               "runnerName": "The Draw",
+               "handicap": 0.0,
+               "sortPriority": 3
+            }
+         ],
+         "event": {
+            "id": "32755826",
+            "name": "Brighton v Sheff Utd",
+            "countryCode": "GB",
+            "timezone": "GMT",
+            "openDate": "2023-11-12T14:00:00.000Z"
+         }
+      },
+      {
+         "marketId": "1.220399511",
+         "marketName": "Match Odds",
+         "totalMatched": 1997.73,
+         "runners": [
+            {
+               "selectionId": 63908,
+               "runnerName": "Aston Villa",
+               "handicap": 0.0,
+               "sortPriority": 1
+            },
+            {
+               "selectionId": 56764,
+               "runnerName": "Fulham",
+               "handicap": 0.0,
+               "sortPriority": 2
+            },
+            {
+               "selectionId": 58805,
+               "runnerName": "The Draw",
+               "handicap": 0.0,
+               "sortPriority": 3
+            }
+         ],
+         "event": {
+            "id": "32755821",
+            "name": "Aston Villa v Fulham",
+            "countryCode": "GB",
+            "timezone": "GMT",
+            "openDate": "2023-11-12T14:00:00.000Z"
+         }
+      },
+      {
+         "marketId": "1.220400334",
+         "marketName": "Match Odds",
+         "totalMatched": 50909.47,
+         "runners": [
+            {
+               "selectionId": 55190,
+               "runnerName": "Chelsea",
+               "handicap": 0.0,
+               "sortPriority": 1
+            },
+            {
+               "selectionId": 47999,
+               "runnerName": "Man City",
+               "handicap": 0.0,
+               "sortPriority": 2
+            },
+            {
+               "selectionId": 58805,
+               "runnerName": "The Draw",
+               "handicap": 0.0,
+               "sortPriority": 3
+            }
+         ],
+         "event": {
+            "id": "32755798",
+            "name": "Chelsea v Man City",
+            "countryCode": "GB",
+            "timezone": "GMT",
+            "openDate": "2023-11-12T16:30:00.000Z"
+         }
+      },
+      {
+         "marketId": "1.220773875",
+         "marketName": "Match Odds",
+         "totalMatched": 160.08,
+         "runners": [
+            {
+               "selectionId": 47999,
+               "runnerName": "Man City",
+               "handicap": 0.0,
+               "sortPriority": 1
+            },
+            {
+               "selectionId": 56323,
+               "runnerName": "Liverpool",
+               "handicap": 0.0,
+               "sortPriority": 2
+            },
+            {
+               "selectionId": 58805,
+               "runnerName": "The Draw",
+               "handicap": 0.0,
+               "sortPriority": 3
+            }
+         ],
+         "event": {
+            "id": "32775338",
+            "name": "Man City v Liverpool",
+            "countryCode": "GB",
+            "timezone": "GMT",
+            "openDate": "2023-11-25T12:30:00.000Z"
+         }
+      },
+      {
+         "marketId": "1.220774606",
+         "marketName": "Match Odds",
+         "totalMatched": 82.92,
+         "runners": [
+            {
+               "selectionId": 48470,
+               "runnerName": "Sheff Utd",
+               "handicap": 0.0,
+               "sortPriority": 1
+            },
+            {
+               "selectionId": 1141,
+               "runnerName": "Bournemouth",
+               "handicap": 0.0,
+               "sortPriority": 2
+            },
+            {
+               "selectionId": 58805,
+               "runnerName": "The Draw",
+               "handicap": 0.0,
+               "sortPriority": 3
+            }
+         ],
+         "event": {
+            "id": "32775356",
+            "name": "Sheff Utd v Bournemouth",
+            "countryCode": "GB",
+            "timezone": "GMT",
+            "openDate": "2023-11-25T15:00:00.000Z"
+         }
+      },
+      {
+         "marketId": "1.220774196",
+         "marketName": "Match Odds",
+         "totalMatched": 308.09,
+         "runners": [
+            {
+               "selectionId": 39674645,
+               "runnerName": "Nottm Forest",
+               "handicap": 0.0,
+               "sortPriority": 1
+            },
+            {
+               "selectionId": 18567,
+               "runnerName": "Brighton",
+               "handicap": 0.0,
+               "sortPriority": 2
+            },
+            {
+               "selectionId": 58805,
+               "runnerName": "The Draw",
+               "handicap": 0.0,
+               "sortPriority": 3
+            }
+         ],
+         "event": {
+            "id": "32775372",
+            "name": "Nottm Forest v Brighton",
+            "countryCode": "GB",
+            "timezone": "GMT",
+            "openDate": "2023-11-25T15:00:00.000Z"
+         }
+      },
+      {
+         "marketId": "1.220775817",
+         "marketName": "Match Odds",
+         "totalMatched": 53.71,
+         "runners": [
+            {
+               "selectionId": 56299,
+               "runnerName": "Burnley",
+               "handicap": 0.0,
+               "sortPriority": 1
+            },
+            {
+               "selectionId": 48756,
+               "runnerName": "West Ham",
+               "handicap": 0.0,
+               "sortPriority": 2
+            },
+            {
+               "selectionId": 58805,
+               "runnerName": "The Draw",
+               "handicap": 0.0,
+               "sortPriority": 3
+            }
+         ],
+         "event": {
+            "id": "32775322",
+            "name": "Burnley v West Ham",
+            "countryCode": "GB",
+            "timezone": "GMT",
+            "openDate": "2023-11-25T15:00:00.000Z"
+         }
+      },
+      {
+         "marketId": "1.220774909",
+         "marketName": "Match Odds",
+         "totalMatched": 300.89,
+         "runners": [
+            {
+               "selectionId": 25422,
+               "runnerName": "Newcastle",
+               "handicap": 0.0,
+               "sortPriority": 1
+            },
+            {
+               "selectionId": 55190,
+               "runnerName": "Chelsea",
+               "handicap": 0.0,
+               "sortPriority": 2
+            },
+            {
+               "selectionId": 58805,
+               "runnerName": "The Draw",
+               "handicap": 0.0,
+               "sortPriority": 3
+            }
+         ],
+         "event": {
+            "id": "32775335",
+            "name": "Newcastle v Chelsea",
+            "countryCode": "GB",
+            "timezone": "GMT",
+            "openDate": "2023-11-25T15:00:00.000Z"
+         }
+      },
+      {
+         "marketId": "1.220775249",
+         "marketName": "Match Odds",
+         "totalMatched": 53.28,
+         "runners": [
+            {
+               "selectionId": 223467,
+               "runnerName": "Luton",
+               "handicap": 0.0,
+               "sortPriority": 1
+            },
+            {
+               "selectionId": 62523,
+               "runnerName": "Crystal Palace",
+               "handicap": 0.0,
+               "sortPriority": 2
+            },
+            {
+               "selectionId": 58805,
+               "runnerName": "The Draw",
+               "handicap": 0.0,
+               "sortPriority": 3
+            }
+         ],
+         "event": {
+            "id": "32775329",
+            "name": "Luton v Crystal Palace",
+            "countryCode": "GB",
+            "timezone": "GMT",
+            "openDate": "2023-11-25T15:00:00.000Z"
+         }
+      },
+      {
+         "marketId": "1.220775394",
+         "marketName": "Match Odds",
+         "totalMatched": 126.24,
+         "runners": [
+            {
+               "selectionId": 78864,
+               "runnerName": "Brentford",
+               "handicap": 0.0,
+               "sortPriority": 1
+            },
+            {
+               "selectionId": 1096,
+               "runnerName": "Arsenal",
+               "handicap": 0.0,
+               "sortPriority": 2
+            },
+            {
+               "selectionId": 58805,
+               "runnerName": "The Draw",
+               "handicap": 0.0,
+               "sortPriority": 3
+            }
+         ],
+         "event": {
+            "id": "32775368",
+            "name": "Brentford v Arsenal",
+            "countryCode": "GB",
+            "timezone": "GMT",
+            "openDate": "2023-11-25T17:30:00.000Z"
+         }
+      },
+      {
+         "marketId": "1.220784716",
+         "marketName": "Match Odds",
+         "totalMatched": 5147.75,
+         "runners": [
+            {
+               "selectionId": 48224,
+               "runnerName": "Tottenham",
+               "handicap": 0.0,
+               "sortPriority": 1
+            },
+            {
+               "selectionId": 63908,
+               "runnerName": "Aston Villa",
+               "handicap": 0.0,
+               "sortPriority": 2
+            },
+            {
+               "selectionId": 58805,
+               "runnerName": "The Draw",
+               "handicap": 0.0,
+               "sortPriority": 3
+            }
+         ],
+         "event": {
+            "id": "32775896",
+            "name": "Tottenham v Aston Villa",
+            "countryCode": "GB",
+            "timezone": "GMT",
+            "openDate": "2023-11-26T14:00:00.000Z"
+         }
+      },
+      {
+         "marketId": "1.220775535",
+         "marketName": "Match Odds",
+         "totalMatched": 2252.59,
+         "runners": [
+            {
+               "selectionId": 56343,
+               "runnerName": "Everton",
+               "handicap": 0.0,
+               "sortPriority": 1
+            },
+            {
+               "selectionId": 48351,
+               "runnerName": "Man Utd",
+               "handicap": 0.0,
+               "sortPriority": 2
+            },
+            {
+               "selectionId": 58805,
+               "runnerName": "The Draw",
+               "handicap": 0.0,
+               "sortPriority": 3
+            }
+         ],
+         "event": {
+            "id": "32775361",
+            "name": "Everton v Man Utd",
+            "countryCode": "GB",
+            "timezone": "GMT",
+            "openDate": "2023-11-26T16:30:00.000Z"
+         }
+      },
+      {
+         "marketId": "1.220775676",
+         "marketName": "Match Odds",
+         "totalMatched": 865.0,
+         "runners": [
+            {
+               "selectionId": 56764,
+               "runnerName": "Fulham",
+               "handicap": 0.0,
+               "sortPriority": 1
+            },
+            {
+               "selectionId": 48044,
+               "runnerName": "Wolves",
+               "handicap": 0.0,
+               "sortPriority": 2
+            },
+            {
+               "selectionId": 58805,
+               "runnerName": "The Draw",
+               "handicap": 0.0,
+               "sortPriority": 3
+            }
+         ],
+         "event": {
+            "id": "32775359",
+            "name": "Fulham v Wolves",
+            "countryCode": "GB",
+            "timezone": "GMT",
+            "openDate": "2023-11-27T20:00:00.000Z"
+         }
+      }
+   ],
+   "id": 1
+}

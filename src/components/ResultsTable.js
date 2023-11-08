@@ -36,6 +36,14 @@ const ResultsTable = ({ data }) => {
       {
         Header: 'Date Time',
         accessor: 'DateTime',
+        Cell: ({ value }) => {
+          // Parse the datetime value (assuming it's in a valid date format)
+          const date = new Date(value);
+          // Format the date and time as "DD/MM h:mma"
+          const formattedDateTime = `${date.getDate()}/${date.getMonth() + 1} ${date.toLocaleString('en-US', { hour: 'numeric', minute: 'numeric', hour12: true })}`;
+
+          return formattedDateTime;
+        },
       },
       {
         Header: 'Home Team',
