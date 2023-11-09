@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useState } from 'react';
 import { useTable, useSortBy } from 'react-table';
 import './ResultsTable.css';
 
@@ -28,7 +28,78 @@ const columnDescriptions = {
   AR: 'Away Team Red Cards',
 };
 
+const ItemCard = ({ data, onClose }) => {
+  // Overlay click handler to close the modal if clicked on the backdrop
+  const handleBackdropClick = (e) => {
+    if (e.target.classList.contains('item-card-backdrop')) {
+      onClose();
+    }
+  };
+  const getFullTimeResult = (result) => {
+    switch (result) {
+      case 'H':
+        return 'Home Win';
+      case 'D':
+        return 'Draw';
+      case 'A':
+        return 'Away Win';
+      default:
+        return result; // Or some default text such as 'Unknown'
+    }
+  };
+  
+  return(
+    <div className="item-card-backdrop" onClick={handleBackdropClick}>
+    <div className="item-card">
+      <div className="item-card-header">
+        <h2>{data['HomeTeam']} vs {data['AwayTeam']}</h2>
+        <h3>{data['Date Time']}</h3>
+        <button className="item-card-close" onClick={onClose}>&times;</button>
+      </div>
+      <div className="item-card-body">
+        <div className="item-card-column">
+          <h3>{data['HomeTeam']}</h3>
+          <p><strong>Full Time Goals</strong> <br></br>{data.FTHG}</p>
+          <p><strong>Half Time Goals</strong> {data.HTHG}</p>
+          <p><strong>Shots</strong><br></br> {data.HS}</p>
+          <p><strong>Shots on Target</strong><br></br> {data.HST}</p>
+          <p><strong>Corners</strong><br></br> {data.HC}</p>
+          <p><strong>Fouls Committed</strong><br></br> {data.HF}</p>
+          <p><strong>Yellow Cards</strong><br></br> {data.HY}</p>
+          <p><strong>Red Cards</strong><br></br> {data.HR}</p>
+        </div>
+        <div className="item-card-column">
+          <h3>{data['AwayTeam']}</h3>
+          <p><strong>Full Time Goals</strong><br></br> {data.FTAG}</p>
+          <p><strong>Half Time Goals</strong><br></br> {data.HTAG}</p>
+          <p><strong>Shots</strong><br></br> {data.AS}</p>
+          <p><strong>Shots on Target</strong><br></br> {data.AST}</p>
+          <p><strong>Corners</strong><br></br> {data.AC}</p>
+          <p><strong>Fouls Committed</strong><br></br> {data.AF}</p>
+          <p><strong>Yellow Cards</strong><br></br> {data.AY}</p>
+          <p><strong>Red Cards</strong><br></br> {data.AR}</p>
+        </div>
+      </div>
+      <div className="item-card-footer">
+        <p><strong>Season:</strong> {data.Season}</p>
+        <p><strong>Full Time Result:</strong> {getFullTimeResult(data.FTR)}</p>
+        <p><strong>Half Time Result:</strong> {getFullTimeResult(data.HTR)}</p>
+        <p><strong>Referee:</strong> {data.Referee}</p>
+      </div>
+    </div>
+  </div>
+  );
+};
 const ResultsTable = ({ data }) => {
+  const [selectedItem, setSelectedItem] = useState(null);
+
+  // Close the item card
+  const closeItemCard = () => setSelectedItem(null);
+
+  // Function to open the item card with the selected row's data
+  const handleRowClick = (row) => {
+    setSelectedItem(row.original);
+  };
   const columns = React.useMemo(
     () => [
       
@@ -131,6 +202,7 @@ const ResultsTable = ({ data }) => {
       },
     ],
     []
+    
   );
 
   const {
@@ -149,44 +221,44 @@ const ResultsTable = ({ data }) => {
 
   return (
     <div>
+      {selectedItem && <ItemCard data={selectedItem} onClose={closeItemCard} />}
+
       <div className="table-container">
-      <table {...getTableProps()} className="styled-table">
-        <thead>
-          {headerGroups.map((headerGroup) => (
-            <tr {...headerGroup.getHeaderGroupProps()}>
-              {headerGroup.headers.map((column) => (
-                <th
-                  {...column.getHeaderProps(column.getSortByToggleProps())}
-                  className={
-                    column.isSorted
-                      ? column.isSortedDesc
-                        ? 'sort-desc'
-                        : 'sort-asc'
-                      : ''
-                  }
-                  title={columnDescriptions[column.Header]}
-                >
-                  {column.render('Header')}
-                </th>
-              ))}
-            </tr>
-          ))}
-        </thead>
-        <tbody {...getTableBodyProps()}>
-          {rows.map((row) => {
-            prepareRow(row);
-            return (
-              <tr {...row.getRowProps()}>
-                {row.cells.map((cell) => {
-                  return (
-                    <td {...cell.getCellProps()}>{cell.render('Cell')}</td>
-                  );
-                })}
+        <table {...getTableProps()} className="styled-table">
+          <thead>
+            {headerGroups.map((headerGroup) => (
+              <tr {...headerGroup.getHeaderGroupProps()}>
+                {headerGroup.headers.map((column) => (
+                  <th
+                    {...column.getHeaderProps(column.getSortByToggleProps())}
+                    className={
+                      column.isSorted
+                        ? column.isSortedDesc
+                          ? 'sort-desc'
+                          : 'sort-asc'
+                        : ''
+                    }
+                    title={columnDescriptions[column.Header] || ''}
+                  >
+                    {column.render('Header')}
+                  </th>
+                ))}
               </tr>
-            );
-          })}
-        </tbody>
-      </table>
+            ))}
+          </thead>
+          <tbody {...getTableBodyProps()}>
+            {rows.map((row) => {
+              prepareRow(row);
+              return (
+                <tr {...row.getRowProps()} onClick={() => handleRowClick(row)}>
+                  {row.cells.map((cell) => (
+                    <td {...cell.getCellProps()}>{cell.render('Cell')}</td>
+                  ))}
+                </tr>
+              );
+            })}
+          </tbody>
+        </table>
       </div>
     </div>
   );

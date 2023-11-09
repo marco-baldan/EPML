@@ -4,7 +4,7 @@
       {
          "marketId": "1.220400616",
          "marketName": "Match Odds",
-         "totalMatched": 101903.65,
+         "totalMatched": 106456.52,
          "runners": [
             {
                "selectionId": 48044,
@@ -44,9 +44,9 @@
                "numberOfWinners": 1,
                "numberOfRunners": 3,
                "numberOfActiveRunners": 3,
-               "lastMatchTime": "2023-11-08T19:32:34.044Z",
-               "totalMatched": 101983.75,
-               "totalAvailable": 33585.91,
+               "lastMatchTime": "2023-11-09T10:56:47.652Z",
+               "totalMatched": 106527.04,
+               "totalAvailable": 27201.01,
                "crossMatching": true,
                "runnersVoidable": false,
                "version": 5569436473,
@@ -55,35 +55,35 @@
                      "selectionId": 48044,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 3.4,
+                     "lastPriceTraded": 3.45,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
+                              "price": 3.45,
+                              "size": 239.61
+                           },
+                           {
                               "price": 3.4,
-                              "size": 1021.17
+                              "size": 398.87
                            },
                            {
                               "price": 3.35,
-                              "size": 845.2
-                           },
-                           {
-                              "price": 3.3,
-                              "size": 1064.47
+                              "size": 186.48
                            }
                         ],
                         "availableToLay": [
                            {
-                              "price": 3.45,
-                              "size": 100.54
-                           },
-                           {
                               "price": 3.5,
-                              "size": 64.71
+                              "size": 349.2
                            },
                            {
                               "price": 3.55,
-                              "size": 103.77
+                              "size": 55.6
+                           },
+                           {
+                              "price": 3.65,
+                              "size": 10.39
                            }
                         ],
                         "tradedVolume": []
@@ -99,29 +99,29 @@
                         "availableToBack": [
                            {
                               "price": 2.2,
-                              "size": 40.78
+                              "size": 217.32
                            },
                            {
                               "price": 2.18,
-                              "size": 450.41
+                              "size": 269.62
                            },
                            {
                               "price": 2.16,
-                              "size": 949.73
+                              "size": 992.83
                            }
                         ],
                         "availableToLay": [
                            {
                               "price": 2.22,
-                              "size": 3886.99
+                              "size": 400.7
                            },
                            {
                               "price": 2.24,
-                              "size": 25.39
+                              "size": 25.3
                            },
                            {
                               "price": 2.26,
-                              "size": 1154.07
+                              "size": 31.64
                            }
                         ],
                         "tradedVolume": []
@@ -131,35 +131,35 @@
                      "selectionId": 58805,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 3.9,
+                     "lastPriceTraded": 3.95,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
                               "price": 3.9,
-                              "size": 172.96
+                              "size": 612.31
                            },
                            {
                               "price": 3.85,
-                              "size": 95.71
+                              "size": 483.39
                            },
                            {
                               "price": 3.8,
-                              "size": 1004.95
+                              "size": 1080.64
                            }
                         ],
                         "availableToLay": [
                            {
                               "price": 3.95,
-                              "size": 614.91
+                              "size": 760.8
                            },
                            {
                               "price": 4.0,
-                              "size": 490.13
+                              "size": 1351.77
                            },
                            {
                               "price": 4.1,
-                              "size": 2017.34
+                              "size": 2440.45
                            }
                         ],
                         "tradedVolume": []
@@ -172,7 +172,7 @@
       {
          "marketId": "1.220400061",
          "marketName": "Match Odds",
-         "totalMatched": 25356.37,
+         "totalMatched": 53038.8,
          "runners": [
             {
                "selectionId": 48351,
@@ -212,9 +212,9 @@
                "numberOfWinners": 1,
                "numberOfRunners": 3,
                "numberOfActiveRunners": 3,
-               "lastMatchTime": "2023-11-08T19:05:03.497Z",
-               "totalMatched": 25365.09,
-               "totalAvailable": 297674.0,
+               "lastMatchTime": "2023-11-09T10:47:32.370Z",
+               "totalMatched": 53012.44,
+               "totalAvailable": 163932.92,
                "crossMatching": true,
                "runnersVoidable": false,
                "version": 5569437425,
@@ -223,35 +223,35 @@
                      "selectionId": 48351,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 1.35,
+                     "lastPriceTraded": 1.36,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
+                              "price": 1.35,
+                              "size": 222.18
+                           },
+                           {
                               "price": 1.34,
-                              "size": 2322.24
+                              "size": 2716.29
                            },
                            {
                               "price": 1.33,
-                              "size": 791.37
-                           },
-                           {
-                              "price": 1.32,
-                              "size": 3099.16
+                              "size": 791.94
                            }
                         ],
                         "availableToLay": [
                            {
-                              "price": 1.35,
-                              "size": 285.6
-                           },
-                           {
                               "price": 1.36,
-                              "size": 902.38
+                              "size": 401.54
                            },
                            {
                               "price": 1.37,
-                              "size": 231.5
+                              "size": 813.39
+                           },
+                           {
+                              "price": 1.38,
+                              "size": 1188.77
                            }
                         ],
                         "tradedVolume": []
@@ -261,35 +261,35 @@
                      "selectionId": 223467,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 10.0,
+                     "lastPriceTraded": 10.5,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
                               "price": 10.0,
-                              "size": 27.81
-                           },
-                           {
-                              "price": 9.8,
-                              "size": 30.51
+                              "size": 61.12
                            },
                            {
                               "price": 9.6,
-                              "size": 48.08
+                              "size": 79.41
+                           },
+                           {
+                              "price": 9.4,
+                              "size": 73.38
                            }
                         ],
                         "availableToLay": [
                            {
                               "price": 10.5,
-                              "size": 48.51
+                              "size": 252.37
                            },
                            {
                               "price": 11.0,
-                              "size": 351.85
+                              "size": 291.01
                            },
                            {
                               "price": 11.5,
-                              "size": 95.1
+                              "size": 416.75
                            }
                         ],
                         "tradedVolume": []
@@ -299,35 +299,35 @@
                      "selectionId": 58805,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 6.4,
+                     "lastPriceTraded": 6.2,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
-                              "price": 6.2,
-                              "size": 167.16
-                           },
-                           {
                               "price": 6.0,
-                              "size": 190.79
+                              "size": 204.13
                            },
                            {
                               "price": 5.9,
-                              "size": 66.81
+                              "size": 61.88
+                           },
+                           {
+                              "price": 5.8,
+                              "size": 53.71
                            }
                         ],
                         "availableToLay": [
                            {
+                              "price": 6.2,
+                              "size": 584.89
+                           },
+                           {
                               "price": 6.4,
-                              "size": 49.61
+                              "size": 1148.21
                            },
                            {
                               "price": 6.6,
-                              "size": 613.37
-                           },
-                           {
-                              "price": 6.8,
-                              "size": 581.07
+                              "size": 1425.0
                            }
                         ],
                         "tradedVolume": []
@@ -340,7 +340,7 @@
       {
          "marketId": "1.220400475",
          "marketName": "Match Odds",
-         "totalMatched": 3503.31,
+         "totalMatched": 8163.09,
          "runners": [
             {
                "selectionId": 62523,
@@ -380,9 +380,9 @@
                "numberOfWinners": 1,
                "numberOfRunners": 3,
                "numberOfActiveRunners": 3,
-               "lastMatchTime": "2023-11-08T19:02:18.093Z",
-               "totalMatched": 3505.27,
-               "totalAvailable": 154016.75,
+               "lastMatchTime": "2023-11-09T10:52:19.765Z",
+               "totalMatched": 8159.59,
+               "totalAvailable": 157583.2,
                "crossMatching": true,
                "runnersVoidable": false,
                "version": 5569436797,
@@ -397,29 +397,29 @@
                         "availableToBack": [
                            {
                               "price": 2.58,
-                              "size": 72.39
-                           },
-                           {
-                              "price": 2.56,
-                              "size": 16.0
+                              "size": 204.94
                            },
                            {
                               "price": 2.54,
-                              "size": 107.68
+                              "size": 100.64
+                           },
+                           {
+                              "price": 2.52,
+                              "size": 197.0
                            }
                         ],
                         "availableToLay": [
                            {
                               "price": 2.6,
-                              "size": 849.08
+                              "size": 860.94
                            },
                            {
                               "price": 2.62,
-                              "size": 168.49
+                              "size": 815.18
                            },
                            {
                               "price": 2.64,
-                              "size": 428.37
+                              "size": 107.94
                            }
                         ],
                         "tradedVolume": []
@@ -435,29 +435,29 @@
                         "availableToBack": [
                            {
                               "price": 3.2,
-                              "size": 67.0
+                              "size": 115.29
                            },
                            {
                               "price": 3.15,
-                              "size": 911.46
+                              "size": 297.66
                            },
                            {
                               "price": 3.1,
-                              "size": 187.46
+                              "size": 321.51
                            }
                         ],
                         "availableToLay": [
                            {
                               "price": 3.25,
-                              "size": 197.47
+                              "size": 101.18
                            },
                            {
                               "price": 3.3,
-                              "size": 142.68
+                              "size": 52.36
                            },
                            {
                               "price": 3.35,
-                              "size": 370.57
+                              "size": 169.05
                            }
                         ],
                         "tradedVolume": []
@@ -467,35 +467,35 @@
                      "selectionId": 58805,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 3.35,
+                     "lastPriceTraded": 3.3,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
-                              "price": 3.3,
-                              "size": 1187.29
-                           },
-                           {
                               "price": 3.25,
-                              "size": 1536.21
+                              "size": 5791.87
                            },
                            {
                               "price": 3.2,
-                              "size": 1269.06
+                              "size": 1262.17
+                           },
+                           {
+                              "price": 3.15,
+                              "size": 975.78
                            }
                         ],
                         "availableToLay": [
                            {
+                              "price": 3.3,
+                              "size": 5222.75
+                           },
+                           {
                               "price": 3.35,
-                              "size": 4794.39
+                              "size": 6676.61
                            },
                            {
                               "price": 3.4,
-                              "size": 3251.04
-                           },
-                           {
-                              "price": 3.45,
-                              "size": 737.53
+                              "size": 1263.73
                            }
                         ],
                         "tradedVolume": []
@@ -508,7 +508,7 @@
       {
          "marketId": "1.220399695",
          "marketName": "Match Odds",
-         "totalMatched": 40093.19,
+         "totalMatched": 61626.11,
          "runners": [
             {
                "selectionId": 1096,
@@ -548,9 +548,9 @@
                "numberOfWinners": 1,
                "numberOfRunners": 3,
                "numberOfActiveRunners": 3,
-               "lastMatchTime": "2023-11-08T19:01:09.344Z",
-               "totalMatched": 40080.42,
-               "totalAvailable": 489724.18,
+               "lastMatchTime": "2023-11-09T10:51:10.516Z",
+               "totalMatched": 61599.73,
+               "totalAvailable": 520671.01,
                "crossMatching": true,
                "runnersVoidable": false,
                "version": 5569437111,
@@ -559,35 +559,35 @@
                      "selectionId": 1096,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 1.2,
+                     "lastPriceTraded": 1.21,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
+                              "price": 1.2,
+                              "size": 11617.9
+                           },
+                           {
                               "price": 1.19,
-                              "size": 11540.68
+                              "size": 43511.12
                            },
                            {
                               "price": 1.18,
-                              "size": 41430.71
-                           },
-                           {
-                              "price": 1.17,
-                              "size": 35407.46
+                              "size": 39710.38
                            }
                         ],
                         "availableToLay": [
                            {
                               "price": 1.21,
-                              "size": 3608.52
+                              "size": 102.96
                            },
                            {
                               "price": 1.22,
-                              "size": 881.07
+                              "size": 4228.77
                            },
                            {
                               "price": 1.23,
-                              "size": 43.25
+                              "size": 2402.0
                            }
                         ],
                         "tradedVolume": []
@@ -597,35 +597,35 @@
                      "selectionId": 56299,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 21.0,
+                     "lastPriceTraded": 18.5,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
-                              "price": 20.0,
-                              "size": 130.56
+                              "price": 17.5,
+                              "size": 94.21
                            },
                            {
-                              "price": 19.0,
-                              "size": 22.87
+                              "price": 17.0,
+                              "size": 17.39
                            },
                            {
-                              "price": 18.5,
-                              "size": 22.46
+                              "price": 16.0,
+                              "size": 18.08
                            }
                         ],
                         "availableToLay": [
                            {
+                              "price": 19.0,
+                              "size": 91.99
+                           },
+                           {
+                              "price": 19.5,
+                              "size": 58.01
+                           },
+                           {
                               "price": 21.0,
-                              "size": 64.44
-                           },
-                           {
-                              "price": 22.0,
-                              "size": 137.27
-                           },
-                           {
-                              "price": 23.0,
-                              "size": 42.32
+                              "size": 229.58
                            }
                         ],
                         "tradedVolume": []
@@ -640,30 +640,30 @@
                      "ex": {
                         "availableToBack": [
                            {
+                              "price": 8.4,
+                              "size": 66.91
+                           },
+                           {
                               "price": 8.2,
-                              "size": 50.0
+                              "size": 438.7
                            },
                            {
                               "price": 8.0,
-                              "size": 82.3
-                           },
-                           {
-                              "price": 7.8,
-                              "size": 507.22
+                              "size": 119.27
                            }
                         ],
                         "availableToLay": [
                            {
                               "price": 8.6,
-                              "size": 99.39
+                              "size": 784.91
                            },
                            {
                               "price": 8.8,
-                              "size": 205.55
+                              "size": 242.47
                            },
                            {
                               "price": 9.0,
-                              "size": 225.45
+                              "size": 253.12
                            }
                         ],
                         "tradedVolume": []
@@ -676,7 +676,7 @@
       {
          "marketId": "1.220399836",
          "marketName": "Match Odds",
-         "totalMatched": 7437.35,
+         "totalMatched": 10268.63,
          "runners": [
             {
                "selectionId": 1141,
@@ -716,9 +716,9 @@
                "numberOfWinners": 1,
                "numberOfRunners": 3,
                "numberOfActiveRunners": 3,
-               "lastMatchTime": "2023-11-08T19:09:16.759Z",
-               "totalMatched": 7442.98,
-               "totalAvailable": 144031.36,
+               "lastMatchTime": "2023-11-09T10:48:13.993Z",
+               "totalMatched": 10270.96,
+               "totalAvailable": 140992.54,
                "crossMatching": true,
                "runnersVoidable": false,
                "version": 5569437741,
@@ -727,35 +727,35 @@
                      "selectionId": 1141,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 5.2,
+                     "lastPriceTraded": 5.1,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
                               "price": 5.1,
-                              "size": 17.46
+                              "size": 190.88
                            },
                            {
                               "price": 5.0,
-                              "size": 103.62
+                              "size": 36.43
                            },
                            {
                               "price": 4.9,
-                              "size": 82.81
+                              "size": 63.67
                            }
                         ],
                         "availableToLay": [
                            {
+                              "price": 5.2,
+                              "size": 250.97
+                           },
+                           {
                               "price": 5.3,
-                              "size": 33.0
+                              "size": 94.1
                            },
                            {
                               "price": 5.4,
-                              "size": 301.81
-                           },
-                           {
-                              "price": 5.5,
-                              "size": 116.04
+                              "size": 139.68
                            }
                         ],
                         "tradedVolume": []
@@ -765,35 +765,35 @@
                      "selectionId": 25422,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 1.74,
+                     "lastPriceTraded": 1.76,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
+                              "price": 1.75,
+                              "size": 1395.15
+                           },
+                           {
                               "price": 1.74,
-                              "size": 243.37
+                              "size": 74.04
                            },
                            {
                               "price": 1.73,
-                              "size": 155.38
-                           },
-                           {
-                              "price": 1.72,
-                              "size": 92.82
+                              "size": 173.06
                            }
                         ],
                         "availableToLay": [
                            {
-                              "price": 1.75,
-                              "size": 22.88
-                           },
-                           {
                               "price": 1.76,
-                              "size": 87.07
+                              "size": 16.71
                            },
                            {
                               "price": 1.77,
-                              "size": 459.29
+                              "size": 183.59
+                           },
+                           {
+                              "price": 1.78,
+                              "size": 288.83
                            }
                         ],
                         "tradedVolume": []
@@ -803,35 +803,35 @@
                      "selectionId": 58805,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 4.3,
+                     "lastPriceTraded": 4.2,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
                               "price": 4.2,
-                              "size": 321.55
+                              "size": 158.3
                            },
                            {
                               "price": 4.1,
-                              "size": 143.18
+                              "size": 346.43
                            },
                            {
                               "price": 4.0,
-                              "size": 254.45
+                              "size": 68.91
                            }
                         ],
                         "availableToLay": [
                            {
                               "price": 4.4,
-                              "size": 249.92
+                              "size": 836.91
                            },
                            {
                               "price": 4.5,
-                              "size": 796.23
+                              "size": 1024.69
                            },
                            {
                               "price": 4.6,
-                              "size": 650.98
+                              "size": 882.62
                            }
                         ],
                         "tradedVolume": []
@@ -844,7 +844,7 @@
       {
          "marketId": "1.220400898",
          "marketName": "Match Odds",
-         "totalMatched": 43064.17,
+         "totalMatched": 47941.1,
          "runners": [
             {
                "selectionId": 56323,
@@ -884,9 +884,9 @@
                "numberOfWinners": 1,
                "numberOfRunners": 3,
                "numberOfActiveRunners": 3,
-               "lastMatchTime": "2023-11-08T19:20:02.479Z",
-               "totalMatched": 43127.9,
-               "totalAvailable": 148014.12,
+               "lastMatchTime": "2023-11-09T10:53:53.679Z",
+               "totalMatched": 47994.14,
+               "totalAvailable": 137103.35,
                "crossMatching": true,
                "runnersVoidable": false,
                "version": 5569439007,
@@ -895,35 +895,35 @@
                      "selectionId": 56323,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 1.41,
+                     "lastPriceTraded": 1.43,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
-                              "price": 1.4,
-                              "size": 215.57
+                              "price": 1.43,
+                              "size": 25.05
                            },
                            {
-                              "price": 1.39,
-                              "size": 737.22
+                              "price": 1.42,
+                              "size": 100.47
                            },
                            {
-                              "price": 1.38,
-                              "size": 444.35
+                              "price": 1.41,
+                              "size": 84.17
                            }
                         ],
                         "availableToLay": [
                            {
-                              "price": 1.41,
-                              "size": 532.95
+                              "price": 1.44,
+                              "size": 27.62
                            },
                            {
-                              "price": 1.42,
-                              "size": 923.2
+                              "price": 1.45,
+                              "size": 139.94
                            },
                            {
-                              "price": 1.43,
-                              "size": 467.65
+                              "price": 1.46,
+                              "size": 371.01
                            }
                         ],
                         "tradedVolume": []
@@ -933,35 +933,35 @@
                      "selectionId": 78864,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 8.8,
+                     "lastPriceTraded": 8.0,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
-                              "price": 8.6,
-                              "size": 112.25
+                              "price": 7.8,
+                              "size": 106.66
                            },
                            {
-                              "price": 8.2,
-                              "size": 102.78
+                              "price": 7.6,
+                              "size": 123.05
                            },
                            {
-                              "price": 8.0,
-                              "size": 43.77
+                              "price": 7.4,
+                              "size": 72.25
                            }
                         ],
                         "availableToLay": [
                            {
+                              "price": 8.4,
+                              "size": 15.0
+                           },
+                           {
+                              "price": 8.6,
+                              "size": 24.58
+                           },
+                           {
                               "price": 8.8,
-                              "size": 107.7
-                           },
-                           {
-                              "price": 9.0,
-                              "size": 49.86
-                           },
-                           {
-                              "price": 9.2,
-                              "size": 23.46
+                              "size": 100.47
                            }
                         ],
                         "tradedVolume": []
@@ -971,35 +971,35 @@
                      "selectionId": 58805,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 5.9,
+                     "lastPriceTraded": 5.5,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
-                              "price": 5.8,
-                              "size": 27.0
+                              "price": 5.4,
+                              "size": 76.3
                            },
                            {
-                              "price": 5.7,
-                              "size": 45.87
+                              "price": 5.3,
+                              "size": 90.8
                            },
                            {
-                              "price": 5.6,
-                              "size": 183.1
+                              "price": 5.2,
+                              "size": 10.25
                            }
                         ],
                         "availableToLay": [
                            {
-                              "price": 5.9,
-                              "size": 186.71
+                              "price": 5.6,
+                              "size": 17.0
                            },
                            {
-                              "price": 6.0,
-                              "size": 430.55
+                              "price": 5.7,
+                              "size": 86.96
                            },
                            {
-                              "price": 6.2,
-                              "size": 1067.33
+                              "price": 5.8,
+                              "size": 338.59
                            }
                         ],
                         "tradedVolume": []
@@ -1012,7 +1012,7 @@
       {
          "marketId": "1.220400757",
          "marketName": "Match Odds",
-         "totalMatched": 1392.13,
+         "totalMatched": 1754.18,
          "runners": [
             {
                "selectionId": 48756,
@@ -1052,9 +1052,9 @@
                "numberOfWinners": 1,
                "numberOfRunners": 3,
                "numberOfActiveRunners": 3,
-               "lastMatchTime": "2023-11-08T19:06:10.856Z",
-               "totalMatched": 1391.36,
-               "totalAvailable": 138697.91,
+               "lastMatchTime": "2023-11-09T10:00:56.964Z",
+               "totalMatched": 1752.82,
+               "totalAvailable": 138016.21,
                "crossMatching": true,
                "runnersVoidable": false,
                "version": 5569438379,
@@ -1063,35 +1063,35 @@
                      "selectionId": 48756,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 1.94,
+                     "lastPriceTraded": 1.93,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
                               "price": 1.93,
-                              "size": 93.4
+                              "size": 277.36
                            },
                            {
                               "price": 1.92,
-                              "size": 63.27
+                              "size": 289.94
                            },
                            {
                               "price": 1.91,
-                              "size": 347.51
+                              "size": 327.36
                            }
                         ],
                         "availableToLay": [
                            {
-                              "price": 1.94,
-                              "size": 15.83
-                           },
-                           {
                               "price": 1.95,
-                              "size": 90.28
+                              "size": 68.66
                            },
                            {
-                              "price": 1.96,
-                              "size": 121.44
+                              "price": 1.97,
+                              "size": 38.96
+                           },
+                           {
+                              "price": 1.98,
+                              "size": 272.6
                            }
                         ],
                         "tradedVolume": []
@@ -1101,35 +1101,35 @@
                      "selectionId": 39674645,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 4.3,
+                     "lastPriceTraded": 4.5,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
                               "price": 4.3,
-                              "size": 112.21
+                              "size": 50.9
                            },
                            {
                               "price": 4.2,
-                              "size": 88.93
+                              "size": 78.29
                            },
                            {
                               "price": 4.1,
-                              "size": 282.89
+                              "size": 217.27
                            }
                         ],
                         "availableToLay": [
                            {
                               "price": 4.5,
-                              "size": 202.17
+                              "size": 106.77
                            },
                            {
                               "price": 4.6,
-                              "size": 46.26
+                              "size": 165.08
                            },
                            {
                               "price": 4.7,
-                              "size": 336.34
+                              "size": 302.73
                            }
                         ],
                         "tradedVolume": []
@@ -1139,35 +1139,35 @@
                      "selectionId": 58805,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 3.95,
+                     "lastPriceTraded": 3.85,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
-                              "price": 3.9,
-                              "size": 40.17
-                           },
-                           {
                               "price": 3.85,
-                              "size": 20.19
+                              "size": 12.25
                            },
                            {
                               "price": 3.8,
-                              "size": 261.57
+                              "size": 259.2
+                           },
+                           {
+                              "price": 3.75,
+                              "size": 108.49
                            }
                         ],
                         "availableToLay": [
                            {
                               "price": 4.0,
-                              "size": 45.07
+                              "size": 36.04
                            },
                            {
                               "price": 4.1,
-                              "size": 344.57
+                              "size": 1597.18
                            },
                            {
                               "price": 4.2,
-                              "size": 1466.8
+                              "size": 1628.12
                            }
                         ],
                         "tradedVolume": []
@@ -1180,7 +1180,7 @@
       {
          "marketId": "1.220401039",
          "marketName": "Match Odds",
-         "totalMatched": 25694.99,
+         "totalMatched": 26433.48,
          "runners": [
             {
                "selectionId": 18567,
@@ -1220,9 +1220,9 @@
                "numberOfWinners": 1,
                "numberOfRunners": 3,
                "numberOfActiveRunners": 3,
-               "lastMatchTime": "2023-11-08T19:25:44.554Z",
-               "totalMatched": 25735.02,
-               "totalAvailable": 263045.26,
+               "lastMatchTime": "2023-11-09T10:02:08.639Z",
+               "totalMatched": 26463.02,
+               "totalAvailable": 252810.42,
                "crossMatching": true,
                "runnersVoidable": false,
                "version": 5569438693,
@@ -1231,35 +1231,35 @@
                      "selectionId": 18567,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 1.26,
+                     "lastPriceTraded": 1.25,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
-                              "price": 1.26,
-                              "size": 34.33
-                           },
-                           {
                               "price": 1.25,
-                              "size": 4693.76
+                              "size": 3893.36
                            },
                            {
                               "price": 1.24,
-                              "size": 5714.79
+                              "size": 2157.62
+                           },
+                           {
+                              "price": 1.23,
+                              "size": 14653.67
                            }
                         ],
                         "availableToLay": [
                            {
                               "price": 1.27,
-                              "size": 423.49
+                              "size": 908.23
                            },
                            {
                               "price": 1.28,
-                              "size": 570.35
+                              "size": 611.07
                            },
                            {
                               "price": 1.29,
-                              "size": 607.43
+                              "size": 251.73
                            }
                         ],
                         "tradedVolume": []
@@ -1275,29 +1275,29 @@
                         "availableToBack": [
                            {
                               "price": 14.0,
-                              "size": 34.43
+                              "size": 80.04
                            },
                            {
                               "price": 13.5,
-                              "size": 21.0
+                              "size": 30.02
                            },
                            {
-                              "price": 13.0,
-                              "size": 16.18
+                              "price": 12.5,
+                              "size": 31.77
                            }
                         ],
                         "availableToLay": [
                            {
                               "price": 14.5,
-                              "size": 67.88
+                              "size": 86.33
                            },
                            {
                               "price": 15.0,
-                              "size": 288.32
+                              "size": 286.82
                            },
                            {
                               "price": 15.5,
-                              "size": 199.27
+                              "size": 171.03
                            }
                         ],
                         "tradedVolume": []
@@ -1307,35 +1307,35 @@
                      "selectionId": 58805,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 7.4,
+                     "lastPriceTraded": 7.2,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
                               "price": 7.2,
-                              "size": 219.24
+                              "size": 189.18
                            },
                            {
                               "price": 7.0,
-                              "size": 54.03
+                              "size": 27.08
                            },
                            {
                               "price": 6.8,
-                              "size": 59.84
+                              "size": 51.73
                            }
                         ],
                         "availableToLay": [
                            {
-                              "price": 7.4,
-                              "size": 104.62
-                           },
-                           {
                               "price": 7.6,
-                              "size": 501.1
+                              "size": 495.37
                            },
                            {
                               "price": 7.8,
-                              "size": 569.25
+                              "size": 541.64
+                           },
+                           {
+                              "price": 8.0,
+                              "size": 512.77
                            }
                         ],
                         "tradedVolume": []
@@ -1348,7 +1348,7 @@
       {
          "marketId": "1.220399511",
          "marketName": "Match Odds",
-         "totalMatched": 1997.73,
+         "totalMatched": 3521.21,
          "runners": [
             {
                "selectionId": 63908,
@@ -1388,9 +1388,9 @@
                "numberOfWinners": 1,
                "numberOfRunners": 3,
                "numberOfActiveRunners": 3,
-               "lastMatchTime": "2023-11-08T19:16:59.766Z",
-               "totalMatched": 1997.34,
-               "totalAvailable": 143507.88,
+               "lastMatchTime": "2023-11-09T10:56:47.723Z",
+               "totalMatched": 3536.69,
+               "totalAvailable": 138535.03,
                "crossMatching": true,
                "runnersVoidable": false,
                "version": 5569438055,
@@ -1405,29 +1405,29 @@
                         "availableToBack": [
                            {
                               "price": 1.64,
-                              "size": 2088.71
+                              "size": 1427.46
                            },
                            {
                               "price": 1.63,
-                              "size": 47.96
+                              "size": 14.0
                            },
                            {
                               "price": 1.62,
-                              "size": 123.47
+                              "size": 152.41
                            }
                         ],
                         "availableToLay": [
                            {
                               "price": 1.66,
-                              "size": 95.0
+                              "size": 131.38
                            },
                            {
                               "price": 1.67,
-                              "size": 362.26
+                              "size": 29.0
                            },
                            {
                               "price": 1.68,
-                              "size": 106.89
+                              "size": 256.73
                            }
                         ],
                         "tradedVolume": []
@@ -1437,35 +1437,35 @@
                      "selectionId": 56764,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 5.8,
+                     "lastPriceTraded": 5.9,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
                               "price": 5.8,
-                              "size": 71.89
+                              "size": 74.75
                            },
                            {
                               "price": 5.7,
-                              "size": 44.28
+                              "size": 69.28
                            },
                            {
-                              "price": 5.6,
-                              "size": 222.67
+                              "price": 1.06,
+                              "size": 4354.0
                            }
                         ],
                         "availableToLay": [
                            {
                               "price": 6.2,
-                              "size": 106.31
+                              "size": 102.67
                            },
                            {
                               "price": 6.4,
-                              "size": 378.75
+                              "size": 190.74
                            },
                            {
                               "price": 6.6,
-                              "size": 87.49
+                              "size": 50.5
                            }
                         ],
                         "tradedVolume": []
@@ -1475,35 +1475,35 @@
                      "selectionId": 58805,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 4.4,
+                     "lastPriceTraded": 4.5,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
+                              "price": 4.4,
+                              "size": 61.06
+                           },
+                           {
                               "price": 4.3,
-                              "size": 301.31
+                              "size": 113.19
                            },
                            {
                               "price": 4.2,
-                              "size": 62.23
-                           },
-                           {
-                              "price": 4.1,
-                              "size": 159.48
+                              "size": 47.1
                            }
                         ],
                         "availableToLay": [
                            {
                               "price": 4.6,
-                              "size": 373.63
+                              "size": 425.95
                            },
                            {
                               "price": 4.7,
-                              "size": 691.63
+                              "size": 1568.89
                            },
                            {
                               "price": 4.8,
-                              "size": 805.82
+                              "size": 575.77
                            }
                         ],
                         "tradedVolume": []
@@ -1516,7 +1516,7 @@
       {
          "marketId": "1.220400334",
          "marketName": "Match Odds",
-         "totalMatched": 50909.47,
+         "totalMatched": 57713.12,
          "runners": [
             {
                "selectionId": 55190,
@@ -1556,9 +1556,9 @@
                "numberOfWinners": 1,
                "numberOfRunners": 3,
                "numberOfActiveRunners": 3,
-               "lastMatchTime": "2023-11-08T19:03:13.324Z",
-               "totalMatched": 50937.51,
-               "totalAvailable": 158471.84,
+               "lastMatchTime": "2023-11-09T10:53:54.018Z",
+               "totalMatched": 57726.3,
+               "totalAvailable": 151826.74,
                "crossMatching": true,
                "runnersVoidable": false,
                "version": 5569439331,
@@ -1567,35 +1567,35 @@
                      "selectionId": 55190,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 4.9,
+                     "lastPriceTraded": 5.2,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
+                              "price": 5.0,
+                              "size": 115.71
+                           },
+                           {
                               "price": 4.9,
-                              "size": 149.71
+                              "size": 93.76
                            },
                            {
                               "price": 4.8,
-                              "size": 93.18
-                           },
-                           {
-                              "price": 4.7,
-                              "size": 345.0
+                              "size": 77.3
                            }
                         ],
                         "availableToLay": [
                            {
-                              "price": 5.0,
-                              "size": 135.24
-                           },
-                           {
-                              "price": 5.1,
-                              "size": 460.1
-                           },
-                           {
                               "price": 5.2,
-                              "size": 405.31
+                              "size": 178.33
+                           },
+                           {
+                              "price": 5.3,
+                              "size": 109.02
+                           },
+                           {
+                              "price": 5.4,
+                              "size": 189.86
                            }
                         ],
                         "tradedVolume": []
@@ -1605,35 +1605,35 @@
                      "selectionId": 47999,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 1.84,
+                     "lastPriceTraded": 1.82,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
-                              "price": 1.84,
-                              "size": 27.0
+                              "price": 1.81,
+                              "size": 342.62
                            },
                            {
-                              "price": 1.83,
-                              "size": 630.48
+                              "price": 1.8,
+                              "size": 839.22
                            },
                            {
-                              "price": 1.82,
-                              "size": 636.88
+                              "price": 1.79,
+                              "size": 101.05
                            }
                         ],
                         "availableToLay": [
                            {
+                              "price": 1.83,
+                              "size": 267.2
+                           },
+                           {
+                              "price": 1.84,
+                              "size": 151.0
+                           },
+                           {
                               "price": 1.85,
-                              "size": 78.0
-                           },
-                           {
-                              "price": 1.86,
-                              "size": 655.39
-                           },
-                           {
-                              "price": 1.87,
-                              "size": 475.68
+                              "size": 134.51
                            }
                         ],
                         "tradedVolume": []
@@ -1643,35 +1643,35 @@
                      "selectionId": 58805,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 3.9,
+                     "lastPriceTraded": 3.85,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
-                              "price": 3.85,
-                              "size": 996.68
-                           },
-                           {
                               "price": 3.8,
-                              "size": 296.61
+                              "size": 866.83
                            },
                            {
                               "price": 3.75,
-                              "size": 816.58
+                              "size": 665.85
+                           },
+                           {
+                              "price": 3.7,
+                              "size": 736.3
                            }
                         ],
                         "availableToLay": [
                            {
+                              "price": 3.9,
+                              "size": 722.99
+                           },
+                           {
                               "price": 3.95,
-                              "size": 254.87
+                              "size": 1148.41
                            },
                            {
                               "price": 4.0,
-                              "size": 763.58
-                           },
-                           {
-                              "price": 4.1,
-                              "size": 1437.2
+                              "size": 767.03
                            }
                         ],
                         "tradedVolume": []
@@ -1724,9 +1724,9 @@
                "numberOfWinners": 1,
                "numberOfRunners": 3,
                "numberOfActiveRunners": 3,
-               "lastMatchTime": "2023-11-08T19:00:21.443Z",
-               "totalMatched": 160.07,
-               "totalAvailable": 130211.7,
+               "lastMatchTime": "2023-11-09T10:05:11.388Z",
+               "totalMatched": 160.06,
+               "totalAvailable": 130099.74,
                "crossMatching": true,
                "runnersVoidable": false,
                "version": 5569439645,
@@ -1740,16 +1740,16 @@
                      "ex": {
                         "availableToBack": [
                            {
-                              "price": 1.67,
-                              "size": 92.47
+                              "price": 1.66,
+                              "size": 169.28
                            },
                            {
-                              "price": 1.62,
-                              "size": 135.77
+                              "price": 1.64,
+                              "size": 31.28
                            },
                            {
-                              "price": 1.61,
-                              "size": 78.58
+                              "price": 1.63,
+                              "size": 48.57
                            }
                         ],
                         "availableToLay": [
@@ -1758,12 +1758,12 @@
                               "size": 56.91
                            },
                            {
-                              "price": 1.78,
-                              "size": 80.52
+                              "price": 1.82,
+                              "size": 106.58
                            },
                            {
-                              "price": 1.84,
-                              "size": 16.01
+                              "price": 1.87,
+                              "size": 19.88
                            }
                         ],
                         "tradedVolume": []
@@ -1779,29 +1779,29 @@
                         "availableToBack": [
                            {
                               "price": 4.3,
-                              "size": 23.14
+                              "size": 54.68
                            },
                            {
-                              "price": 4.2,
-                              "size": 78.19
+                              "price": 1.06,
+                              "size": 4356.83
                            },
                            {
-                              "price": 4.1,
-                              "size": 30.67
+                              "price": 1.05,
+                              "size": 5217.85
                            }
                         ],
                         "availableToLay": [
                            {
-                              "price": 5.4,
-                              "size": 74.63
+                              "price": 5.1,
+                              "size": 44.61
                            },
                            {
-                              "price": 5.5,
-                              "size": 32.75
+                              "price": 5.4,
+                              "size": 52.01
                            },
                            {
                               "price": 5.8,
-                              "size": 36.5
+                              "size": 13.05
                            }
                         ],
                         "tradedVolume": []
@@ -1817,29 +1817,25 @@
                         "availableToBack": [
                            {
                               "price": 4.4,
-                              "size": 49.01
+                              "size": 39.1
                            },
                            {
-                              "price": 4.1,
-                              "size": 28.23
+                              "price": 4.3,
+                              "size": 26.24
                            },
                            {
-                              "price": 3.95,
-                              "size": 36.28
+                              "price": 3.9,
+                              "size": 32.75
                            }
                         ],
                         "availableToLay": [
                            {
-                              "price": 5.1,
-                              "size": 43.91
-                           },
-                           {
-                              "price": 6.2,
-                              "size": 28.98
+                              "price": 5.3,
+                              "size": 69.12
                            },
                            {
                               "price": 480.0,
-                              "size": 9.3
+                              "size": 5.6
                            }
                         ],
                         "tradedVolume": []
@@ -1892,9 +1888,9 @@
                "numberOfWinners": 1,
                "numberOfRunners": 3,
                "numberOfActiveRunners": 3,
-               "lastMatchTime": "2023-11-08T19:01:23.680Z",
+               "lastMatchTime": "2023-11-09T10:05:10.066Z",
                "totalMatched": 82.93,
-               "totalAvailable": 130286.27,
+               "totalAvailable": 130004.57,
                "crossMatching": true,
                "runnersVoidable": false,
                "version": 5569439931,
@@ -1909,29 +1905,29 @@
                         "availableToBack": [
                            {
                               "price": 2.94,
-                              "size": 108.05
+                              "size": 111.82
                            },
                            {
                               "price": 2.92,
-                              "size": 10.94
+                              "size": 70.01
                            },
                            {
-                              "price": 2.86,
-                              "size": 18.29
+                              "price": 2.9,
+                              "size": 30.31
                            }
                         ],
                         "availableToLay": [
                            {
+                              "price": 3.45,
+                              "size": 50.38
+                           },
+                           {
                               "price": 3.65,
-                              "size": 112.99
+                              "size": 22.86
                            },
                            {
                               "price": 3.7,
-                              "size": 16.79
-                           },
-                           {
-                              "price": 3.8,
-                              "size": 13.65
+                              "size": 23.71
                            }
                         ],
                         "tradedVolume": []
@@ -1947,29 +1943,29 @@
                         "availableToBack": [
                            {
                               "price": 2.28,
-                              "size": 25.53
+                              "size": 25.54
                            },
                            {
-                              "price": 2.24,
-                              "size": 72.52
+                              "price": 2.22,
+                              "size": 88.9
                            },
                            {
-                              "price": 2.16,
-                              "size": 16.57
+                              "price": 2.18,
+                              "size": 17.75
                            }
                         ],
                         "availableToLay": [
                            {
-                              "price": 2.54,
-                              "size": 52.27
+                              "price": 2.46,
+                              "size": 42.25
+                           },
+                           {
+                              "price": 2.52,
+                              "size": 54.93
                            },
                            {
                               "price": 2.58,
-                              "size": 160.06
-                           },
-                           {
-                              "price": 2.6,
-                              "size": 18.3
+                              "size": 28.28
                            }
                         ],
                         "tradedVolume": []
@@ -1984,30 +1980,30 @@
                      "ex": {
                         "availableToBack": [
                            {
-                              "price": 3.3,
-                              "size": 90.78
+                              "price": 3.35,
+                              "size": 88.87
                            },
                            {
-                              "price": 2.98,
-                              "size": 13.49
+                              "price": 3.25,
+                              "size": 37.7
                            },
                            {
-                              "price": 1.01,
-                              "size": 3.0
+                              "price": 3.15,
+                              "size": 15.64
                            }
                         ],
                         "availableToLay": [
                            {
-                              "price": 4.2,
-                              "size": 91.13
+                              "price": 4.0,
+                              "size": 53.15
                            },
                            {
                               "price": 4.6,
                               "size": 16.73
                            },
                            {
-                              "price": 4.7,
-                              "size": 34.56
+                              "price": 480.0,
+                              "size": 5.6
                            }
                         ],
                         "tradedVolume": []
@@ -2020,7 +2016,7 @@
       {
          "marketId": "1.220774196",
          "marketName": "Match Odds",
-         "totalMatched": 308.09,
+         "totalMatched": 310.32,
          "runners": [
             {
                "selectionId": 39674645,
@@ -2060,9 +2056,9 @@
                "numberOfWinners": 1,
                "numberOfRunners": 3,
                "numberOfActiveRunners": 3,
-               "lastMatchTime": "2023-11-08T19:21:41.512Z",
-               "totalMatched": 308.54,
-               "totalAvailable": 131394.15,
+               "lastMatchTime": "2023-11-09T10:05:14.885Z",
+               "totalMatched": 310.59,
+               "totalAvailable": 131173.47,
                "crossMatching": true,
                "runnersVoidable": false,
                "version": 5569440213,
@@ -2071,27 +2067,27 @@
                      "selectionId": 39674645,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 3.55,
+                     "lastPriceTraded": 3.6,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
-                              "price": 3.25,
-                              "size": 39.4
-                           },
-                           {
-                              "price": 3.2,
-                              "size": 77.88
-                           },
-                           {
                               "price": 3.15,
-                              "size": 15.87
+                              "size": 150.37
+                           },
+                           {
+                              "price": 3.05,
+                              "size": 14.39
+                           },
+                           {
+                              "price": 1.06,
+                              "size": 4357.27
                            }
                         ],
                         "availableToLay": [
                            {
                               "price": 3.65,
-                              "size": 94.95
+                              "size": 101.23
                            },
                            {
                               "price": 3.7,
@@ -2099,7 +2095,7 @@
                            },
                            {
                               "price": 3.8,
-                              "size": 11.51
+                              "size": 16.14
                            }
                         ],
                         "tradedVolume": []
@@ -2114,16 +2110,16 @@
                      "ex": {
                         "availableToBack": [
                            {
+                              "price": 2.08,
+                              "size": 77.81
+                           },
+                           {
                               "price": 2.06,
-                              "size": 341.82
+                              "size": 259.41
                            },
                            {
                               "price": 2.04,
                               "size": 30.9
-                           },
-                           {
-                              "price": 2.02,
-                              "size": 26.69
                            }
                         ],
                         "availableToLay": [
@@ -2132,12 +2128,12 @@
                               "size": 906.95
                            },
                            {
-                              "price": 2.24,
-                              "size": 63.48
+                              "price": 2.26,
+                              "size": 78.98
                            },
                            {
                               "price": 2.28,
-                              "size": 11.07
+                              "size": 20.57
                            }
                         ],
                         "tradedVolume": []
@@ -2153,29 +2149,29 @@
                         "availableToBack": [
                            {
                               "price": 3.9,
-                              "size": 44.46
+                              "size": 58.03
                            },
                            {
                               "price": 3.85,
-                              "size": 91.47
+                              "size": 88.1
                            },
                            {
-                              "price": 3.65,
-                              "size": 16.42
+                              "price": 3.7,
+                              "size": 16.49
                            }
                         ],
                         "availableToLay": [
                            {
-                              "price": 4.5,
-                              "size": 56.38
+                              "price": 4.6,
+                              "size": 54.41
                            },
                            {
-                              "price": 4.9,
-                              "size": 29.24
+                              "price": 5.0,
+                              "size": 36.49
                            },
                            {
-                              "price": 5.4,
-                              "size": 10.49
+                              "price": 5.1,
+                              "size": 12.17
                            }
                         ],
                         "tradedVolume": []
@@ -2228,9 +2224,9 @@
                "numberOfWinners": 1,
                "numberOfRunners": 3,
                "numberOfActiveRunners": 3,
-               "lastMatchTime": "2023-11-08T19:02:11.120Z",
-               "totalMatched": 53.78,
-               "totalAvailable": 130210.32,
+               "lastMatchTime": "2023-11-09T10:05:07.640Z",
+               "totalMatched": 53.74,
+               "totalAvailable": 129932.18,
                "crossMatching": true,
                "runnersVoidable": false,
                "version": 5569441059,
@@ -2243,30 +2239,30 @@
                      "ex": {
                         "availableToBack": [
                            {
+                              "price": 2.96,
+                              "size": 12.36
+                           },
+                           {
+                              "price": 2.94,
+                              "size": 123.36
+                           },
+                           {
                               "price": 2.92,
-                              "size": 114.21
-                           },
-                           {
-                              "price": 2.86,
-                              "size": 24.15
-                           },
-                           {
-                              "price": 2.84,
-                              "size": 22.26
+                              "size": 10.54
                            }
                         ],
                         "availableToLay": [
                            {
-                              "price": 3.45,
-                              "size": 58.3
+                              "price": 3.55,
+                              "size": 89.9
+                           },
+                           {
+                              "price": 3.6,
+                              "size": 27.57
                            },
                            {
                               "price": 3.65,
-                              "size": 30.39
-                           },
-                           {
-                              "price": 3.7,
-                              "size": 22.43
+                              "size": 38.33
                            }
                         ],
                         "tradedVolume": []
@@ -2282,29 +2278,29 @@
                         "availableToBack": [
                            {
                               "price": 2.24,
-                              "size": 77.27
+                              "size": 79.52
+                           },
+                           {
+                              "price": 2.16,
+                              "size": 20.93
                            },
                            {
                               "price": 2.14,
-                              "size": 21.37
-                           },
-                           {
-                              "price": 2.12,
-                              "size": 19.8
+                              "size": 31.75
                            }
                         ],
                         "availableToLay": [
                            {
                               "price": 2.38,
-                              "size": 15.36
+                              "size": 15.37
                            },
                            {
                               "price": 2.4,
-                              "size": 18.75
+                              "size": 18.76
                            },
                            {
-                              "price": 2.44,
-                              "size": 58.33
+                              "price": 2.48,
+                              "size": 77.36
                            }
                         ],
                         "tradedVolume": []
@@ -2319,30 +2315,30 @@
                      "ex": {
                         "availableToBack": [
                            {
-                              "price": 3.45,
-                              "size": 85.41
+                              "price": 3.6,
+                              "size": 34.34
                            },
                            {
-                              "price": 3.4,
-                              "size": 27.99
+                              "price": 3.35,
+                              "size": 14.92
                            },
                            {
                               "price": 3.3,
-                              "size": 36.23
+                              "size": 13.64
                            }
                         ],
                         "availableToLay": [
                            {
-                              "price": 4.3,
-                              "size": 99.95
+                              "price": 4.1,
+                              "size": 65.47
                            },
                            {
-                              "price": 4.8,
-                              "size": 40.06
+                              "price": 4.7,
+                              "size": 41.9
                            },
                            {
                               "price": 480.0,
-                              "size": 10.88
+                              "size": 6.5
                            }
                         ],
                         "tradedVolume": []
@@ -2395,9 +2391,9 @@
                "numberOfWinners": 1,
                "numberOfRunners": 3,
                "numberOfActiveRunners": 3,
-               "lastMatchTime": "2023-11-08T19:00:24.037Z",
-               "totalMatched": 301.26,
-               "totalAvailable": 130439.35,
+               "lastMatchTime": "2023-11-09T10:05:07.967Z",
+               "totalMatched": 301.1,
+               "totalAvailable": 130225.3,
                "crossMatching": true,
                "runnersVoidable": false,
                "version": 5569440495,
@@ -2411,30 +2407,30 @@
                      "ex": {
                         "availableToBack": [
                            {
-                              "price": 2.16,
-                              "size": 94.03
-                           },
-                           {
-                              "price": 2.12,
-                              "size": 114.66
+                              "price": 2.14,
+                              "size": 72.32
                            },
                            {
                               "price": 2.1,
-                              "size": 19.85
+                              "size": 24.31
+                           },
+                           {
+                              "price": 2.08,
+                              "size": 97.51
                            }
                         ],
                         "availableToLay": [
                            {
-                              "price": 2.36,
-                              "size": 63.02
+                              "price": 2.3,
+                              "size": 51.95
                            },
                            {
-                              "price": 2.44,
-                              "size": 19.58
+                              "price": 2.38,
+                              "size": 13.99
                            },
                            {
-                              "price": 2.46,
-                              "size": 23.88
+                              "price": 2.4,
+                              "size": 26.79
                            }
                         ],
                         "tradedVolume": []
@@ -2449,30 +2445,30 @@
                      "ex": {
                         "availableToBack": [
                            {
+                              "price": 3.3,
+                              "size": 61.18
+                           },
+                           {
                               "price": 3.2,
-                              "size": 66.52
+                              "size": 28.93
                            },
                            {
                               "price": 3.15,
-                              "size": 11.72
-                           },
-                           {
-                              "price": 3.1,
-                              "size": 22.48
+                              "size": 37.93
                            }
                         ],
                         "availableToLay": [
-                           {
-                              "price": 3.6,
-                              "size": 38.01
-                           },
                            {
                               "price": 3.65,
                               "size": 12.83
                            },
                            {
                               "price": 3.7,
-                              "size": 53.67
+                              "size": 53.7
+                           },
+                           {
+                              "price": 3.8,
+                              "size": 53.12
                            }
                         ],
                         "tradedVolume": []
@@ -2488,29 +2484,29 @@
                         "availableToBack": [
                            {
                               "price": 3.45,
-                              "size": 74.41
+                              "size": 70.21
+                           },
+                           {
+                              "price": 3.4,
+                              "size": 17.78
                            },
                            {
                               "price": 3.35,
-                              "size": 44.85
-                           },
-                           {
-                              "price": 3.15,
-                              "size": 16.93
+                              "size": 21.68
                            }
                         ],
                         "availableToLay": [
                            {
-                              "price": 3.95,
-                              "size": 43.5
+                              "price": 4.0,
+                              "size": 57.71
                            },
                            {
-                              "price": 4.5,
-                              "size": 51.36
+                              "price": 4.4,
+                              "size": 39.17
                            },
                            {
-                              "price": 480.0,
-                              "size": 7.72
+                              "price": 4.8,
+                              "size": 12.27
                            }
                         ],
                         "tradedVolume": []
@@ -2523,7 +2519,7 @@
       {
          "marketId": "1.220775249",
          "marketName": "Match Odds",
-         "totalMatched": 53.28,
+         "totalMatched": 83.28,
          "runners": [
             {
                "selectionId": 223467,
@@ -2563,9 +2559,9 @@
                "numberOfWinners": 1,
                "numberOfRunners": 3,
                "numberOfActiveRunners": 3,
-               "lastMatchTime": "2023-11-08T19:05:55.257Z",
-               "totalMatched": 53.27,
-               "totalAvailable": 130104.8,
+               "lastMatchTime": "2023-11-09T10:44:42.025Z",
+               "totalMatched": 83.27,
+               "totalAvailable": 129688.62,
                "crossMatching": true,
                "runnersVoidable": false,
                "version": 5569440777,
@@ -2574,35 +2570,35 @@
                      "selectionId": 223467,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 3.65,
+                     "lastPriceTraded": 3.6,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
-                              "price": 3.65,
-                              "size": 73.14
-                           },
-                           {
-                              "price": 3.55,
-                              "size": 19.9
+                              "price": 3.6,
+                              "size": 61.69
                            },
                            {
                               "price": 3.5,
-                              "size": 10.34
+                              "size": 12.2
+                           },
+                           {
+                              "price": 3.35,
+                              "size": 10.23
                            }
                         ],
                         "availableToLay": [
                            {
-                              "price": 4.2,
-                              "size": 42.03
+                              "price": 4.3,
+                              "size": 52.55
+                           },
+                           {
+                              "price": 4.5,
+                              "size": 29.68
                            },
                            {
                               "price": 4.6,
-                              "size": 58.94
-                           },
-                           {
-                              "price": 4.8,
-                              "size": 28.96
+                              "size": 30.89
                            }
                         ],
                         "tradedVolume": []
@@ -2617,30 +2613,30 @@
                      "ex": {
                         "availableToBack": [
                            {
-                              "price": 2.08,
-                              "size": 83.31
+                              "price": 2.06,
+                              "size": 86.83
                            },
                            {
-                              "price": 2.04,
-                              "size": 88.75
+                              "price": 2.02,
+                              "size": 19.12
                            },
                            {
                               "price": 2.0,
-                              "size": 51.12
+                              "size": 23.11
                            }
                         ],
                         "availableToLay": [
                            {
                               "price": 2.28,
-                              "size": 78.16
+                              "size": 89.41
                            },
                            {
-                              "price": 2.38,
-                              "size": 36.56
+                              "price": 2.36,
+                              "size": 12.92
                            },
                            {
                               "price": 2.4,
-                              "size": 15.05
+                              "size": 23.4
                            }
                         ],
                         "tradedVolume": []
@@ -2655,30 +2651,30 @@
                      "ex": {
                         "availableToBack": [
                            {
-                              "price": 3.25,
-                              "size": 52.09
-                           },
-                           {
-                              "price": 3.1,
-                              "size": 10.26
-                           },
-                           {
                               "price": 3.05,
-                              "size": 54.51
+                              "size": 14.58
+                           },
+                           {
+                              "price": 3.0,
+                              "size": 66.24
+                           },
+                           {
+                              "price": 1.01,
+                              "size": 8.81
                            }
                         ],
                         "availableToLay": [
                            {
-                              "price": 3.65,
-                              "size": 50.3
+                              "price": 3.9,
+                              "size": 11.24
                            },
                            {
-                              "price": 4.1,
-                              "size": 49.47
+                              "price": 4.3,
+                              "size": 41.63
                            },
                            {
                               "price": 480.0,
-                              "size": 6.69
+                              "size": 10.01
                            }
                         ],
                         "tradedVolume": []
@@ -2691,7 +2687,7 @@
       {
          "marketId": "1.220775394",
          "marketName": "Match Odds",
-         "totalMatched": 126.24,
+         "totalMatched": 139.02,
          "runners": [
             {
                "selectionId": 78864,
@@ -2731,9 +2727,9 @@
                "numberOfWinners": 1,
                "numberOfRunners": 3,
                "numberOfActiveRunners": 3,
-               "lastMatchTime": "2023-11-08T19:04:44.123Z",
-               "totalMatched": 126.39,
-               "totalAvailable": 134384.28,
+               "lastMatchTime": "2023-11-09T10:25:24.409Z",
+               "totalMatched": 139.06,
+               "totalAvailable": 131278.27,
                "crossMatching": true,
                "runnersVoidable": false,
                "version": 5569441341,
@@ -2747,29 +2743,29 @@
                         "availableToBack": [
                            {
                               "price": 4.2,
-                              "size": 58.48
+                              "size": 51.28
                            },
                            {
                               "price": 4.1,
-                              "size": 10.58
+                              "size": 67.23
                            },
                            {
                               "price": 3.9,
-                              "size": 12.07
+                              "size": 11.98
                            }
                         ],
                         "availableToLay": [
                            {
                               "price": 4.8,
-                              "size": 64.82
+                              "size": 67.38
                            },
                            {
                               "price": 4.9,
-                              "size": 30.7
+                              "size": 22.6
                            },
                            {
                               "price": 5.2,
-                              "size": 26.57
+                              "size": 20.24
                            }
                         ],
                         "tradedVolume": []
@@ -2779,35 +2775,35 @@
                      "selectionId": 1096,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 1.89,
+                     "lastPriceTraded": 1.9,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
                               "price": 1.87,
-                              "size": 17.59
+                              "size": 59.81
                            },
                            {
                               "price": 1.86,
-                              "size": 88.04
+                              "size": 13.95
                            },
                            {
                               "price": 1.85,
-                              "size": 14.12
+                              "size": 11.57
                            }
                         ],
                         "availableToLay": [
                            {
                               "price": 1.9,
-                              "size": 1240.42
+                              "size": 1234.03
                            },
                            {
-                              "price": 1.94,
-                              "size": 969.85
+                              "price": 2.02,
+                              "size": 120.98
                            },
                            {
-                              "price": 1.96,
-                              "size": 1000.0
+                              "price": 2.04,
+                              "size": 16.94
                            }
                         ],
                         "tradedVolume": []
@@ -2823,29 +2819,29 @@
                         "availableToBack": [
                            {
                               "price": 3.75,
-                              "size": 93.58
+                              "size": 86.2
                            },
                            {
                               "price": 3.7,
-                              "size": 74.35
+                              "size": 29.93
                            },
                            {
-                              "price": 3.6,
-                              "size": 10.88
+                              "price": 3.65,
+                              "size": 71.04
                            }
                         ],
                         "availableToLay": [
                            {
                               "price": 4.2,
-                              "size": 58.48
+                              "size": 51.28
                            },
                            {
                               "price": 4.6,
-                              "size": 11.08
+                              "size": 30.08
                            },
                            {
                               "price": 4.9,
-                              "size": 10.76
+                              "size": 14.66
                            }
                         ],
                         "tradedVolume": []
@@ -2858,7 +2854,7 @@
       {
          "marketId": "1.220784716",
          "marketName": "Match Odds",
-         "totalMatched": 5147.75,
+         "totalMatched": 5232.39,
          "runners": [
             {
                "selectionId": 48224,
@@ -2898,9 +2894,9 @@
                "numberOfWinners": 1,
                "numberOfRunners": 3,
                "numberOfActiveRunners": 3,
-               "lastMatchTime": "2023-11-08T19:00:07.436Z",
-               "totalMatched": 5153.08,
-               "totalAvailable": 132289.1,
+               "lastMatchTime": "2023-11-09T10:12:39.948Z",
+               "totalMatched": 5236.55,
+               "totalAvailable": 132185.38,
                "crossMatching": true,
                "runnersVoidable": false,
                "version": 5569441623,
@@ -2909,31 +2905,31 @@
                      "selectionId": 48224,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 2.18,
+                     "lastPriceTraded": 2.2,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
                               "price": 2.18,
-                              "size": 19.78
+                              "size": 11.0
                            },
                            {
                               "price": 2.16,
-                              "size": 10.0
+                              "size": 21.2
                            },
                            {
                               "price": 2.14,
-                              "size": 12.04
+                              "size": 27.23
                            }
                         ],
                         "availableToLay": [
                            {
                               "price": 2.22,
-                              "size": 588.96
+                              "size": 828.49
                            },
                            {
                               "price": 2.24,
-                              "size": 392.78
+                              "size": 372.05
                            },
                            {
                               "price": 2.26,
@@ -2952,30 +2948,30 @@
                      "ex": {
                         "availableToBack": [
                            {
+                              "price": 3.2,
+                              "size": 10.0
+                           },
+                           {
                               "price": 3.15,
-                              "size": 67.48
+                              "size": 26.3
                            },
                            {
                               "price": 3.1,
-                              "size": 378.97
-                           },
-                           {
-                              "price": 3.05,
-                              "size": 103.42
+                              "size": 329.18
                            }
                         ],
                         "availableToLay": [
                            {
+                              "price": 3.25,
+                              "size": 10.0
+                           },
+                           {
+                              "price": 3.3,
+                              "size": 16.27
+                           },
+                           {
                               "price": 3.35,
-                              "size": 18.88
-                           },
-                           {
-                              "price": 3.4,
-                              "size": 21.68
-                           },
-                           {
-                              "price": 3.45,
-                              "size": 60.23
+                              "size": 22.67
                            }
                         ],
                         "tradedVolume": []
@@ -2985,35 +2981,35 @@
                      "selectionId": 58805,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 4.4,
+                     "lastPriceTraded": 4.3,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
+                              "price": 4.2,
+                              "size": 19.92
+                           },
+                           {
                               "price": 4.1,
-                              "size": 54.61
+                              "size": 20.88
                            },
                            {
                               "price": 4.0,
-                              "size": 20.69
-                           },
-                           {
-                              "price": 3.95,
-                              "size": 12.22
+                              "size": 69.16
                            }
                         ],
                         "availableToLay": [
                            {
                               "price": 4.4,
-                              "size": 21.9
+                              "size": 14.11
                            },
                            {
                               "price": 4.5,
-                              "size": 171.11
+                              "size": 163.11
                            },
                            {
                               "price": 4.6,
-                              "size": 42.01
+                              "size": 14.85
                            }
                         ],
                         "tradedVolume": []
@@ -3026,7 +3022,7 @@
       {
          "marketId": "1.220775535",
          "marketName": "Match Odds",
-         "totalMatched": 2252.59,
+         "totalMatched": 2252.74,
          "runners": [
             {
                "selectionId": 56343,
@@ -3066,9 +3062,9 @@
                "numberOfWinners": 1,
                "numberOfRunners": 3,
                "numberOfActiveRunners": 3,
-               "lastMatchTime": "2023-11-08T19:05:34.704Z",
-               "totalMatched": 2252.58,
-               "totalAvailable": 130299.04,
+               "lastMatchTime": "2023-11-09T10:00:07.446Z",
+               "totalMatched": 2252.72,
+               "totalAvailable": 130150.82,
                "crossMatching": true,
                "runnersVoidable": false,
                "version": 5569441905,
@@ -3077,35 +3073,35 @@
                      "selectionId": 56343,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 3.25,
+                     "lastPriceTraded": 3.05,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
-                              "price": 3.0,
-                              "size": 57.31
+                              "price": 2.86,
+                              "size": 81.2
                            },
                            {
-                              "price": 2.94,
-                              "size": 32.07
+                              "price": 2.84,
+                              "size": 19.54
                            },
                            {
-                              "price": 2.92,
-                              "size": 21.51
+                              "price": 2.82,
+                              "size": 30.42
                            }
                         ],
                         "availableToLay": [
                            {
-                              "price": 3.25,
-                              "size": 20.03
+                              "price": 3.15,
+                              "size": 142.3
                            },
                            {
                               "price": 3.3,
-                              "size": 150.82
+                              "size": 73.11
                            },
                            {
                               "price": 3.35,
-                              "size": 54.3
+                              "size": 51.8
                            }
                         ],
                         "tradedVolume": []
@@ -3115,35 +3111,35 @@
                      "selectionId": 48351,
                      "handicap": 0.0,
                      "status": "ACTIVE",
-                     "lastPriceTraded": 2.42,
+                     "lastPriceTraded": 2.46,
                      "totalMatched": 0.0,
                      "ex": {
                         "availableToBack": [
                            {
+                              "price": 2.4,
+                              "size": 36.27
+                           },
+                           {
+                              "price": 2.36,
+                              "size": 63.32
+                           },
+                           {
                               "price": 2.34,
-                              "size": 95.39
-                           },
-                           {
-                              "price": 2.32,
-                              "size": 11.45
-                           },
-                           {
-                              "price": 2.28,
-                              "size": 92.63
+                              "size": 79.42
                            }
                         ],
                         "availableToLay": [
                            {
-                              "price": 2.54,
-                              "size": 56.14
-                           },
-                           {
-                              "price": 2.62,
-                              "size": 11.1
-                           },
-                           {
                               "price": 2.64,
-                              "size": 16.71
+                              "size": 75.11
+                           },
+                           {
+                              "price": 2.7,
+                              "size": 53.72
+                           },
+                           {
+                              "price": 2.76,
+                              "size": 21.0
                            }
                         ],
                         "tradedVolume": []
@@ -3158,30 +3154,30 @@
                      "ex": {
                         "availableToBack": [
                            {
-                              "price": 3.4,
-                              "size": 70.63
-                           },
-                           {
-                              "price": 3.3,
-                              "size": 22.38
+                              "price": 3.5,
+                              "size": 48.72
                            },
                            {
                               "price": 3.25,
-                              "size": 24.94
+                              "size": 66.78
+                           },
+                           {
+                              "price": 3.2,
+                              "size": 16.54
                            }
                         ],
                         "availableToLay": [
                            {
                               "price": 3.75,
-                              "size": 24.44
+                              "size": 22.18
                            },
                            {
-                              "price": 3.85,
-                              "size": 45.9
+                              "price": 3.9,
+                              "size": 51.65
                            },
                            {
-                              "price": 4.2,
-                              "size": 37.8
+                              "price": 4.5,
+                              "size": 30.8
                            }
                         ],
                         "tradedVolume": []
@@ -3234,9 +3230,9 @@
                "numberOfWinners": 1,
                "numberOfRunners": 3,
                "numberOfActiveRunners": 3,
-               "lastMatchTime": "2023-11-08T19:03:27.817Z",
-               "totalMatched": 865.18,
-               "totalAvailable": 130769.62,
+               "lastMatchTime": "2023-11-09T10:00:30.125Z",
+               "totalMatched": 865.17,
+               "totalAvailable": 130628.2,
                "crossMatching": true,
                "runnersVoidable": false,
                "version": 5569442187,
@@ -3251,15 +3247,15 @@
                         "availableToBack": [
                            {
                               "price": 2.2,
-                              "size": 70.62
+                              "size": 72.62
                            },
                            {
                               "price": 2.18,
-                              "size": 36.36
+                              "size": 35.46
                            },
                            {
                               "price": 2.16,
-                              "size": 19.16
+                              "size": 19.17
                            }
                         ],
                         "availableToLay": [
@@ -3268,12 +3264,12 @@
                               "size": 593.8
                            },
                            {
-                              "price": 2.4,
-                              "size": 65.04
+                              "price": 2.42,
+                              "size": 74.89
                            },
                            {
-                              "price": 2.48,
-                              "size": 10.18
+                              "price": 2.5,
+                              "size": 13.0
                            }
                         ],
                         "tradedVolume": []
@@ -3292,26 +3288,26 @@
                               "size": 27.26
                            },
                            {
-                              "price": 3.6,
-                              "size": 45.61
+                              "price": 3.5,
+                              "size": 61.46
                            },
                            {
-                              "price": 3.3,
-                              "size": 91.06
+                              "price": 3.25,
+                              "size": 97.42
                            }
                         ],
                         "availableToLay": [
                            {
-                              "price": 3.85,
-                              "size": 15.1
+                              "price": 3.8,
+                              "size": 15.29
                            },
                            {
                               "price": 3.9,
-                              "size": 41.35
+                              "size": 48.15
                            },
                            {
-                              "price": 4.2,
-                              "size": 47.01
+                              "price": 4.1,
+                              "size": 11.31
                            }
                         ],
                         "tradedVolume": []
@@ -3331,11 +3327,11 @@
                            },
                            {
                               "price": 3.35,
-                              "size": 52.14
+                              "size": 60.06
                            },
                            {
-                              "price": 3.25,
-                              "size": 43.32
+                              "price": 3.2,
+                              "size": 111.95
                            }
                         ],
                         "availableToLay": [
@@ -3344,12 +3340,12 @@
                               "size": 28.03
                            },
                            {
-                              "price": 3.6,
-                              "size": 45.61
+                              "price": 3.7,
+                              "size": 58.35
                            },
                            {
-                              "price": 4.2,
-                              "size": 42.03
+                              "price": 480.0,
+                              "size": 12.39
                            }
                         ],
                         "tradedVolume": []
