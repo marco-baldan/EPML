@@ -1,55 +1,115 @@
 import json
-import pandas as pd
-from nltk.sentiment import SentimentIntensityAnalyzer
+from datetime import datetime, timedelta
+import pytz
+from collections import defaultdict
+from vaderSentiment.vaderSentiment import SentimentIntensityAnalyzer
 from transformers import pipeline
+import pandas as pd
 
-# Load data from a JSON file
-def load_data(file_path):
-    data = []
-    with open(file_path, 'r', encoding='utf-8') as file:
-        for line in file:
-            try:
-                data.append(json.loads(line))
-            except json.JSONDecodeError as error:
-                print(f"Error decoding JSON: {error}")
-    return data
+def load_json(file_path):
+    with open(file_path, 'r') as file:
+        return json.load(file)
 
-# Perform sentiment analysis using VADER
-def analyze_sentiment_vader(text, analyzer):
-    return analyzer.polarity_scores(text)['compound']
+def utc_to_datetime(utc):
+    return datetime.utcfromtimestamp(utc).replace(tzinfo=pytz.utc)
 
-# Perform sentiment analysis using RoBERTa
-def analyze_sentiment_roberta(text, model):
-    # Truncate the text to avoid exceeding the maximum input length for the model
-    truncated_text = text[:512]  # Simple truncation, consider word boundaries for better accuracy
-    result = model(truncated_text)
-    label = result[0]['label']
-    score = result[0]['score']
-    sentiment = 'POSITIVE' if 'POSITIVE' in label else 'NEGATIVE'
-    return sentiment, score
+def roberta_label_to_score(label):
+    return {'LABEL_0': -1, 'LABEL_1': 0, 'LABEL_2': 1}.get(label, 0)
 
-def main(file_path):
-    # Load data
-    data = load_data(file_path)
-    
-    # Convert to DataFrame
-    df = pd.DataFrame(data)
-    
-    # Initialize VADER SentimentIntensityAnalyzer
-    sia = SentimentIntensityAnalyzer()
-    
-    # Initialize RoBERTa sentiment-analysis pipeline
-    roberta = pipeline("sentiment-analysis", model="distilbert-base-uncased-finetuned-sst-2-english")
-    
-    # Analyze sentiment
-    df['vader_score'] = df['text_content'].apply(lambda x: analyze_sentiment_vader(x, sia))
-    df['roberta_result'], df['roberta_score'] = zip(*df['text_content'].apply(lambda x: analyze_sentiment_roberta(x, roberta)))
-    
-    # Save or display results
-    print(df[['text_content', 'vader_score', 'roberta_result', 'roberta_score']])
-    # Optionally, save the results to a new file
-    # df.to_csv('reddit_sentiment_analysis_results.csv', index=False)
+vader_analyzer = SentimentIntensityAnalyzer()
+roberta_analyzer = pipeline('sentiment-analysis', model='cardiffnlp/twitter-roberta-base-sentiment')
 
-if __name__ == "__main__":
-    file_path = 'reddit_s_09-2019.json'  # Ensure this path is correct
-    main(file_path)
+matches = load_json('results_2019-20.json')
+
+
+reddit_data = load_json('combined_output.json')
+
+team_to_subreddit = {
+    "Arsenal": "Gunners",
+    "Man United": "reddevils",
+    "Leicester": "lcfc",
+    "Southampton": "SaintsFC",
+    "West Ham": "Hammers",
+    "Everton": "Everton",
+    "Tottenham": "coys",
+    "Chelsea": "chelseafc",
+    "Liverpool": "LiverpoolFC",
+    "Aston Villa": "avfc",
+    "Crystal Palace": "crystalpalace",
+    "Brighton": "BrightonHoveAlbion",
+    "Burnley": "Burnley",
+    "Newcastle": "NUFC",
+    "Bournemouth": "AFCBournemouth",
+    "Sheffield United": "SheffieldUnited",
+    "Watford": "Watford_FC",
+    "Wolves": "WWFC",
+    "Norwich": "NorwichCity", # Adjust based on your data
+    "Man City": "MCFC",
+}
+
+post_counts = defaultdict(int)
+vader_scores = defaultdict(float)
+roberta_scores = defaultdict(float)
+overall_post_counts = defaultdict(int)
+overall_vader_scores = defaultdict(float)
+overall_roberta_scores = defaultdict(float)
+match_results = []
+
+for match_details in matches:
+    game_datetime = datetime.strptime(match_details['DateTime'], "%Y-%m-%dT%H:%M:%SZ").replace(tzinfo=pytz.utc)
+    home_team = match_details['HomeTeam']
+    away_team = match_details['AwayTeam']
+
+    post_counts = defaultdict(int)
+    vader_scores = defaultdict(float)
+    roberta_scores = defaultdict(float)
+
+    for index, post in enumerate(reddit_data):
+        post_datetime = utc_to_datetime(post['created_utc'])
+        if game_datetime - timedelta(hours=8) <= post_datetime < game_datetime:
+            if index % 100 == 0:
+                print(f"Processing post {index}/{len(reddit_data)} for game {home_team} vs {away_team}...")
+                
+            subreddit = post['subreddit']
+            for team, subreddit_name in team_to_subreddit.items():
+                if subreddit == subreddit_name:
+                    text = post['text_content']
+                    vader_score = vader_analyzer.polarity_scores(text)['compound']
+                    roberta_result = roberta_analyzer(text[:512])
+                    roberta_score = roberta_label_to_score(roberta_result[0]['label'])
+                    
+                    post_counts[team] += 1
+                    vader_scores[team] += vader_score
+                    roberta_scores[team] += roberta_score
+        match_result = {
+        "HomeTeam": home_team,
+        "HomeTeamScoreVader": vader_scores[home_team] / post_counts[home_team] if post_counts[home_team] else 0,
+        "HomeTeamScoreRoberta": roberta_scores[home_team] / post_counts[home_team] if post_counts[home_team] else 0,
+        "HomeTeamPosts": post_counts[home_team],
+        "AwayTeam": away_team,
+        "AwayTeamScoreVader": vader_scores[away_team] / post_counts[away_team] if post_counts[away_team] else 0,
+        "AwayTeamScoreRoberta": roberta_scores[away_team] / post_counts[away_team] if post_counts[away_team] else 0,
+        "AwayTeamPosts": post_counts[away_team]
+    }
+    
+    match_results.append(match_result)
+
+    # After processing all relevant posts for a game, calculate and print average scores
+    print(f"\nGame: {home_team} vs {away_team} on {match_details['DateTime']}")
+    for team in [home_team, away_team]:
+        if team in team_to_subreddit:  # Check if team is mapped
+            avg_vader_score = vader_scores[team] / post_counts[team] if post_counts[team] else 0
+            avg_roberta_score = roberta_scores[team] / post_counts[team] if post_counts[team] else 0
+            print(f"{team}:")
+            print(f"  Total Posts Analyzed: {post_counts[team]}")
+            print(f"  Average VADER Score: {avg_vader_score:.3f}")
+            print(f"  Average ROBERTA Score: {avg_roberta_score:.3f}")
+
+            # Update overall results for final summary
+            overall_post_counts[team] += post_counts[team]
+            overall_vader_scores[team] += vader_scores[team]
+            overall_roberta_scores[team] += roberta_scores[team]
+        else:
+            print(f"No subreddit mapping found for {team}.")
+df = pd.DataFrame(match_results)
+df.to_json("match_sentiment_analysis_results.json", orient="records")

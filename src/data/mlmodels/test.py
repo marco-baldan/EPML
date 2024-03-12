@@ -8,7 +8,7 @@ from sklearn.svm import SVC
 from sklearn.model_selection import GridSearchCV
 
 # Load the data
-file_path = 'results_2019-20.json'  # Make sure to use your correct file path
+file_path = 'results_2019-20_with_sentiment.json'  # Make sure to use your correct file path
 df = pd.read_json(file_path)
 
 # Preprocessing
@@ -38,8 +38,8 @@ y_train, y_test = y.iloc[:train_size], y.iloc[train_size:]
 
 # Feature scaling
 scaler = StandardScaler()
-X_train_scaled = scaler.fit_transform(X_train)
-X_test_scaled = scaler.transform(X_test)
+X_train_scaled = scaler.fit_transform(X_train.to_numpy())
+X_test_scaled = scaler.transform(X_test.to_numpy())
 
 # Initialize models
 nb_classifier = GaussianNB()

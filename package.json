@@ -11,11 +11,13 @@
     "@testing-library/react": "^13.4.0",
     "@testing-library/user-event": "^13.5.0",
     "add": "^2.0.6",
+    "chart.js": "^4.4.2",
     "csv-parser": "^3.0.0",
     "flowbite-react": "^0.6.4",
     "papa": "^0.0.0",
     "papaparse": "^5.4.1",
     "react": "^18.2.0",
+    "react-chartjs-2": "^5.2.0",
     "react-dom": "^18.2.0",
     "react-loader-spinner": "^5.4.5",
     "react-router-dom": "^6.11.2",
@@ -50,7 +52,6 @@
   },
   "description": "This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).",
   "main": "index.js",
-  "devDependencies": {},
   "author": "",
   "license": "ISC"
 }
