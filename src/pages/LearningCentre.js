@@ -1,7 +1,7 @@
 import React from 'react';
 import './App.css'
 
-function WiksTopPicks() {
+function Dashboard() {
     return (
       <div className='app'>
         <h2>PowerPicks</h2>
@@ -11,4 +11,4 @@ function WiksTopPicks() {
   
   }
 
-  export default WiksTopPicks
+  export default Dashboard

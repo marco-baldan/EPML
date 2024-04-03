@@ -15,15 +15,15 @@ function Home() {
         <main className="main-page">
           <div className="content-container">
             <div className="button-container">
-              <a href="/data_hub" className="main-button">
+              <a href="/total_scores" className="main-button">
                 <img className='home-img' src={TotalScores} alt="Total Scores Thumbnail" />
                 <p>Total Scores</p>
               </a>
-              <a href="/wiks_top_picks" className="main-button">
+              <a href="/dashboard" className="main-button">
                 <img className='home-img' src={Dashboard} alt="DashboardImg" />
                 <p>Dashboard</p>
               </a>
-              <a href="/live_forecast" className="main-button">
+              <a href="/learning_centre" className="main-button">
                 <img className='home-img' src={LearningCentre} alt="Learning Centre Thumbnail" />
                 <p>Learning Centre</p>
               </a>

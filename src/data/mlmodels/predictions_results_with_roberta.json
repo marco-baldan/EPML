@@ -1,0 +1,324 @@
+[
+  {
+    "Game": "Everton vs Liverpool",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "H",
+    "roberta KNN": "H",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Man City vs Burnley",
+    "roberta Naive Bayes": "H",
+    "roberta L Regress": "H",
+    "roberta KNN": "H",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Tottenham vs West Ham",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "H",
+    "roberta KNN": "A",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Man United vs Sheffield United",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "H",
+    "roberta KNN": "H",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Newcastle vs Aston Villa",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "H",
+    "roberta KNN": "D",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Norwich vs Everton",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "A",
+    "roberta KNN": "A",
+    "roberta SVM": "A"
+  },
+  {
+    "Game": "Liverpool vs Crystal Palace",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "H",
+    "roberta KNN": "H",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Southampton vs Arsenal",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "A",
+    "roberta KNN": "A",
+    "roberta SVM": "A"
+  },
+  {
+    "Game": "Chelsea vs Man City",
+    "roberta Naive Bayes": "D",
+    "roberta L Regress": "H",
+    "roberta KNN": "D",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Everton vs Leicester",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "A",
+    "roberta KNN": "H",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "West Ham vs Chelsea",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "A",
+    "roberta KNN": "A",
+    "roberta SVM": "A"
+  },
+  {
+    "Game": "Sheffield United vs Tottenham",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "H",
+    "roberta KNN": "H",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Man City vs Liverpool",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "H",
+    "roberta KNN": "H",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Wolves vs Arsenal",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "A",
+    "roberta KNN": "A",
+    "roberta SVM": "A"
+  },
+  {
+    "Game": "Newcastle vs West Ham",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "A",
+    "roberta KNN": "A",
+    "roberta SVM": "A"
+  },
+  {
+    "Game": "Liverpool vs Aston Villa",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "H",
+    "roberta KNN": "D",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Southampton vs Man City",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "A",
+    "roberta KNN": "A",
+    "roberta SVM": "A"
+  },
+  {
+    "Game": "Tottenham vs Everton",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "A",
+    "roberta KNN": "D",
+    "roberta SVM": "A"
+  },
+  {
+    "Game": "Crystal Palace vs Chelsea",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "A",
+    "roberta KNN": "H",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Man City vs Newcastle",
+    "roberta Naive Bayes": "H",
+    "roberta L Regress": "H",
+    "roberta KNN": "H",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Aston Villa vs Man United",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "A",
+    "roberta KNN": "A",
+    "roberta SVM": "A"
+  },
+  {
+    "Game": "Sheffield United vs Chelsea",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "H",
+    "roberta KNN": "A",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Wolves vs Everton",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "H",
+    "roberta KNN": "H",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Aston Villa vs Crystal Palace",
+    "roberta Naive Bayes": "D",
+    "roberta L Regress": "H",
+    "roberta KNN": "D",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Tottenham vs Arsenal",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "H",
+    "roberta KNN": "H",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Man United vs Southampton",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "A",
+    "roberta KNN": "H",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Chelsea vs Norwich",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "H",
+    "roberta KNN": "H",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Newcastle vs Tottenham",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "H",
+    "roberta KNN": "H",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Arsenal vs Liverpool",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "A",
+    "roberta KNN": "A",
+    "roberta SVM": "A"
+  },
+  {
+    "Game": "Everton vs Aston Villa",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "H",
+    "roberta KNN": "H",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Leicester vs Sheffield United",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "H",
+    "roberta KNN": "H",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Crystal Palace vs Man United",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "H",
+    "roberta KNN": "H",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Tottenham vs Leicester",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "A",
+    "roberta KNN": "A",
+    "roberta SVM": "A"
+  },
+  {
+    "Game": "Sheffield United vs Everton",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "A",
+    "roberta KNN": "D",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Wolves vs Crystal Palace",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "H",
+    "roberta KNN": "H",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Watford vs Man City",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "A",
+    "roberta KNN": "A",
+    "roberta SVM": "A"
+  },
+  {
+    "Game": "Aston Villa vs Arsenal",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "H",
+    "roberta KNN": "H",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Man United vs West Ham",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "H",
+    "roberta KNN": "H",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Liverpool vs Chelsea",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "H",
+    "roberta KNN": "H",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Chelsea vs Wolves",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "H",
+    "roberta KNN": "H",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Crystal Palace vs Tottenham",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "H",
+    "roberta KNN": "H",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Leicester vs Man United",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "H",
+    "roberta KNN": "A",
+    "roberta SVM": "A"
+  },
+  {
+    "Game": "Man City vs Norwich",
+    "roberta Naive Bayes": "H",
+    "roberta L Regress": "H",
+    "roberta KNN": "H",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "Newcastle vs Liverpool",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "A",
+    "roberta KNN": "D",
+    "roberta SVM": "A"
+  },
+  {
+    "Game": "Southampton vs Sheffield United",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "H",
+    "roberta KNN": "H",
+    "roberta SVM": "H"
+  },
+  {
+    "Game": "West Ham vs Aston Villa",
+    "roberta Naive Bayes": "A",
+    "roberta L Regress": "A",
+    "roberta KNN": "D",
+    "roberta SVM": "H"
+  }
+]

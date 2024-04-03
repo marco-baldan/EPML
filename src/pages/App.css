@@ -1,12 +1,14 @@
+/* Base styles */
 .app {
   display: flex;
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  height: 100vh;
+  min-height: 100vh;
   background-color: #111;
   color: #fff;
 }
+
 .loading-spinner {
   display: flex;
   justify-content: center;
@@ -14,52 +16,94 @@
   height: 100%;
 }
 
-
-.text-box{
-  background-color: #f0f0f0; /* Set the background color */
-  padding: 20px; /* Add padding for spacing */
-  border-radius: 10px; /* Add rounded corners */
-  text-align: center; /* Center-align the text */
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2); /* Add a subtle box shadow */
-
-  /* Style the h2 element */
-  h2 {
-    font-size: 24px; /* Set the font size for the heading */
-    color: #333; /* Set the text color */
-  }
-
-  /* Style the p element */
-  p {
-    font-size: 16px; /* Set the font size for the paragraph */
-    color: #555; /* Set the text color */
-    margin-top: 10px; /* Add spacing above the paragraph */
-  }
+.text-box {
+  background-color: #f0f0f0;
+  padding: 20px;
+  border-radius: 10px;
+  text-align: center;
+  box-shadow: 0 0 10px rgba(0, 0, 0, 0.2);
+  transition: all 0.5s ease;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: relative;
+  z-index: 10;  
 }
-.appdatahub{
+
+.text-box h2 {
+  font-size: 2.5vw; /* Relative font size */
+  color: #333;
+}
+
+.text-box p {
+  font-size: 1.8vw; /* Relative font size */
+  color: #555;
+  margin-top: 1.2vw; /* Relative margin */
+}
+
+.text-box-widen {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: auto;
+  display: flex;
+  align-items: center;
+  justify-content: center; /* Center elements horizontally */
+  padding: 1vw 2vw; /* Relative padding */
+  box-sizing: border-box;
+  z-index: 10;
+  flex-direction: row;
+}
+
+.text-box-widen h2 {
+  margin: 0;
+  flex-grow: 1; /* Take up remaining space */
+}
+
+.text-box-widen .year-selector,
+.text-box-widen .checkboxes {
+  flex-grow: 1; /* Take up remaining space */
+  flex-basis: auto; /* Allow natural width */
+  margin: 0 1vw; /* Relative margin */
+}
+
+.table-container {
+  margin-top: 20VH; /* Assuming the height of the top bar is 60px */
+  max-height: 80vh; /* Set maximum height to 80% of the viewport height */
+  overflow-y: auto;
+  overflow-x: hidden; /* Remove horizontal scrolling */
+  width: 100vw;
+}
+
+.appdatahub {
   display: flex;
   flex-direction: column;
   background-image: url("../media/footballpitch.jpg");
-  height: 100vh;
+  min-height: 100vh;
   align-items: center;
   justify-content: center;
-  align-items: center;
-  background-size: 100%;
+  background-size: cover;
   background-position: center;
+  overflow: hidden;
+  position: relative;
 }
+
 option.green {
   background-color: rgb(30, 241, 30);
 }
 
 .home-img {
   border-radius: 50%;
-  width: 100px; /* Adjust the width as desired */
+  width: 10vw; /* Relative width */
   height: auto;
-  margin: 10px; /* Add margin between the images */
+  margin: 1vw; /* Relative margin */
 }
 
 .header {
   text-align: center;
-  margin-bottom: 2rem;
+  margin-bottom: 2vw; /* Relative margin */
 }
 
 .main-page {
@@ -73,22 +117,22 @@ option.green {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin-bottom: 20px; /* Add margin at the bottom */
+  margin-bottom: 2vw; /* Relative margin */
 }
 
 .button-container {
   display: flex;
-  flex-wrap: wrap; /* Allow wrapping of buttons */
+  flex-wrap: wrap;
   justify-content: center;
-  margin-bottom: 10px; /* Add some margin at the bottom */
+  margin-bottom: 1vw; /* Relative margin */
 }
 
 .main-button {
-  padding: 1rem 2rem;
-  margin: 0.5rem;
+  padding: 1vw 2vw; /* Relative padding */
+  margin: 0.5vw; /* Relative margin */
   border: none;
   border-radius: 4px;
-  font-size: 1rem;
+  font-size: 1.8vw; /* Relative font size */
   font-weight: bold;
   background-color: #333;
   color: #fff;
@@ -96,7 +140,7 @@ option.green {
   display: flex;
   justify-content: center;
   align-items: center;
-  text-decoration: none; /* Add text-decoration: none */
+  text-decoration: none;
 }
 
 .main-button:hover {
@@ -105,4 +149,37 @@ option.green {
 
 .main-button:focus {
   outline: none;
+}
+
+/* Media queries */
+@media screen and (max-width: 767px) {
+  /* Increase font sizes for mobile devices */
+  .text-box h2 {
+    font-size: 5vw; /* Relative font size */
+  }
+  
+  .text-box p {
+    font-size: 3.6vw; /* Relative font size */
+  }
+
+  .text-box-widen {
+    flex-direction: column;
+    align-items: stretch; /* Stretch items vertically */
+  }
+
+  .text-box-widen h2,
+  .text-box-widen .year-selector,
+  .text-box-widen .checkboxes {
+    margin: 0.5vw 0; /* Relative margin */
+  }
+
+  .text-box-widen h2,
+  .text-box-widen .year-selector,
+  .text-box-widen .checkboxes {
+    font-size: 3vw; /* Relative font size */
+  }
+
+  .main-button {
+    font-size: 3.6vw; /* Relative font size */
+  }
 }

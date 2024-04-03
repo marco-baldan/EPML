@@ -1,5 +1,6 @@
 [
     {
+        "Game": "Liverpool vs Norwich",
         "Season": "2019-20",
         "DateTime": "2019-08-09T20:00:00Z",
         "HomeTeam": "Liverpool",
@@ -25,6 +26,7 @@
         "AR": "0"
     },
     {
+        "Game": "West Ham vs Man City",
         "Season": "2019-20",
         "DateTime": "2019-08-10T12:30:00Z",
         "HomeTeam": "West Ham",
@@ -50,6 +52,7 @@
         "AR": "0"
     },
     {
+        "Game": "Bournemouth vs Sheffield United",
         "Season": "2019-20",
         "DateTime": "2019-08-10T15:00:00Z",
         "HomeTeam": "Bournemouth",
@@ -75,6 +78,7 @@
         "AR": "0"
     },
     {
+        "Game": "Burnley vs Southampton",
         "Season": "2019-20",
         "DateTime": "2019-08-10T15:00:00Z",
         "HomeTeam": "Burnley",
@@ -100,6 +104,7 @@
         "AR": "0"
     },
     {
+        "Game": "Crystal Palace vs Everton",
         "Season": "2019-20",
         "DateTime": "2019-08-10T15:00:00Z",
         "HomeTeam": "Crystal Palace",
@@ -125,6 +130,7 @@
         "AR": "1"
     },
     {
+        "Game": "Watford vs Brighton",
         "Season": "2019-20",
         "DateTime": "2019-08-10T15:00:00Z",
         "HomeTeam": "Watford",
@@ -150,6 +156,7 @@
         "AR": "0"
     },
     {
+        "Game": "Tottenham vs Aston Villa",
         "Season": "2019-20",
         "DateTime": "2019-08-10T17:30:00Z",
         "HomeTeam": "Tottenham",
@@ -175,6 +182,7 @@
         "AR": "0"
     },
     {
+        "Game": "Leicester vs Wolves",
         "Season": "2019-20",
         "DateTime": "2019-08-11T14:00:00Z",
         "HomeTeam": "Leicester",
@@ -200,6 +208,7 @@
         "AR": "0"
     },
     {
+        "Game": "Newcastle vs Arsenal",
         "Season": "2019-20",
         "DateTime": "2019-08-11T14:00:00Z",
         "HomeTeam": "Newcastle",
@@ -225,6 +234,7 @@
         "AR": "0"
     },
     {
+        "Game": "Man United vs Chelsea",
         "Season": "2019-20",
         "DateTime": "2019-08-11T16:30:00Z",
         "HomeTeam": "Man United",
@@ -250,6 +260,7 @@
         "AR": "0"
     },
     {
+        "Game": "Arsenal vs Burnley",
         "Season": "2019-20",
         "DateTime": "2019-08-17T12:30:00Z",
         "HomeTeam": "Arsenal",
@@ -275,6 +286,7 @@
         "AR": "0"
     },
     {
+        "Game": "Aston Villa vs Bournemouth",
         "Season": "2019-20",
         "DateTime": "2019-08-17T15:00:00Z",
         "HomeTeam": "Aston Villa",
@@ -300,6 +312,7 @@
         "AR": "0"
     },
     {
+        "Game": "Brighton vs West Ham",
         "Season": "2019-20",
         "DateTime": "2019-08-17T15:00:00Z",
         "HomeTeam": "Brighton",
@@ -325,6 +338,7 @@
         "AR": "0"
     },
     {
+        "Game": "Everton vs Watford",
         "Season": "2019-20",
         "DateTime": "2019-08-17T15:00:00Z",
         "HomeTeam": "Everton",
@@ -350,6 +364,7 @@
         "AR": "0"
     },
     {
+        "Game": "Norwich vs Newcastle",
         "Season": "2019-20",
         "DateTime": "2019-08-17T15:00:00Z",
         "HomeTeam": "Norwich",
@@ -375,6 +390,7 @@
         "AR": "0"
     },
     {
+        "Game": "Southampton vs Liverpool",
         "Season": "2019-20",
         "DateTime": "2019-08-17T15:00:00Z",
         "HomeTeam": "Southampton",
@@ -400,6 +416,7 @@
         "AR": "0"
     },
     {
+        "Game": "Man City vs Tottenham",
         "Season": "2019-20",
         "DateTime": "2019-08-17T17:30:00Z",
         "HomeTeam": "Man City",
@@ -425,6 +442,7 @@
         "AR": "0"
     },
     {
+        "Game": "Sheffield United vs Crystal Palace",
         "Season": "2019-20",
         "DateTime": "2019-08-18T14:00:00Z",
         "HomeTeam": "Sheffield United",
@@ -450,6 +468,7 @@
         "AR": "0"
     },
     {
+        "Game": "Chelsea vs Leicester",
         "Season": "2019-20",
         "DateTime": "2019-08-18T16:30:00Z",
         "HomeTeam": "Chelsea",
@@ -475,6 +494,7 @@
         "AR": "0"
     },
     {
+        "Game": "Wolves vs Man United",
         "Season": "2019-20",
         "DateTime": "2019-08-19T20:00:00Z",
         "HomeTeam": "Wolves",
@@ -500,6 +520,7 @@
         "AR": "0"
     },
     {
+        "Game": "Aston Villa vs Everton",
         "Season": "2019-20",
         "DateTime": "2019-08-23T20:00:00Z",
         "HomeTeam": "Aston Villa",
@@ -525,6 +546,7 @@
         "AR": "0"
     },
     {
+        "Game": "Norwich vs Chelsea",
         "Season": "2019-20",
         "DateTime": "2019-08-24T12:30:00Z",
         "HomeTeam": "Norwich",
@@ -550,6 +572,7 @@
         "AR": "0"
     },
     {
+        "Game": "Brighton vs Southampton",
         "Season": "2019-20",
         "DateTime": "2019-08-24T15:00:00Z",
         "HomeTeam": "Brighton",
@@ -575,6 +598,7 @@
         "AR": "0"
     },
     {
+        "Game": "Man United vs Crystal Palace",
         "Season": "2019-20",
         "DateTime": "2019-08-24T15:00:00Z",
         "HomeTeam": "Man United",
@@ -600,6 +624,7 @@
         "AR": "0"
     },
     {
+        "Game": "Sheffield United vs Leicester",
         "Season": "2019-20",
         "DateTime": "2019-08-24T15:00:00Z",
         "HomeTeam": "Sheffield United",
@@ -625,6 +650,7 @@
         "AR": "0"
     },
     {
+        "Game": "Watford vs West Ham",
         "Season": "2019-20",
         "DateTime": "2019-08-24T15:00:00Z",
         "HomeTeam": "Watford",
@@ -650,6 +676,7 @@
         "AR": "0"
     },
     {
+        "Game": "Liverpool vs Arsenal",
         "Season": "2019-20",
         "DateTime": "2019-08-24T17:30:00Z",
         "HomeTeam": "Liverpool",
@@ -675,6 +702,7 @@
         "AR": "0"
     },
     {
+        "Game": "Bournemouth vs Man City",
         "Season": "2019-20",
         "DateTime": "2019-08-25T14:00:00Z",
         "HomeTeam": "Bournemouth",
@@ -700,6 +728,7 @@
         "AR": "0"
     },
     {
+        "Game": "Tottenham vs Newcastle",
         "Season": "2019-20",
         "DateTime": "2019-08-25T16:30:00Z",
         "HomeTeam": "Tottenham",
@@ -725,6 +754,7 @@
         "AR": "0"
     },
     {
+        "Game": "Wolves vs Burnley",
         "Season": "2019-20",
         "DateTime": "2019-08-25T16:30:00Z",
         "HomeTeam": "Wolves",
@@ -750,6 +780,7 @@
         "AR": "0"
     },
     {
+        "Game": "Southampton vs Man United",
         "Season": "2019-20",
         "DateTime": "2019-08-31T12:30:00Z",
         "HomeTeam": "Southampton",
@@ -775,6 +806,7 @@
         "AR": "0"
     },
     {
+        "Game": "Chelsea vs Sheffield United",
         "Season": "2019-20",
         "DateTime": "2019-08-31T15:00:00Z",
         "HomeTeam": "Chelsea",
@@ -800,6 +832,7 @@
         "AR": "0"
     },
     {
+        "Game": "Crystal Palace vs Aston Villa",
         "Season": "2019-20",
         "DateTime": "2019-08-31T15:00:00Z",
         "HomeTeam": "Crystal Palace",
@@ -825,6 +858,7 @@
         "AR": "1"
     },
     {
+        "Game": "Leicester vs Bournemouth",
         "Season": "2019-20",
         "DateTime": "2019-08-31T15:00:00Z",
         "HomeTeam": "Leicester",
@@ -850,6 +884,7 @@
         "AR": "0"
     },
     {
+        "Game": "Man City vs Brighton",
         "Season": "2019-20",
         "DateTime": "2019-08-31T15:00:00Z",
         "HomeTeam": "Man City",
@@ -875,6 +910,7 @@
         "AR": "0"
     },
     {
+        "Game": "Newcastle vs Watford",
         "Season": "2019-20",
         "DateTime": "2019-08-31T15:00:00Z",
         "HomeTeam": "Newcastle",
@@ -900,6 +936,7 @@
         "AR": "0"
     },
     {
+        "Game": "West Ham vs Norwich",
         "Season": "2019-20",
         "DateTime": "2019-08-31T15:00:00Z",
         "HomeTeam": "West Ham",
@@ -925,6 +962,7 @@
         "AR": "0"
     },
     {
+        "Game": "Burnley vs Liverpool",
         "Season": "2019-20",
         "DateTime": "2019-08-31T17:30:00Z",
         "HomeTeam": "Burnley",
@@ -950,6 +988,7 @@
         "AR": "0"
     },
     {
+        "Game": "Everton vs Wolves",
         "Season": "2019-20",
         "DateTime": "2019-09-01T14:00:00Z",
         "HomeTeam": "Everton",
@@ -975,6 +1014,7 @@
         "AR": "1"
     },
     {
+        "Game": "Arsenal vs Tottenham",
         "Season": "2019-20",
         "DateTime": "2019-09-01T16:30:00Z",
         "HomeTeam": "Arsenal",
@@ -1000,6 +1040,7 @@
         "AR": "0"
     },
     {
+        "Game": "Liverpool vs Newcastle",
         "Season": "2019-20",
         "DateTime": "2019-09-14T12:30:00Z",
         "HomeTeam": "Liverpool",
@@ -1025,6 +1066,7 @@
         "AR": "0"
     },
     {
+        "Game": "Brighton vs Burnley",
         "Season": "2019-20",
         "DateTime": "2019-09-14T15:00:00Z",
         "HomeTeam": "Brighton",
@@ -1050,6 +1092,7 @@
         "AR": "0"
     },
     {
+        "Game": "Man United vs Leicester",
         "Season": "2019-20",
         "DateTime": "2019-09-14T15:00:00Z",
         "HomeTeam": "Man United",
@@ -1075,6 +1118,7 @@
         "AR": "0"
     },
     {
+        "Game": "Sheffield United vs Southampton",
         "Season": "2019-20",
         "DateTime": "2019-09-14T15:00:00Z",
         "HomeTeam": "Sheffield United",
@@ -1100,6 +1144,7 @@
         "AR": "0"
     },
     {
+        "Game": "Tottenham vs Crystal Palace",
         "Season": "2019-20",
         "DateTime": "2019-09-14T15:00:00Z",
         "HomeTeam": "Tottenham",
@@ -1125,6 +1170,7 @@
         "AR": "0"
     },
     {
+        "Game": "Wolves vs Chelsea",
         "Season": "2019-20",
         "DateTime": "2019-09-14T15:00:00Z",
         "HomeTeam": "Wolves",
@@ -1150,6 +1196,7 @@
         "AR": "0"
     },
     {
+        "Game": "Norwich vs Man City",
         "Season": "2019-20",
         "DateTime": "2019-09-14T17:30:00Z",
         "HomeTeam": "Norwich",
@@ -1175,6 +1222,7 @@
         "AR": "0"
     },
     {
+        "Game": "Bournemouth vs Everton",
         "Season": "2019-20",
         "DateTime": "2019-09-15T14:00:00Z",
         "HomeTeam": "Bournemouth",
@@ -1200,6 +1248,7 @@
         "AR": "0"
     },
     {
+        "Game": "Watford vs Arsenal",
         "Season": "2019-20",
         "DateTime": "2019-09-15T16:30:00Z",
         "HomeTeam": "Watford",
@@ -1225,6 +1274,7 @@
         "AR": "0"
     },
     {
+        "Game": "Aston Villa vs West Ham",
         "Season": "2019-20",
         "DateTime": "2019-09-16T20:00:00Z",
         "HomeTeam": "Aston Villa",
@@ -1250,6 +1300,7 @@
         "AR": "1"
     },
     {
+        "Game": "Southampton vs Bournemouth",
         "Season": "2019-20",
         "DateTime": "2019-09-20T20:00:00Z",
         "HomeTeam": "Southampton",
@@ -1275,6 +1326,7 @@
         "AR": "0"
     },
     {
+        "Game": "Leicester vs Tottenham",
         "Season": "2019-20",
         "DateTime": "2019-09-21T12:30:00Z",
         "HomeTeam": "Leicester",
@@ -1300,6 +1352,7 @@
         "AR": "0"
     },
     {
+        "Game": "Burnley vs Norwich",
         "Season": "2019-20",
         "DateTime": "2019-09-21T15:00:00Z",
         "HomeTeam": "Burnley",
@@ -1325,6 +1378,7 @@
         "AR": "0"
     },
     {
+        "Game": "Everton vs Sheffield United",
         "Season": "2019-20",
         "DateTime": "2019-09-21T15:00:00Z",
         "HomeTeam": "Everton",
@@ -1350,6 +1404,7 @@
         "AR": "0"
     },
     {
+        "Game": "Man City vs Watford",
         "Season": "2019-20",
         "DateTime": "2019-09-21T15:00:00Z",
         "HomeTeam": "Man City",
@@ -1375,6 +1430,7 @@
         "AR": "0"
     },
     {
+        "Game": "Newcastle vs Brighton",
         "Season": "2019-20",
         "DateTime": "2019-09-21T17:30:00Z",
         "HomeTeam": "Newcastle",
@@ -1400,6 +1456,7 @@
         "AR": "0"
     },
     {
+        "Game": "Crystal Palace vs Wolves",
         "Season": "2019-20",
         "DateTime": "2019-09-22T14:00:00Z",
         "HomeTeam": "Crystal Palace",
@@ -1425,6 +1482,7 @@
         "AR": "1"
     },
     {
+        "Game": "West Ham vs Man United",
         "Season": "2019-20",
         "DateTime": "2019-09-22T14:00:00Z",
         "HomeTeam": "West Ham",
@@ -1450,6 +1508,7 @@
         "AR": "0"
     },
     {
+        "Game": "Arsenal vs Aston Villa",
         "Season": "2019-20",
         "DateTime": "2019-09-22T16:30:00Z",
         "HomeTeam": "Arsenal",
@@ -1475,6 +1534,7 @@
         "AR": "0"
     },
     {
+        "Game": "Chelsea vs Liverpool",
         "Season": "2019-20",
         "DateTime": "2019-09-22T16:30:00Z",
         "HomeTeam": "Chelsea",
@@ -1500,6 +1560,7 @@
         "AR": "0"
     },
     {
+        "Game": "Sheffield United vs Liverpool",
         "Season": "2019-20",
         "DateTime": "2019-09-28T12:30:00Z",
         "HomeTeam": "Sheffield United",
@@ -1525,6 +1586,7 @@
         "AR": "0"
     },
     {
+        "Game": "Aston Villa vs Burnley",
         "Season": "2019-20",
         "DateTime": "2019-09-28T15:00:00Z",
         "HomeTeam": "Aston Villa",
@@ -1550,6 +1612,7 @@
         "AR": "0"
     },
     {
+        "Game": "Bournemouth vs West Ham",
         "Season": "2019-20",
         "DateTime": "2019-09-28T15:00:00Z",
         "HomeTeam": "Bournemouth",
@@ -1575,6 +1638,7 @@
         "AR": "0"
     },
     {
+        "Game": "Chelsea vs Brighton",
         "Season": "2019-20",
         "DateTime": "2019-09-28T15:00:00Z",
         "HomeTeam": "Chelsea",
@@ -1600,6 +1664,7 @@
         "AR": "0"
     },
     {
+        "Game": "Crystal Palace vs Norwich",
         "Season": "2019-20",
         "DateTime": "2019-09-28T15:00:00Z",
         "HomeTeam": "Crystal Palace",
@@ -1625,6 +1690,7 @@
         "AR": "0"
     },
     {
+        "Game": "Tottenham vs Southampton",
         "Season": "2019-20",
         "DateTime": "2019-09-28T15:00:00Z",
         "HomeTeam": "Tottenham",
@@ -1650,6 +1716,7 @@
         "AR": "0"
     },
     {
+        "Game": "Wolves vs Watford",
         "Season": "2019-20",
         "DateTime": "2019-09-28T15:00:00Z",
         "HomeTeam": "Wolves",
@@ -1675,6 +1742,7 @@
         "AR": "0"
     },
     {
+        "Game": "Everton vs Man City",
         "Season": "2019-20",
         "DateTime": "2019-09-28T17:30:00Z",
         "HomeTeam": "Everton",
@@ -1700,6 +1768,7 @@
         "AR": "0"
     },
     {
+        "Game": "Leicester vs Newcastle",
         "Season": "2019-20",
         "DateTime": "2019-09-29T16:30:00Z",
         "HomeTeam": "Leicester",
@@ -1725,6 +1794,7 @@
         "AR": "1"
     },
     {
+        "Game": "Man United vs Arsenal",
         "Season": "2019-20",
         "DateTime": "2019-09-30T20:00:00Z",
         "HomeTeam": "Man United",
@@ -1750,6 +1820,7 @@
         "AR": "0"
     },
     {
+        "Game": "Brighton vs Tottenham",
         "Season": "2019-20",
         "DateTime": "2019-10-05T12:30:00Z",
         "HomeTeam": "Brighton",
@@ -1775,6 +1846,7 @@
         "AR": "0"
     },
     {
+        "Game": "Burnley vs Everton",
         "Season": "2019-20",
         "DateTime": "2019-10-05T15:00:00Z",
         "HomeTeam": "Burnley",
@@ -1800,6 +1872,7 @@
         "AR": "1"
     },
     {
+        "Game": "Liverpool vs Leicester",
         "Season": "2019-20",
         "DateTime": "2019-10-05T15:00:00Z",
         "HomeTeam": "Liverpool",
@@ -1825,6 +1898,7 @@
         "AR": "0"
     },
     {
+        "Game": "Norwich vs Aston Villa",
         "Season": "2019-20",
         "DateTime": "2019-10-05T15:00:00Z",
         "HomeTeam": "Norwich",
@@ -1850,6 +1924,7 @@
         "AR": "0"
     },
     {
+        "Game": "Watford vs Sheffield United",
         "Season": "2019-20",
         "DateTime": "2019-10-05T15:00:00Z",
         "HomeTeam": "Watford",
@@ -1875,6 +1950,7 @@
         "AR": "0"
     },
     {
+        "Game": "West Ham vs Crystal Palace",
         "Season": "2019-20",
         "DateTime": "2019-10-05T17:30:00Z",
         "HomeTeam": "West Ham",
@@ -1900,6 +1976,7 @@
         "AR": "0"
     },
     {
+        "Game": "Arsenal vs Bournemouth",
         "Season": "2019-20",
         "DateTime": "2019-10-06T14:00:00Z",
         "HomeTeam": "Arsenal",
@@ -1925,6 +2002,7 @@
         "AR": "0"
     },
     {
+        "Game": "Man City vs Wolves",
         "Season": "2019-20",
         "DateTime": "2019-10-06T14:00:00Z",
         "HomeTeam": "Man City",
@@ -1950,6 +2028,7 @@
         "AR": "0"
     },
     {
+        "Game": "Southampton vs Chelsea",
         "Season": "2019-20",
         "DateTime": "2019-10-06T14:00:00Z",
         "HomeTeam": "Southampton",
@@ -1975,6 +2054,7 @@
         "AR": "0"
     },
     {
+        "Game": "Newcastle vs Man United",
         "Season": "2019-20",
         "DateTime": "2019-10-06T16:30:00Z",
         "HomeTeam": "Newcastle",
@@ -2000,6 +2080,7 @@
         "AR": "0"
     },
     {
+        "Game": "Everton vs West Ham",
         "Season": "2019-20",
         "DateTime": "2019-10-19T12:30:00Z",
         "HomeTeam": "Everton",
@@ -2025,6 +2106,7 @@
         "AR": "0"
     },
     {
+        "Game": "Aston Villa vs Brighton",
         "Season": "2019-20",
         "DateTime": "2019-10-19T15:00:00Z",
         "HomeTeam": "Aston Villa",
@@ -2050,6 +2132,7 @@
         "AR": "1"
     },
     {
+        "Game": "Bournemouth vs Norwich",
         "Season": "2019-20",
         "DateTime": "2019-10-19T15:00:00Z",
         "HomeTeam": "Bournemouth",
@@ -2075,6 +2158,7 @@
         "AR": "0"
     },
     {
+        "Game": "Chelsea vs Newcastle",
         "Season": "2019-20",
         "DateTime": "2019-10-19T15:00:00Z",
         "HomeTeam": "Chelsea",
@@ -2100,6 +2184,7 @@
         "AR": "0"
     },
     {
+        "Game": "Leicester vs Burnley",
         "Season": "2019-20",
         "DateTime": "2019-10-19T15:00:00Z",
         "HomeTeam": "Leicester",
@@ -2125,6 +2210,7 @@
         "AR": "0"
     },
     {
+        "Game": "Tottenham vs Watford",
         "Season": "2019-20",
         "DateTime": "2019-10-19T15:00:00Z",
         "HomeTeam": "Tottenham",
@@ -2150,6 +2236,7 @@
         "AR": "0"
     },
     {
+        "Game": "Wolves vs Southampton",
         "Season": "2019-20",
         "DateTime": "2019-10-19T15:00:00Z",
         "HomeTeam": "Wolves",
@@ -2175,6 +2262,7 @@
         "AR": "0"
     },
     {
+        "Game": "Crystal Palace vs Man City",
         "Season": "2019-20",
         "DateTime": "2019-10-19T17:30:00Z",
         "HomeTeam": "Crystal Palace",
@@ -2200,6 +2288,7 @@
         "AR": "0"
     },
     {
+        "Game": "Man United vs Liverpool",
         "Season": "2019-20",
         "DateTime": "2019-10-20T16:30:00Z",
         "HomeTeam": "Man United",
@@ -2225,6 +2314,7 @@
         "AR": "0"
     },
     {
+        "Game": "Sheffield United vs Arsenal",
         "Season": "2019-20",
         "DateTime": "2019-10-21T20:00:00Z",
         "HomeTeam": "Sheffield United",
@@ -2250,6 +2340,7 @@
         "AR": "0"
     },
     {
+        "Game": "Southampton vs Leicester",
         "Season": "2019-20",
         "DateTime": "2019-10-25T20:00:00Z",
         "HomeTeam": "Southampton",
@@ -2275,6 +2366,7 @@
         "AR": "0"
     },
     {
+        "Game": "Man City vs Aston Villa",
         "Season": "2019-20",
         "DateTime": "2019-10-26T12:30:00Z",
         "HomeTeam": "Man City",
@@ -2300,6 +2392,7 @@
         "AR": "0"
     },
     {
+        "Game": "Brighton vs Everton",
         "Season": "2019-20",
         "DateTime": "2019-10-26T15:00:00Z",
         "HomeTeam": "Brighton",
@@ -2325,6 +2418,7 @@
         "AR": "0"
     },
     {
+        "Game": "Watford vs Bournemouth",
         "Season": "2019-20",
         "DateTime": "2019-10-26T15:00:00Z",
         "HomeTeam": "Watford",
@@ -2350,6 +2444,7 @@
         "AR": "0"
     },
     {
+        "Game": "West Ham vs Sheffield United",
         "Season": "2019-20",
         "DateTime": "2019-10-26T15:00:00Z",
         "HomeTeam": "West Ham",
@@ -2375,6 +2470,7 @@
         "AR": "0"
     },
     {
+        "Game": "Burnley vs Chelsea",
         "Season": "2019-20",
         "DateTime": "2019-10-26T17:30:00Z",
         "HomeTeam": "Burnley",
@@ -2400,6 +2496,7 @@
         "AR": "0"
     },
     {
+        "Game": "Newcastle vs Wolves",
         "Season": "2019-20",
         "DateTime": "2019-10-27T14:00:00Z",
         "HomeTeam": "Newcastle",
@@ -2425,6 +2522,7 @@
         "AR": "0"
     },
     {
+        "Game": "Arsenal vs Crystal Palace",
         "Season": "2019-20",
         "DateTime": "2019-10-27T16:30:00Z",
         "HomeTeam": "Arsenal",
@@ -2450,6 +2548,7 @@
         "AR": "0"
     },
     {
+        "Game": "Liverpool vs Tottenham",
         "Season": "2019-20",
         "DateTime": "2019-10-27T16:30:00Z",
         "HomeTeam": "Liverpool",
@@ -2475,6 +2574,7 @@
         "AR": "0"
     },
     {
+        "Game": "Norwich vs Man United",
         "Season": "2019-20",
         "DateTime": "2019-10-27T16:30:00Z",
         "HomeTeam": "Norwich",
@@ -2500,6 +2600,7 @@
         "AR": "0"
     },
     {
+        "Game": "Bournemouth vs Man United",
         "Season": "2019-20",
         "DateTime": "2019-11-02T12:30:00Z",
         "HomeTeam": "Bournemouth",
@@ -2525,6 +2626,7 @@
         "AR": "0"
     },
     {
+        "Game": "Arsenal vs Wolves",
         "Season": "2019-20",
         "DateTime": "2019-11-02T15:00:00Z",
         "HomeTeam": "Arsenal",
@@ -2550,6 +2652,7 @@
         "AR": "0"
     },
     {
+        "Game": "Aston Villa vs Liverpool",
         "Season": "2019-20",
         "DateTime": "2019-11-02T15:00:00Z",
         "HomeTeam": "Aston Villa",
@@ -2575,6 +2678,7 @@
         "AR": "0"
     },
     {
+        "Game": "Brighton vs Norwich",
         "Season": "2019-20",
         "DateTime": "2019-11-02T15:00:00Z",
         "HomeTeam": "Brighton",
@@ -2600,6 +2704,7 @@
         "AR": "0"
     },
     {
+        "Game": "Man City vs Southampton",
         "Season": "2019-20",
         "DateTime": "2019-11-02T15:00:00Z",
         "HomeTeam": "Man City",
@@ -2625,6 +2730,7 @@
         "AR": "0"
     },
     {
+        "Game": "Sheffield United vs Burnley",
         "Season": "2019-20",
         "DateTime": "2019-11-02T15:00:00Z",
         "HomeTeam": "Sheffield United",
@@ -2650,6 +2756,7 @@
         "AR": "0"
     },
     {
+        "Game": "West Ham vs Newcastle",
         "Season": "2019-20",
         "DateTime": "2019-11-02T15:00:00Z",
         "HomeTeam": "West Ham",
@@ -2675,6 +2782,7 @@
         "AR": "0"
     },
     {
+        "Game": "Watford vs Chelsea",
         "Season": "2019-20",
         "DateTime": "2019-11-02T17:30:00Z",
         "HomeTeam": "Watford",
@@ -2700,6 +2808,7 @@
         "AR": "0"
     },
     {
+        "Game": "Crystal Palace vs Leicester",
         "Season": "2019-20",
         "DateTime": "2019-11-03T14:00:00Z",
         "HomeTeam": "Crystal Palace",
@@ -2725,6 +2834,7 @@
         "AR": "0"
     },
     {
+        "Game": "Everton vs Tottenham",
         "Season": "2019-20",
         "DateTime": "2019-11-03T16:30:00Z",
         "HomeTeam": "Everton",
@@ -2750,6 +2860,7 @@
         "AR": "1"
     },
     {
+        "Game": "Norwich vs Watford",
         "Season": "2019-20",
         "DateTime": "2019-11-08T20:00:00Z",
         "HomeTeam": "Norwich",
@@ -2775,6 +2886,7 @@
         "AR": "1"
     },
     {
+        "Game": "Chelsea vs Crystal Palace",
         "Season": "2019-20",
         "DateTime": "2019-11-09T12:30:00Z",
         "HomeTeam": "Chelsea",
@@ -2800,6 +2912,7 @@
         "AR": "0"
     },
     {
+        "Game": "Burnley vs West Ham",
         "Season": "2019-20",
         "DateTime": "2019-11-09T15:00:00Z",
         "HomeTeam": "Burnley",
@@ -2825,6 +2938,7 @@
         "AR": "0"
     },
     {
+        "Game": "Newcastle vs Bournemouth",
         "Season": "2019-20",
         "DateTime": "2019-11-09T15:00:00Z",
         "HomeTeam": "Newcastle",
@@ -2850,6 +2964,7 @@
         "AR": "0"
     },
     {
+        "Game": "Southampton vs Everton",
         "Season": "2019-20",
         "DateTime": "2019-11-09T15:00:00Z",
         "HomeTeam": "Southampton",
@@ -2875,6 +2990,7 @@
         "AR": "0"
     },
     {
+        "Game": "Tottenham vs Sheffield United",
         "Season": "2019-20",
         "DateTime": "2019-11-09T15:00:00Z",
         "HomeTeam": "Tottenham",
@@ -2900,6 +3016,7 @@
         "AR": "0"
     },
     {
+        "Game": "Leicester vs Arsenal",
         "Season": "2019-20",
         "DateTime": "2019-11-09T17:30:00Z",
         "HomeTeam": "Leicester",
@@ -2925,6 +3042,7 @@
         "AR": "0"
     },
     {
+        "Game": "Man United vs Brighton",
         "Season": "2019-20",
         "DateTime": "2019-11-10T14:00:00Z",
         "HomeTeam": "Man United",
@@ -2950,6 +3068,7 @@
         "AR": "0"
     },
     {
+        "Game": "Wolves vs Aston Villa",
         "Season": "2019-20",
         "DateTime": "2019-11-10T14:00:00Z",
         "HomeTeam": "Wolves",
@@ -2975,6 +3094,7 @@
         "AR": "0"
     },
     {
+        "Game": "Liverpool vs Man City",
         "Season": "2019-20",
         "DateTime": "2019-11-10T16:30:00Z",
         "HomeTeam": "Liverpool",
@@ -3000,6 +3120,7 @@
         "AR": "0"
     },
     {
+        "Game": "West Ham vs Tottenham",
         "Season": "2019-20",
         "DateTime": "2019-11-23T12:30:00Z",
         "HomeTeam": "West Ham",
@@ -3025,6 +3146,7 @@
         "AR": "0"
     },
     {
+        "Game": "Arsenal vs Southampton",
         "Season": "2019-20",
         "DateTime": "2019-11-23T15:00:00Z",
         "HomeTeam": "Arsenal",
@@ -3050,6 +3172,7 @@
         "AR": "0"
     },
     {
+        "Game": "Bournemouth vs Wolves",
         "Season": "2019-20",
         "DateTime": "2019-11-23T15:00:00Z",
         "HomeTeam": "Bournemouth",
@@ -3075,6 +3198,7 @@
         "AR": "0"
     },
     {
+        "Game": "Brighton vs Leicester",
         "Season": "2019-20",
         "DateTime": "2019-11-23T15:00:00Z",
         "HomeTeam": "Brighton",
@@ -3100,6 +3224,7 @@
         "AR": "0"
     },
     {
+        "Game": "Crystal Palace vs Liverpool",
         "Season": "2019-20",
         "DateTime": "2019-11-23T15:00:00Z",
         "HomeTeam": "Crystal Palace",
@@ -3125,6 +3250,7 @@
         "AR": "0"
     },
     {
+        "Game": "Everton vs Norwich",
         "Season": "2019-20",
         "DateTime": "2019-11-23T15:00:00Z",
         "HomeTeam": "Everton",
@@ -3150,6 +3276,7 @@
         "AR": "0"
     },
     {
+        "Game": "Watford vs Burnley",
         "Season": "2019-20",
         "DateTime": "2019-11-23T15:00:00Z",
         "HomeTeam": "Watford",
@@ -3175,6 +3302,7 @@
         "AR": "0"
     },
     {
+        "Game": "Man City vs Chelsea",
         "Season": "2019-20",
         "DateTime": "2019-11-23T17:30:00Z",
         "HomeTeam": "Man City",
@@ -3200,6 +3328,7 @@
         "AR": "0"
     },
     {
+        "Game": "Sheffield United vs Man United",
         "Season": "2019-20",
         "DateTime": "2019-11-24T16:30:00Z",
         "HomeTeam": "Sheffield United",
@@ -3225,6 +3354,7 @@
         "AR": "0"
     },
     {
+        "Game": "Aston Villa vs Newcastle",
         "Season": "2019-20",
         "DateTime": "2019-11-25T20:00:00Z",
         "HomeTeam": "Aston Villa",
@@ -3250,6 +3380,7 @@
         "AR": "0"
     },
     {
+        "Game": "Newcastle vs Man City",
         "Season": "2019-20",
         "DateTime": "2019-11-30T12:30:00Z",
         "HomeTeam": "Newcastle",
@@ -3275,6 +3406,7 @@
         "AR": "0"
     },
     {
+        "Game": "Burnley vs Crystal Palace",
         "Season": "2019-20",
         "DateTime": "2019-11-30T15:00:00Z",
         "HomeTeam": "Burnley",
@@ -3300,6 +3432,7 @@
         "AR": "0"
     },
     {
+        "Game": "Chelsea vs West Ham",
         "Season": "2019-20",
         "DateTime": "2019-11-30T15:00:00Z",
         "HomeTeam": "Chelsea",
@@ -3325,6 +3458,7 @@
         "AR": "0"
     },
     {
+        "Game": "Liverpool vs Brighton",
         "Season": "2019-20",
         "DateTime": "2019-11-30T15:00:00Z",
         "HomeTeam": "Liverpool",
@@ -3350,6 +3484,7 @@
         "AR": "0"
     },
     {
+        "Game": "Tottenham vs Bournemouth",
         "Season": "2019-20",
         "DateTime": "2019-11-30T15:00:00Z",
         "HomeTeam": "Tottenham",
@@ -3375,6 +3510,7 @@
         "AR": "0"
     },
     {
+        "Game": "Southampton vs Watford",
         "Season": "2019-20",
         "DateTime": "2019-11-30T17:30:00Z",
         "HomeTeam": "Southampton",
@@ -3400,6 +3536,7 @@
         "AR": "0"
     },
     {
+        "Game": "Norwich vs Arsenal",
         "Season": "2019-20",
         "DateTime": "2019-12-01T14:00:00Z",
         "HomeTeam": "Norwich",
@@ -3425,6 +3562,7 @@
         "AR": "0"
     },
     {
+        "Game": "Wolves vs Sheffield United",
         "Season": "2019-20",
         "DateTime": "2019-12-01T14:00:00Z",
         "HomeTeam": "Wolves",
@@ -3450,6 +3588,7 @@
         "AR": "0"
     },
     {
+        "Game": "Leicester vs Everton",
         "Season": "2019-20",
         "DateTime": "2019-12-01T16:30:00Z",
         "HomeTeam": "Leicester",
@@ -3475,6 +3614,7 @@
         "AR": "0"
     },
     {
+        "Game": "Man United vs Aston Villa",
         "Season": "2019-20",
         "DateTime": "2019-12-01T16:30:00Z",
         "HomeTeam": "Man United",
@@ -3500,6 +3640,7 @@
         "AR": "0"
     },
     {
+        "Game": "Crystal Palace vs Bournemouth",
         "Season": "2019-20",
         "DateTime": "2019-12-03T19:30:00Z",
         "HomeTeam": "Crystal Palace",
@@ -3525,6 +3666,7 @@
         "AR": "0"
     },
     {
+        "Game": "Burnley vs Man City",
         "Season": "2019-20",
         "DateTime": "2019-12-03T20:15:00Z",
         "HomeTeam": "Burnley",
@@ -3550,6 +3692,7 @@
         "AR": "0"
     },
     {
+        "Game": "Chelsea vs Aston Villa",
         "Season": "2019-20",
         "DateTime": "2019-12-04T19:30:00Z",
         "HomeTeam": "Chelsea",
@@ -3575,6 +3718,7 @@
         "AR": "0"
     },
     {
+        "Game": "Leicester vs Watford",
         "Season": "2019-20",
         "DateTime": "2019-12-04T19:30:00Z",
         "HomeTeam": "Leicester",
@@ -3600,6 +3744,7 @@
         "AR": "0"
     },
     {
+        "Game": "Man United vs Tottenham",
         "Season": "2019-20",
         "DateTime": "2019-12-04T19:30:00Z",
         "HomeTeam": "Man United",
@@ -3625,6 +3770,7 @@
         "AR": "0"
     },
     {
+        "Game": "Southampton vs Norwich",
         "Season": "2019-20",
         "DateTime": "2019-12-04T19:30:00Z",
         "HomeTeam": "Southampton",
@@ -3650,6 +3796,7 @@
         "AR": "0"
     },
     {
+        "Game": "Wolves vs West Ham",
         "Season": "2019-20",
         "DateTime": "2019-12-04T19:30:00Z",
         "HomeTeam": "Wolves",
@@ -3675,6 +3822,7 @@
         "AR": "0"
     },
     {
+        "Game": "Liverpool vs Everton",
         "Season": "2019-20",
         "DateTime": "2019-12-04T20:15:00Z",
         "HomeTeam": "Liverpool",
@@ -3700,6 +3848,7 @@
         "AR": "0"
     },
     {
+        "Game": "Sheffield United vs Newcastle",
         "Season": "2019-20",
         "DateTime": "2019-12-05T19:30:00Z",
         "HomeTeam": "Sheffield United",
@@ -3725,6 +3874,7 @@
         "AR": "0"
     },
     {
+        "Game": "Arsenal vs Brighton",
         "Season": "2019-20",
         "DateTime": "2019-12-05T20:15:00Z",
         "HomeTeam": "Arsenal",
@@ -3750,6 +3900,7 @@
         "AR": "0"
     },
     {
+        "Game": "Everton vs Chelsea",
         "Season": "2019-20",
         "DateTime": "2019-12-07T12:30:00Z",
         "HomeTeam": "Everton",
@@ -3775,6 +3926,7 @@
         "AR": "0"
     },
     {
+        "Game": "Bournemouth vs Liverpool",
         "Season": "2019-20",
         "DateTime": "2019-12-07T15:00:00Z",
         "HomeTeam": "Bournemouth",
@@ -3800,6 +3952,7 @@
         "AR": "0"
     },
     {
+        "Game": "Tottenham vs Burnley",
         "Season": "2019-20",
         "DateTime": "2019-12-07T15:00:00Z",
         "HomeTeam": "Tottenham",
@@ -3825,6 +3978,7 @@
         "AR": "0"
     },
     {
+        "Game": "Watford vs Crystal Palace",
         "Season": "2019-20",
         "DateTime": "2019-12-07T15:00:00Z",
         "HomeTeam": "Watford",
@@ -3850,6 +4004,7 @@
         "AR": "0"
     },
     {
+        "Game": "Man City vs Man United",
         "Season": "2019-20",
         "DateTime": "2019-12-07T17:30:00Z",
         "HomeTeam": "Man City",
@@ -3875,6 +4030,7 @@
         "AR": "0"
     },
     {
+        "Game": "Aston Villa vs Leicester",
         "Season": "2019-20",
         "DateTime": "2019-12-08T14:00:00Z",
         "HomeTeam": "Aston Villa",
@@ -3900,6 +4056,7 @@
         "AR": "0"
     },
     {
+        "Game": "Newcastle vs Southampton",
         "Season": "2019-20",
         "DateTime": "2019-12-08T14:00:00Z",
         "HomeTeam": "Newcastle",
@@ -3925,6 +4082,7 @@
         "AR": "0"
     },
     {
+        "Game": "Norwich vs Sheffield United",
         "Season": "2019-20",
         "DateTime": "2019-12-08T14:00:00Z",
         "HomeTeam": "Norwich",
@@ -3950,6 +4108,7 @@
         "AR": "0"
     },
     {
+        "Game": "Brighton vs Wolves",
         "Season": "2019-20",
         "DateTime": "2019-12-08T16:30:00Z",
         "HomeTeam": "Brighton",
@@ -3975,6 +4134,7 @@
         "AR": "0"
     },
     {
+        "Game": "West Ham vs Arsenal",
         "Season": "2019-20",
         "DateTime": "2019-12-09T20:00:00Z",
         "HomeTeam": "West Ham",
@@ -4000,6 +4160,7 @@
         "AR": "0"
     },
     {
+        "Game": "Liverpool vs Watford",
         "Season": "2019-20",
         "DateTime": "2019-12-14T12:30:00Z",
         "HomeTeam": "Liverpool",
@@ -4025,6 +4186,7 @@
         "AR": "0"
     },
     {
+        "Game": "Burnley vs Newcastle",
         "Season": "2019-20",
         "DateTime": "2019-12-14T15:00:00Z",
         "HomeTeam": "Burnley",
@@ -4050,6 +4212,7 @@
         "AR": "0"
     },
     {
+        "Game": "Chelsea vs Bournemouth",
         "Season": "2019-20",
         "DateTime": "2019-12-14T15:00:00Z",
         "HomeTeam": "Chelsea",
@@ -4075,6 +4238,7 @@
         "AR": "0"
     },
     {
+        "Game": "Leicester vs Norwich",
         "Season": "2019-20",
         "DateTime": "2019-12-14T15:00:00Z",
         "HomeTeam": "Leicester",
@@ -4100,6 +4264,7 @@
         "AR": "0"
     },
     {
+        "Game": "Sheffield United vs Aston Villa",
         "Season": "2019-20",
         "DateTime": "2019-12-14T15:00:00Z",
         "HomeTeam": "Sheffield United",
@@ -4125,6 +4290,7 @@
         "AR": "0"
     },
     {
+        "Game": "Southampton vs West Ham",
         "Season": "2019-20",
         "DateTime": "2019-12-14T17:30:00Z",
         "HomeTeam": "Southampton",
@@ -4150,6 +4316,7 @@
         "AR": "0"
     },
     {
+        "Game": "Man United vs Everton",
         "Season": "2019-20",
         "DateTime": "2019-12-15T14:00:00Z",
         "HomeTeam": "Man United",
@@ -4175,6 +4342,7 @@
         "AR": "0"
     },
     {
+        "Game": "Wolves vs Tottenham",
         "Season": "2019-20",
         "DateTime": "2019-12-15T14:00:00Z",
         "HomeTeam": "Wolves",
@@ -4200,6 +4368,7 @@
         "AR": "0"
     },
     {
+        "Game": "Arsenal vs Man City",
         "Season": "2019-20",
         "DateTime": "2019-12-15T16:30:00Z",
         "HomeTeam": "Arsenal",
@@ -4225,6 +4394,7 @@
         "AR": "0"
     },
     {
+        "Game": "Crystal Palace vs Brighton",
         "Season": "2019-20",
         "DateTime": "2019-12-16T19:45:00Z",
         "HomeTeam": "Crystal Palace",
@@ -4250,6 +4420,7 @@
         "AR": "0"
     },
     {
+        "Game": "Everton vs Arsenal",
         "Season": "2019-20",
         "DateTime": "2019-12-21T12:30:00Z",
         "HomeTeam": "Everton",
@@ -4275,6 +4446,7 @@
         "AR": "0"
     },
     {
+        "Game": "Aston Villa vs Southampton",
         "Season": "2019-20",
         "DateTime": "2019-12-21T15:00:00Z",
         "HomeTeam": "Aston Villa",
@@ -4300,6 +4472,7 @@
         "AR": "0"
     },
     {
+        "Game": "Bournemouth vs Burnley",
         "Season": "2019-20",
         "DateTime": "2019-12-21T15:00:00Z",
         "HomeTeam": "Bournemouth",
@@ -4325,6 +4498,7 @@
         "AR": "0"
     },
     {
+        "Game": "Brighton vs Sheffield United",
         "Season": "2019-20",
         "DateTime": "2019-12-21T15:00:00Z",
         "HomeTeam": "Brighton",
@@ -4350,6 +4524,7 @@
         "AR": "0"
     },
     {
+        "Game": "Newcastle vs Crystal Palace",
         "Season": "2019-20",
         "DateTime": "2019-12-21T15:00:00Z",
         "HomeTeam": "Newcastle",
@@ -4375,6 +4550,7 @@
         "AR": "0"
     },
     {
+        "Game": "Norwich vs Wolves",
         "Season": "2019-20",
         "DateTime": "2019-12-21T15:00:00Z",
         "HomeTeam": "Norwich",
@@ -4400,6 +4576,7 @@
         "AR": "0"
     },
     {
+        "Game": "Man City vs Leicester",
         "Season": "2019-20",
         "DateTime": "2019-12-21T17:30:00Z",
         "HomeTeam": "Man City",
@@ -4425,6 +4602,7 @@
         "AR": "0"
     },
     {
+        "Game": "Watford vs Man United",
         "Season": "2019-20",
         "DateTime": "2019-12-22T14:00:00Z",
         "HomeTeam": "Watford",
@@ -4450,6 +4628,7 @@
         "AR": "0"
     },
     {
+        "Game": "Tottenham vs Chelsea",
         "Season": "2019-20",
         "DateTime": "2019-12-22T16:30:00Z",
         "HomeTeam": "Tottenham",
@@ -4475,6 +4654,7 @@
         "AR": "0"
     },
     {
+        "Game": "Tottenham vs Brighton",
         "Season": "2019-20",
         "DateTime": "2019-12-26T12:30:00Z",
         "HomeTeam": "Tottenham",
@@ -4500,6 +4680,7 @@
         "AR": "0"
     },
     {
+        "Game": "Aston Villa vs Norwich",
         "Season": "2019-20",
         "DateTime": "2019-12-26T15:00:00Z",
         "HomeTeam": "Aston Villa",
@@ -4525,6 +4706,7 @@
         "AR": "0"
     },
     {
+        "Game": "Bournemouth vs Arsenal",
         "Season": "2019-20",
         "DateTime": "2019-12-26T15:00:00Z",
         "HomeTeam": "Bournemouth",
@@ -4550,6 +4732,7 @@
         "AR": "0"
     },
     {
+        "Game": "Chelsea vs Southampton",
         "Season": "2019-20",
         "DateTime": "2019-12-26T15:00:00Z",
         "HomeTeam": "Chelsea",
@@ -4575,6 +4758,7 @@
         "AR": "0"
     },
     {
+        "Game": "Crystal Palace vs West Ham",
         "Season": "2019-20",
         "DateTime": "2019-12-26T15:00:00Z",
         "HomeTeam": "Crystal Palace",
@@ -4600,6 +4784,7 @@
         "AR": "0"
     },
     {
+        "Game": "Everton vs Burnley",
         "Season": "2019-20",
         "DateTime": "2019-12-26T15:00:00Z",
         "HomeTeam": "Everton",
@@ -4625,6 +4810,7 @@
         "AR": "0"
     },
     {
+        "Game": "Sheffield United vs Watford",
         "Season": "2019-20",
         "DateTime": "2019-12-26T15:00:00Z",
         "HomeTeam": "Sheffield United",
@@ -4650,6 +4836,7 @@
         "AR": "0"
     },
     {
+        "Game": "Man United vs Newcastle",
         "Season": "2019-20",
         "DateTime": "2019-12-26T17:30:00Z",
         "HomeTeam": "Man United",
@@ -4675,6 +4862,7 @@
         "AR": "0"
     },
     {
+        "Game": "Leicester vs Liverpool",
         "Season": "2019-20",
         "DateTime": "2019-12-26T20:00:00Z",
         "HomeTeam": "Leicester",
@@ -4700,6 +4888,7 @@
         "AR": "0"
     },
     {
+        "Game": "Wolves vs Man City",
         "Season": "2019-20",
         "DateTime": "2019-12-27T19:45:00Z",
         "HomeTeam": "Wolves",
@@ -4725,6 +4914,7 @@
         "AR": "1"
     },
     {
+        "Game": "Brighton vs Bournemouth",
         "Season": "2019-20",
         "DateTime": "2019-12-28T12:30:00Z",
         "HomeTeam": "Brighton",
@@ -4750,6 +4940,7 @@
         "AR": "0"
     },
     {
+        "Game": "Newcastle vs Everton",
         "Season": "2019-20",
         "DateTime": "2019-12-28T15:00:00Z",
         "HomeTeam": "Newcastle",
@@ -4775,6 +4966,7 @@
         "AR": "0"
     },
     {
+        "Game": "Southampton vs Crystal Palace",
         "Season": "2019-20",
         "DateTime": "2019-12-28T15:00:00Z",
         "HomeTeam": "Southampton",
@@ -4800,6 +4992,7 @@
         "AR": "0"
     },
     {
+        "Game": "Watford vs Aston Villa",
         "Season": "2019-20",
         "DateTime": "2019-12-28T15:00:00Z",
         "HomeTeam": "Watford",
@@ -4825,6 +5018,7 @@
         "AR": "0"
     },
     {
+        "Game": "Norwich vs Tottenham",
         "Season": "2019-20",
         "DateTime": "2019-12-28T17:30:00Z",
         "HomeTeam": "Norwich",
@@ -4850,6 +5044,7 @@
         "AR": "0"
     },
     {
+        "Game": "West Ham vs Leicester",
         "Season": "2019-20",
         "DateTime": "2019-12-28T17:30:00Z",
         "HomeTeam": "West Ham",
@@ -4875,6 +5070,7 @@
         "AR": "0"
     },
     {
+        "Game": "Burnley vs Man United",
         "Season": "2019-20",
         "DateTime": "2019-12-28T19:45:00Z",
         "HomeTeam": "Burnley",
@@ -4900,6 +5096,7 @@
         "AR": "0"
     },
     {
+        "Game": "Arsenal vs Chelsea",
         "Season": "2019-20",
         "DateTime": "2019-12-29T14:00:00Z",
         "HomeTeam": "Arsenal",
@@ -4925,6 +5122,7 @@
         "AR": "0"
     },
     {
+        "Game": "Liverpool vs Wolves",
         "Season": "2019-20",
         "DateTime": "2019-12-29T16:30:00Z",
         "HomeTeam": "Liverpool",
@@ -4950,6 +5148,7 @@
         "AR": "0"
     },
     {
+        "Game": "Man City vs Sheffield United",
         "Season": "2019-20",
         "DateTime": "2019-12-29T18:00:00Z",
         "HomeTeam": "Man City",
@@ -4975,6 +5174,7 @@
         "AR": "0"
     },
     {
+        "Game": "Brighton vs Chelsea",
         "Season": "2019-20",
         "DateTime": "2020-01-01T12:30:00Z",
         "HomeTeam": "Brighton",
@@ -5000,6 +5200,7 @@
         "AR": "0"
     },
     {
+        "Game": "Burnley vs Aston Villa",
         "Season": "2019-20",
         "DateTime": "2020-01-01T12:30:00Z",
         "HomeTeam": "Burnley",
@@ -5025,6 +5226,7 @@
         "AR": "0"
     },
     {
+        "Game": "Newcastle vs Leicester",
         "Season": "2019-20",
         "DateTime": "2020-01-01T15:00:00Z",
         "HomeTeam": "Newcastle",
@@ -5050,6 +5252,7 @@
         "AR": "0"
     },
     {
+        "Game": "Southampton vs Tottenham",
         "Season": "2019-20",
         "DateTime": "2020-01-01T15:00:00Z",
         "HomeTeam": "Southampton",
@@ -5075,6 +5278,7 @@
         "AR": "0"
     },
     {
+        "Game": "Watford vs Wolves",
         "Season": "2019-20",
         "DateTime": "2020-01-01T15:00:00Z",
         "HomeTeam": "Watford",
@@ -5100,6 +5304,7 @@
         "AR": "0"
     },
     {
+        "Game": "Man City vs Everton",
         "Season": "2019-20",
         "DateTime": "2020-01-01T17:30:00Z",
         "HomeTeam": "Man City",
@@ -5125,6 +5330,7 @@
         "AR": "0"
     },
     {
+        "Game": "Norwich vs Crystal Palace",
         "Season": "2019-20",
         "DateTime": "2020-01-01T17:30:00Z",
         "HomeTeam": "Norwich",
@@ -5150,6 +5356,7 @@
         "AR": "0"
     },
     {
+        "Game": "West Ham vs Bournemouth",
         "Season": "2019-20",
         "DateTime": "2020-01-01T17:30:00Z",
         "HomeTeam": "West Ham",
@@ -5175,6 +5382,7 @@
         "AR": "0"
     },
     {
+        "Game": "Arsenal vs Man United",
         "Season": "2019-20",
         "DateTime": "2020-01-01T20:00:00Z",
         "HomeTeam": "Arsenal",
@@ -5200,6 +5408,7 @@
         "AR": "0"
     },
     {
+        "Game": "Liverpool vs Sheffield United",
         "Season": "2019-20",
         "DateTime": "2020-01-02T20:00:00Z",
         "HomeTeam": "Liverpool",
@@ -5225,6 +5434,7 @@
         "AR": "0"
     },
     {
+        "Game": "Sheffield United vs West Ham",
         "Season": "2019-20",
         "DateTime": "2020-01-10T20:00:00Z",
         "HomeTeam": "Sheffield United",
@@ -5250,6 +5460,7 @@
         "AR": "0"
     },
     {
+        "Game": "Crystal Palace vs Arsenal",
         "Season": "2019-20",
         "DateTime": "2020-01-11T12:30:00Z",
         "HomeTeam": "Crystal Palace",
@@ -5275,6 +5486,7 @@
         "AR": "1"
     },
     {
+        "Game": "Chelsea vs Burnley",
         "Season": "2019-20",
         "DateTime": "2020-01-11T15:00:00Z",
         "HomeTeam": "Chelsea",
@@ -5300,6 +5512,7 @@
         "AR": "0"
     },
     {
+        "Game": "Everton vs Brighton",
         "Season": "2019-20",
         "DateTime": "2020-01-11T15:00:00Z",
         "HomeTeam": "Everton",
@@ -5325,6 +5538,7 @@
         "AR": "0"
     },
     {
+        "Game": "Leicester vs Southampton",
         "Season": "2019-20",
         "DateTime": "2020-01-11T15:00:00Z",
         "HomeTeam": "Leicester",
@@ -5350,6 +5564,7 @@
         "AR": "0"
     },
     {
+        "Game": "Man United vs Norwich",
         "Season": "2019-20",
         "DateTime": "2020-01-11T15:00:00Z",
         "HomeTeam": "Man United",
@@ -5375,6 +5590,7 @@
         "AR": "0"
     },
     {
+        "Game": "Wolves vs Newcastle",
         "Season": "2019-20",
         "DateTime": "2020-01-11T15:00:00Z",
         "HomeTeam": "Wolves",
@@ -5400,6 +5616,7 @@
         "AR": "0"
     },
     {
+        "Game": "Tottenham vs Liverpool",
         "Season": "2019-20",
         "DateTime": "2020-01-11T17:30:00Z",
         "HomeTeam": "Tottenham",
@@ -5425,6 +5642,7 @@
         "AR": "0"
     },
     {
+        "Game": "Bournemouth vs Watford",
         "Season": "2019-20",
         "DateTime": "2020-01-12T14:00:00Z",
         "HomeTeam": "Bournemouth",
@@ -5450,6 +5668,7 @@
         "AR": "0"
     },
     {
+        "Game": "Aston Villa vs Man City",
         "Season": "2019-20",
         "DateTime": "2020-01-12T16:30:00Z",
         "HomeTeam": "Aston Villa",
@@ -5475,6 +5694,7 @@
         "AR": "0"
     },
     {
+        "Game": "Watford vs Tottenham",
         "Season": "2019-20",
         "DateTime": "2020-01-18T12:30:00Z",
         "HomeTeam": "Watford",
@@ -5500,6 +5720,7 @@
         "AR": "0"
     },
     {
+        "Game": "Arsenal vs Sheffield United",
         "Season": "2019-20",
         "DateTime": "2020-01-18T15:00:00Z",
         "HomeTeam": "Arsenal",
@@ -5525,6 +5746,7 @@
         "AR": "0"
     },
     {
+        "Game": "Brighton vs Aston Villa",
         "Season": "2019-20",
         "DateTime": "2020-01-18T15:00:00Z",
         "HomeTeam": "Brighton",
@@ -5550,6 +5772,7 @@
         "AR": "0"
     },
     {
+        "Game": "Man City vs Crystal Palace",
         "Season": "2019-20",
         "DateTime": "2020-01-18T15:00:00Z",
         "HomeTeam": "Man City",
@@ -5575,6 +5798,7 @@
         "AR": "0"
     },
     {
+        "Game": "Norwich vs Bournemouth",
         "Season": "2019-20",
         "DateTime": "2020-01-18T15:00:00Z",
         "HomeTeam": "Norwich",
@@ -5600,6 +5824,7 @@
         "AR": "1"
     },
     {
+        "Game": "Southampton vs Wolves",
         "Season": "2019-20",
         "DateTime": "2020-01-18T15:00:00Z",
         "HomeTeam": "Southampton",
@@ -5625,6 +5850,7 @@
         "AR": "0"
     },
     {
+        "Game": "West Ham vs Everton",
         "Season": "2019-20",
         "DateTime": "2020-01-18T15:00:00Z",
         "HomeTeam": "West Ham",
@@ -5650,6 +5876,7 @@
         "AR": "0"
     },
     {
+        "Game": "Newcastle vs Chelsea",
         "Season": "2019-20",
         "DateTime": "2020-01-18T17:30:00Z",
         "HomeTeam": "Newcastle",
@@ -5675,6 +5902,7 @@
         "AR": "0"
     },
     {
+        "Game": "Burnley vs Leicester",
         "Season": "2019-20",
         "DateTime": "2020-01-19T14:00:00Z",
         "HomeTeam": "Burnley",
@@ -5700,6 +5928,7 @@
         "AR": "0"
     },
     {
+        "Game": "Liverpool vs Man United",
         "Season": "2019-20",
         "DateTime": "2020-01-19T16:30:00Z",
         "HomeTeam": "Liverpool",
@@ -5725,6 +5954,7 @@
         "AR": "0"
     },
     {
+        "Game": "Aston Villa vs Watford",
         "Season": "2019-20",
         "DateTime": "2020-01-21T19:30:00Z",
         "HomeTeam": "Aston Villa",
@@ -5750,6 +5980,7 @@
         "AR": "0"
     },
     {
+        "Game": "Bournemouth vs Brighton",
         "Season": "2019-20",
         "DateTime": "2020-01-21T19:30:00Z",
         "HomeTeam": "Bournemouth",
@@ -5775,6 +6006,7 @@
         "AR": "0"
     },
     {
+        "Game": "Crystal Palace vs Southampton",
         "Season": "2019-20",
         "DateTime": "2020-01-21T19:30:00Z",
         "HomeTeam": "Crystal Palace",
@@ -5800,6 +6032,7 @@
         "AR": "0"
     },
     {
+        "Game": "Everton vs Newcastle",
         "Season": "2019-20",
         "DateTime": "2020-01-21T19:30:00Z",
         "HomeTeam": "Everton",
@@ -5825,6 +6058,7 @@
         "AR": "0"
     },
     {
+        "Game": "Sheffield United vs Man City",
         "Season": "2019-20",
         "DateTime": "2020-01-21T19:30:00Z",
         "HomeTeam": "Sheffield United",
@@ -5850,6 +6084,7 @@
         "AR": "0"
     },
     {
+        "Game": "Chelsea vs Arsenal",
         "Season": "2019-20",
         "DateTime": "2020-01-21T20:15:00Z",
         "HomeTeam": "Chelsea",
@@ -5875,6 +6110,7 @@
         "AR": "1"
     },
     {
+        "Game": "Leicester vs West Ham",
         "Season": "2019-20",
         "DateTime": "2020-01-22T19:30:00Z",
         "HomeTeam": "Leicester",
@@ -5900,6 +6136,7 @@
         "AR": "0"
     },
     {
+        "Game": "Tottenham vs Norwich",
         "Season": "2019-20",
         "DateTime": "2020-01-22T19:30:00Z",
         "HomeTeam": "Tottenham",
@@ -5925,6 +6162,7 @@
         "AR": "0"
     },
     {
+        "Game": "Man United vs Burnley",
         "Season": "2019-20",
         "DateTime": "2020-01-22T20:15:00Z",
         "HomeTeam": "Man United",
@@ -5950,6 +6188,7 @@
         "AR": "0"
     },
     {
+        "Game": "Wolves vs Liverpool",
         "Season": "2019-20",
         "DateTime": "2020-01-23T20:00:00Z",
         "HomeTeam": "Wolves",
@@ -5975,6 +6214,7 @@
         "AR": "0"
     },
     {
+        "Game": "West Ham vs Liverpool",
         "Season": "2019-20",
         "DateTime": "2020-01-29T19:45:00Z",
         "HomeTeam": "West Ham",
@@ -6000,6 +6240,7 @@
         "AR": "0"
     },
     {
+        "Game": "Leicester vs Chelsea",
         "Season": "2019-20",
         "DateTime": "2020-02-01T12:30:00Z",
         "HomeTeam": "Leicester",
@@ -6025,6 +6266,7 @@
         "AR": "0"
     },
     {
+        "Game": "Bournemouth vs Aston Villa",
         "Season": "2019-20",
         "DateTime": "2020-02-01T15:00:00Z",
         "HomeTeam": "Bournemouth",
@@ -6050,6 +6292,7 @@
         "AR": "0"
     },
     {
+        "Game": "Crystal Palace vs Sheffield United",
         "Season": "2019-20",
         "DateTime": "2020-02-01T15:00:00Z",
         "HomeTeam": "Crystal Palace",
@@ -6075,6 +6318,7 @@
         "AR": "0"
     },
     {
+        "Game": "Liverpool vs Southampton",
         "Season": "2019-20",
         "DateTime": "2020-02-01T15:00:00Z",
         "HomeTeam": "Liverpool",
@@ -6100,6 +6344,7 @@
         "AR": "0"
     },
     {
+        "Game": "Newcastle vs Norwich",
         "Season": "2019-20",
         "DateTime": "2020-02-01T15:00:00Z",
         "HomeTeam": "Newcastle",
@@ -6125,6 +6370,7 @@
         "AR": "0"
     },
     {
+        "Game": "Watford vs Everton",
         "Season": "2019-20",
         "DateTime": "2020-02-01T15:00:00Z",
         "HomeTeam": "Watford",
@@ -6150,6 +6396,7 @@
         "AR": "1"
     },
     {
+        "Game": "West Ham vs Brighton",
         "Season": "2019-20",
         "DateTime": "2020-02-01T15:00:00Z",
         "HomeTeam": "West Ham",
@@ -6175,6 +6422,7 @@
         "AR": "0"
     },
     {
+        "Game": "Man United vs Wolves",
         "Season": "2019-20",
         "DateTime": "2020-02-01T17:30:00Z",
         "HomeTeam": "Man United",
@@ -6200,6 +6448,7 @@
         "AR": "0"
     },
     {
+        "Game": "Burnley vs Arsenal",
         "Season": "2019-20",
         "DateTime": "2020-02-02T14:00:00Z",
         "HomeTeam": "Burnley",
@@ -6225,6 +6474,7 @@
         "AR": "0"
     },
     {
+        "Game": "Tottenham vs Man City",
         "Season": "2019-20",
         "DateTime": "2020-02-02T16:30:00Z",
         "HomeTeam": "Tottenham",
@@ -6250,6 +6500,7 @@
         "AR": "1"
     },
     {
+        "Game": "Everton vs Crystal Palace",
         "Season": "2019-20",
         "DateTime": "2020-02-08T12:30:00Z",
         "HomeTeam": "Everton",
@@ -6275,6 +6526,7 @@
         "AR": "0"
     },
     {
+        "Game": "Brighton vs Watford",
         "Season": "2019-20",
         "DateTime": "2020-02-08T17:30:00Z",
         "HomeTeam": "Brighton",
@@ -6300,6 +6552,7 @@
         "AR": "0"
     },
     {
+        "Game": "Sheffield United vs Bournemouth",
         "Season": "2019-20",
         "DateTime": "2020-02-09T14:00:00Z",
         "HomeTeam": "Sheffield United",
@@ -6325,6 +6578,7 @@
         "AR": "0"
     },
     {
+        "Game": "Wolves vs Leicester",
         "Season": "2019-20",
         "DateTime": "2020-02-14T20:00:00Z",
         "HomeTeam": "Wolves",
@@ -6350,6 +6604,7 @@
         "AR": "1"
     },
     {
+        "Game": "Southampton vs Burnley",
         "Season": "2019-20",
         "DateTime": "2020-02-15T12:30:00Z",
         "HomeTeam": "Southampton",
@@ -6375,6 +6630,7 @@
         "AR": "0"
     },
     {
+        "Game": "Norwich vs Liverpool",
         "Season": "2019-20",
         "DateTime": "2020-02-15T17:30:00Z",
         "HomeTeam": "Norwich",
@@ -6400,6 +6656,7 @@
         "AR": "0"
     },
     {
+        "Game": "Aston Villa vs Tottenham",
         "Season": "2019-20",
         "DateTime": "2020-02-16T14:00:00Z",
         "HomeTeam": "Aston Villa",
@@ -6425,6 +6682,7 @@
         "AR": "0"
     },
     {
+        "Game": "Arsenal vs Newcastle",
         "Season": "2019-20",
         "DateTime": "2020-02-16T16:30:00Z",
         "HomeTeam": "Arsenal",
@@ -6450,6 +6708,7 @@
         "AR": "0"
     },
     {
+        "Game": "Chelsea vs Man United",
         "Season": "2019-20",
         "DateTime": "2020-02-17T20:00:00Z",
         "HomeTeam": "Chelsea",
@@ -6475,6 +6734,7 @@
         "AR": "0"
     },
     {
+        "Game": "Man City vs West Ham",
         "Season": "2019-20",
         "DateTime": "2020-02-19T19:30:00Z",
         "HomeTeam": "Man City",
@@ -6500,6 +6760,7 @@
         "AR": "0"
     },
     {
+        "Game": "Chelsea vs Tottenham",
         "Season": "2019-20",
         "DateTime": "2020-02-22T12:30:00Z",
         "HomeTeam": "Chelsea",
@@ -6525,6 +6786,7 @@
         "AR": "0"
     },
     {
+        "Game": "Burnley vs Bournemouth",
         "Season": "2019-20",
         "DateTime": "2020-02-22T15:00:00Z",
         "HomeTeam": "Burnley",
@@ -6550,6 +6812,7 @@
         "AR": "0"
     },
     {
+        "Game": "Crystal Palace vs Newcastle",
         "Season": "2019-20",
         "DateTime": "2020-02-22T15:00:00Z",
         "HomeTeam": "Crystal Palace",
@@ -6575,6 +6838,7 @@
         "AR": "1"
     },
     {
+        "Game": "Sheffield United vs Brighton",
         "Season": "2019-20",
         "DateTime": "2020-02-22T15:00:00Z",
         "HomeTeam": "Sheffield United",
@@ -6600,6 +6864,7 @@
         "AR": "0"
     },
     {
+        "Game": "Southampton vs Aston Villa",
         "Season": "2019-20",
         "DateTime": "2020-02-22T15:00:00Z",
         "HomeTeam": "Southampton",
@@ -6625,6 +6890,7 @@
         "AR": "0"
     },
     {
+        "Game": "Leicester vs Man City",
         "Season": "2019-20",
         "DateTime": "2020-02-22T17:30:00Z",
         "HomeTeam": "Leicester",
@@ -6650,6 +6916,11 @@
         "AR": "0"
     },
     {
+        "Game": "Man United vs Watford",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-02-23T14:00:00Z",
         "HomeTeam": "Man United",
@@ -6675,6 +6946,11 @@
         "AR": "0"
     },
     {
+        "Game": "Wolves vs Norwich",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "A",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-02-23T14:00:00Z",
         "HomeTeam": "Wolves",
@@ -6700,6 +6976,11 @@
         "AR": "0"
     },
     {
+        "Game": "Arsenal vs Everton",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "A",
+        "w/o KNN": "D",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-02-23T16:30:00Z",
         "HomeTeam": "Arsenal",
@@ -6725,6 +7006,11 @@
         "AR": "0"
     },
     {
+        "Game": "Liverpool vs West Ham",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-02-24T20:00:00Z",
         "HomeTeam": "Liverpool",
@@ -6750,6 +7036,11 @@
         "AR": "0"
     },
     {
+        "Game": "Norwich vs Leicester",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-02-28T20:00:00Z",
         "HomeTeam": "Norwich",
@@ -6775,6 +7066,11 @@
         "AR": "0"
     },
     {
+        "Game": "Brighton vs Crystal Palace",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-02-29T12:30:00Z",
         "HomeTeam": "Brighton",
@@ -6800,6 +7096,11 @@
         "AR": "0"
     },
     {
+        "Game": "Bournemouth vs Chelsea",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "H",
+        "w/o KNN": "A",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-02-29T15:00:00Z",
         "HomeTeam": "Bournemouth",
@@ -6825,6 +7126,11 @@
         "AR": "0"
     },
     {
+        "Game": "Newcastle vs Burnley",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-02-29T15:00:00Z",
         "HomeTeam": "Newcastle",
@@ -6850,6 +7156,11 @@
         "AR": "0"
     },
     {
+        "Game": "West Ham vs Southampton",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-02-29T15:00:00Z",
         "HomeTeam": "West Ham",
@@ -6875,6 +7186,11 @@
         "AR": "0"
     },
     {
+        "Game": "Watford vs Liverpool",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-02-29T17:30:00Z",
         "HomeTeam": "Watford",
@@ -6900,6 +7216,11 @@
         "AR": "0"
     },
     {
+        "Game": "Everton vs Man United",
+        "w/o Naive Bayes": "D",
+        "w/o L Regress": "D",
+        "w/o KNN": "A",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-03-01T14:00:00Z",
         "HomeTeam": "Everton",
@@ -6925,6 +7246,11 @@
         "AR": "0"
     },
     {
+        "Game": "Tottenham vs Wolves",
+        "w/o Naive Bayes": "D",
+        "w/o L Regress": "D",
+        "w/o KNN": "A",
+        "w/o SVM": "D",
         "Season": "2019-20",
         "DateTime": "2020-03-01T14:00:00Z",
         "HomeTeam": "Tottenham",
@@ -6950,6 +7276,11 @@
         "AR": "0"
     },
     {
+        "Game": "Liverpool vs Bournemouth",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-03-07T12:30:00Z",
         "HomeTeam": "Liverpool",
@@ -6975,6 +7306,11 @@
         "AR": "0"
     },
     {
+        "Game": "Arsenal vs West Ham",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "A",
+        "w/o KNN": "D",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-03-07T15:00:00Z",
         "HomeTeam": "Arsenal",
@@ -7000,6 +7336,11 @@
         "AR": "0"
     },
     {
+        "Game": "Crystal Palace vs Watford",
+        "w/o Naive Bayes": "D",
+        "w/o L Regress": "D",
+        "w/o KNN": "A",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-03-07T15:00:00Z",
         "HomeTeam": "Crystal Palace",
@@ -7025,6 +7366,11 @@
         "AR": "0"
     },
     {
+        "Game": "Sheffield United vs Norwich",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "A",
+        "w/o KNN": "A",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-03-07T15:00:00Z",
         "HomeTeam": "Sheffield United",
@@ -7050,6 +7396,11 @@
         "AR": "0"
     },
     {
+        "Game": "Southampton vs Newcastle",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "H",
+        "w/o KNN": "D",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-03-07T15:00:00Z",
         "HomeTeam": "Southampton",
@@ -7075,6 +7426,11 @@
         "AR": "0"
     },
     {
+        "Game": "Wolves vs Brighton",
+        "w/o Naive Bayes": "D",
+        "w/o L Regress": "D",
+        "w/o KNN": "A",
+        "w/o SVM": "D",
         "Season": "2019-20",
         "DateTime": "2020-03-07T15:00:00Z",
         "HomeTeam": "Wolves",
@@ -7100,6 +7456,11 @@
         "AR": "0"
     },
     {
+        "Game": "Burnley vs Tottenham",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-03-07T17:30:00Z",
         "HomeTeam": "Burnley",
@@ -7125,6 +7486,11 @@
         "AR": "0"
     },
     {
+        "Game": "Chelsea vs Everton",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-03-08T14:00:00Z",
         "HomeTeam": "Chelsea",
@@ -7150,6 +7516,11 @@
         "AR": "0"
     },
     {
+        "Game": "Man United vs Man City",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-03-08T16:30:00Z",
         "HomeTeam": "Man United",
@@ -7175,6 +7546,11 @@
         "AR": "0"
     },
     {
+        "Game": "Leicester vs Aston Villa",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "A",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-03-09T20:00:00Z",
         "HomeTeam": "Leicester",
@@ -7200,6 +7576,11 @@
         "AR": "0"
     },
     {
+        "Game": "Aston Villa vs Sheffield United",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-06-17T18:00:00Z",
         "HomeTeam": "Aston Villa",
@@ -7225,6 +7606,11 @@
         "AR": "0"
     },
     {
+        "Game": "Man City vs Arsenal",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-06-17T20:15:00Z",
         "HomeTeam": "Man City",
@@ -7250,6 +7636,11 @@
         "AR": "1"
     },
     {
+        "Game": "Norwich vs Southampton",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "A",
+        "w/o KNN": "A",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-06-19T18:00:00Z",
         "HomeTeam": "Norwich",
@@ -7275,6 +7666,11 @@
         "AR": "0"
     },
     {
+        "Game": "Tottenham vs Man United",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "A",
+        "w/o KNN": "A",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-06-19T20:15:00Z",
         "HomeTeam": "Tottenham",
@@ -7300,6 +7696,11 @@
         "AR": "0"
     },
     {
+        "Game": "Watford vs Leicester",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-06-20T12:30:00Z",
         "HomeTeam": "Watford",
@@ -7325,6 +7726,11 @@
         "AR": "0"
     },
     {
+        "Game": "Brighton vs Arsenal",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "A",
+        "w/o KNN": "D",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-06-20T15:00:00Z",
         "HomeTeam": "Brighton",
@@ -7350,6 +7756,11 @@
         "AR": "0"
     },
     {
+        "Game": "West Ham vs Wolves",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "A",
+        "w/o KNN": "A",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-06-20T17:30:00Z",
         "HomeTeam": "West Ham",
@@ -7375,6 +7786,11 @@
         "AR": "0"
     },
     {
+        "Game": "Bournemouth vs Crystal Palace",
+        "w/o Naive Bayes": "D",
+        "w/o L Regress": "D",
+        "w/o KNN": "A",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-06-20T19:45:00Z",
         "HomeTeam": "Bournemouth",
@@ -7400,6 +7816,11 @@
         "AR": "0"
     },
     {
+        "Game": "Newcastle vs Sheffield United",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-06-21T14:00:00Z",
         "HomeTeam": "Newcastle",
@@ -7425,6 +7846,11 @@
         "AR": "1"
     },
     {
+        "Game": "Aston Villa vs Chelsea",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "H",
+        "w/o KNN": "D",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-06-21T16:15:00Z",
         "HomeTeam": "Aston Villa",
@@ -7450,6 +7876,19 @@
         "AR": "0"
     },
     {
+        "Game": "Everton vs Liverpool",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "H",
+        "roberta KNN": "H",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "H",
+        "vadar KNN": "H",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "D",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-06-21T19:00:00Z",
         "HomeTeam": "Everton",
@@ -7475,6 +7914,19 @@
         "AR": "0"
     },
     {
+        "Game": "Man City vs Burnley",
+        "roberta Naive Bayes": "H",
+        "roberta L Regress": "H",
+        "roberta KNN": "H",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "H",
+        "vadar KNN": "H",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-06-22T20:00:00Z",
         "HomeTeam": "Man City",
@@ -7500,6 +7952,11 @@
         "AR": "0"
     },
     {
+        "Game": "Leicester vs Brighton",
+        "w/o Naive Bayes": "D",
+        "w/o L Regress": "H",
+        "w/o KNN": "A",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-06-23T18:00:00Z",
         "HomeTeam": "Leicester",
@@ -7525,6 +7982,19 @@
         "AR": "0"
     },
     {
+        "Game": "Tottenham vs West Ham",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "H",
+        "roberta KNN": "A",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "H",
+        "vadar KNN": "A",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "D",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-06-23T20:15:00Z",
         "HomeTeam": "Tottenham",
@@ -7550,6 +8020,19 @@
         "AR": "0"
     },
     {
+        "Game": "Man United vs Sheffield United",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "H",
+        "roberta KNN": "H",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "H",
+        "vadar KNN": "H",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-06-24T18:00:00Z",
         "HomeTeam": "Man United",
@@ -7575,6 +8058,19 @@
         "AR": "0"
     },
     {
+        "Game": "Newcastle vs Aston Villa",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "H",
+        "roberta KNN": "D",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "H",
+        "vadar KNN": "D",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "D",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-06-24T18:00:00Z",
         "HomeTeam": "Newcastle",
@@ -7600,6 +8096,19 @@
         "AR": "0"
     },
     {
+        "Game": "Norwich vs Everton",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "A",
+        "roberta KNN": "A",
+        "roberta SVM": "A",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "A",
+        "vadar KNN": "A",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "A",
+        "w/o KNN": "A",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-06-24T18:00:00Z",
         "HomeTeam": "Norwich",
@@ -7625,6 +8134,11 @@
         "AR": "0"
     },
     {
+        "Game": "Wolves vs Bournemouth",
+        "w/o Naive Bayes": "D",
+        "w/o L Regress": "D",
+        "w/o KNN": "D",
+        "w/o SVM": "D",
         "Season": "2019-20",
         "DateTime": "2020-06-24T18:00:00Z",
         "HomeTeam": "Wolves",
@@ -7650,6 +8164,19 @@
         "AR": "0"
     },
     {
+        "Game": "Liverpool vs Crystal Palace",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "H",
+        "roberta KNN": "H",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "H",
+        "vadar KNN": "H",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-06-24T20:15:00Z",
         "HomeTeam": "Liverpool",
@@ -7675,6 +8202,11 @@
         "AR": "0"
     },
     {
+        "Game": "Burnley vs Watford",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-06-25T18:00:00Z",
         "HomeTeam": "Burnley",
@@ -7700,6 +8232,19 @@
         "AR": "0"
     },
     {
+        "Game": "Southampton vs Arsenal",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "A",
+        "roberta KNN": "A",
+        "roberta SVM": "A",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "A",
+        "vadar KNN": "A",
+        "vadar SVM": "A",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-06-25T18:00:00Z",
         "HomeTeam": "Southampton",
@@ -7725,6 +8270,19 @@
         "AR": "0"
     },
     {
+        "Game": "Chelsea vs Man City",
+        "roberta Naive Bayes": "D",
+        "roberta L Regress": "H",
+        "roberta KNN": "D",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "D",
+        "vadar L Regress": "H",
+        "vadar KNN": "D",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "D",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-06-25T20:15:00Z",
         "HomeTeam": "Chelsea",
@@ -7750,6 +8308,11 @@
         "AR": "1"
     },
     {
+        "Game": "Aston Villa vs Wolves",
+        "w/o Naive Bayes": "D",
+        "w/o L Regress": "D",
+        "w/o KNN": "D",
+        "w/o SVM": "D",
         "Season": "2019-20",
         "DateTime": "2020-06-27T12:30:00Z",
         "HomeTeam": "Aston Villa",
@@ -7775,6 +8338,11 @@
         "AR": "0"
     },
     {
+        "Game": "Watford vs Southampton",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "A",
+        "w/o KNN": "H",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-06-28T16:30:00Z",
         "HomeTeam": "Watford",
@@ -7800,6 +8368,11 @@
         "AR": "0"
     },
     {
+        "Game": "Crystal Palace vs Burnley",
+        "w/o Naive Bayes": "D",
+        "w/o L Regress": "A",
+        "w/o KNN": "D",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-06-29T20:00:00Z",
         "HomeTeam": "Crystal Palace",
@@ -7825,6 +8398,11 @@
         "AR": "0"
     },
     {
+        "Game": "Brighton vs Man United",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "A",
+        "w/o KNN": "A",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-06-30T20:15:00Z",
         "HomeTeam": "Brighton",
@@ -7850,6 +8428,11 @@
         "AR": "0"
     },
     {
+        "Game": "Arsenal vs Norwich",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-01T18:00:00Z",
         "HomeTeam": "Arsenal",
@@ -7875,6 +8458,11 @@
         "AR": "0"
     },
     {
+        "Game": "Bournemouth vs Newcastle",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "A",
+        "w/o KNN": "A",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-07-01T18:00:00Z",
         "HomeTeam": "Bournemouth",
@@ -7900,6 +8488,19 @@
         "AR": "0"
     },
     {
+        "Game": "Everton vs Leicester",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "A",
+        "roberta KNN": "H",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "A",
+        "vadar KNN": "H",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "H",
+        "w/o KNN": "A",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-01T18:00:00Z",
         "HomeTeam": "Everton",
@@ -7925,6 +8526,19 @@
         "AR": "0"
     },
     {
+        "Game": "West Ham vs Chelsea",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "A",
+        "roberta KNN": "A",
+        "roberta SVM": "A",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "A",
+        "vadar KNN": "A",
+        "vadar SVM": "A",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "A",
+        "w/o KNN": "A",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-07-01T20:15:00Z",
         "HomeTeam": "West Ham",
@@ -7950,6 +8564,19 @@
         "AR": "0"
     },
     {
+        "Game": "Sheffield United vs Tottenham",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "H",
+        "roberta KNN": "H",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "H",
+        "vadar KNN": "H",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-02T18:00:00Z",
         "HomeTeam": "Sheffield United",
@@ -7975,6 +8602,19 @@
         "AR": "0"
     },
     {
+        "Game": "Man City vs Liverpool",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "H",
+        "roberta KNN": "H",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "H",
+        "vadar KNN": "H",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-02T20:15:00Z",
         "HomeTeam": "Man City",
@@ -8000,6 +8640,11 @@
         "AR": "0"
     },
     {
+        "Game": "Norwich vs Brighton",
+        "w/o Naive Bayes": "D",
+        "w/o L Regress": "A",
+        "w/o KNN": "A",
+        "w/o SVM": "D",
         "Season": "2019-20",
         "DateTime": "2020-07-04T12:30:00Z",
         "HomeTeam": "Norwich",
@@ -8025,6 +8670,11 @@
         "AR": "0"
     },
     {
+        "Game": "Leicester vs Crystal Palace",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "D",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-04T15:00:00Z",
         "HomeTeam": "Leicester",
@@ -8050,6 +8700,11 @@
         "AR": "0"
     },
     {
+        "Game": "Man United vs Bournemouth",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-04T15:00:00Z",
         "HomeTeam": "Man United",
@@ -8075,6 +8730,19 @@
         "AR": "0"
     },
     {
+        "Game": "Wolves vs Arsenal",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "A",
+        "roberta KNN": "A",
+        "roberta SVM": "A",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "A",
+        "vadar KNN": "A",
+        "vadar SVM": "A",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "A",
+        "w/o KNN": "A",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-07-04T17:30:00Z",
         "HomeTeam": "Wolves",
@@ -8100,6 +8768,11 @@
         "AR": "0"
     },
     {
+        "Game": "Chelsea vs Watford",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-04T20:00:00Z",
         "HomeTeam": "Chelsea",
@@ -8125,6 +8798,11 @@
         "AR": "0"
     },
     {
+        "Game": "Burnley vs Sheffield United",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "H",
+        "w/o KNN": "D",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-05T12:00:00Z",
         "HomeTeam": "Burnley",
@@ -8150,6 +8828,19 @@
         "AR": "0"
     },
     {
+        "Game": "Newcastle vs West Ham",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "A",
+        "roberta KNN": "A",
+        "roberta SVM": "A",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "A",
+        "vadar KNN": "A",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "A",
+        "w/o KNN": "A",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-07-05T14:15:00Z",
         "HomeTeam": "Newcastle",
@@ -8175,6 +8866,19 @@
         "AR": "0"
     },
     {
+        "Game": "Liverpool vs Aston Villa",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "H",
+        "roberta KNN": "D",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "H",
+        "vadar KNN": "D",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "D",
+        "w/o L Regress": "H",
+        "w/o KNN": "A",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-05T16:30:00Z",
         "HomeTeam": "Liverpool",
@@ -8200,6 +8904,19 @@
         "AR": "0"
     },
     {
+        "Game": "Southampton vs Man City",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "A",
+        "roberta KNN": "A",
+        "roberta SVM": "A",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "A",
+        "vadar KNN": "A",
+        "vadar SVM": "A",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "H",
+        "w/o KNN": "A",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-05T19:00:00Z",
         "HomeTeam": "Southampton",
@@ -8225,6 +8942,19 @@
         "AR": "0"
     },
     {
+        "Game": "Tottenham vs Everton",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "A",
+        "roberta KNN": "D",
+        "roberta SVM": "A",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "A",
+        "vadar KNN": "A",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "D",
+        "w/o L Regress": "D",
+        "w/o KNN": "D",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-06T20:00:00Z",
         "HomeTeam": "Tottenham",
@@ -8250,6 +8980,19 @@
         "AR": "0"
     },
     {
+        "Game": "Crystal Palace vs Chelsea",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "A",
+        "roberta KNN": "H",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "A",
+        "vadar KNN": "H",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "H",
+        "w/o KNN": "A",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-07-07T18:00:00Z",
         "HomeTeam": "Crystal Palace",
@@ -8275,6 +9018,11 @@
         "AR": "0"
     },
     {
+        "Game": "Watford vs Norwich",
+        "w/o Naive Bayes": "D",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-07T18:00:00Z",
         "HomeTeam": "Watford",
@@ -8300,6 +9048,11 @@
         "AR": "0"
     },
     {
+        "Game": "Arsenal vs Leicester",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-07T20:15:00Z",
         "HomeTeam": "Arsenal",
@@ -8325,6 +9078,19 @@
         "AR": "0"
     },
     {
+        "Game": "Man City vs Newcastle",
+        "roberta Naive Bayes": "H",
+        "roberta L Regress": "H",
+        "roberta KNN": "H",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "H",
+        "vadar L Regress": "H",
+        "vadar KNN": "H",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-08T18:00:00Z",
         "HomeTeam": "Man City",
@@ -8350,6 +9116,11 @@
         "AR": "0"
     },
     {
+        "Game": "Sheffield United vs Wolves",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-08T18:00:00Z",
         "HomeTeam": "Sheffield United",
@@ -8375,6 +9146,11 @@
         "AR": "0"
     },
     {
+        "Game": "West Ham vs Burnley",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "A",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-08T18:00:00Z",
         "HomeTeam": "West Ham",
@@ -8400,6 +9176,11 @@
         "AR": "0"
     },
     {
+        "Game": "Brighton vs Liverpool",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "A",
+        "w/o KNN": "A",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-07-08T20:15:00Z",
         "HomeTeam": "Brighton",
@@ -8425,6 +9206,11 @@
         "AR": "0"
     },
     {
+        "Game": "Bournemouth vs Tottenham",
+        "w/o Naive Bayes": "D",
+        "w/o L Regress": "D",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-09T18:00:00Z",
         "HomeTeam": "Bournemouth",
@@ -8450,6 +9236,11 @@
         "AR": "0"
     },
     {
+        "Game": "Everton vs Southampton",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "D",
         "Season": "2019-20",
         "DateTime": "2020-07-09T18:00:00Z",
         "HomeTeam": "Everton",
@@ -8475,6 +9266,19 @@
         "AR": "0"
     },
     {
+        "Game": "Aston Villa vs Man United",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "A",
+        "roberta KNN": "A",
+        "roberta SVM": "A",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "A",
+        "vadar KNN": "A",
+        "vadar SVM": "A",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "A",
+        "w/o KNN": "H",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-07-09T20:15:00Z",
         "HomeTeam": "Aston Villa",
@@ -8500,6 +9304,11 @@
         "AR": "0"
     },
     {
+        "Game": "Norwich vs West Ham",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "A",
+        "w/o KNN": "A",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-07-11T12:30:00Z",
         "HomeTeam": "Norwich",
@@ -8525,6 +9334,11 @@
         "AR": "0"
     },
     {
+        "Game": "Watford vs Newcastle",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-11T12:30:00Z",
         "HomeTeam": "Watford",
@@ -8550,6 +9364,11 @@
         "AR": "0"
     },
     {
+        "Game": "Liverpool vs Burnley",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-11T15:00:00Z",
         "HomeTeam": "Liverpool",
@@ -8575,6 +9394,19 @@
         "AR": "0"
     },
     {
+        "Game": "Sheffield United vs Chelsea",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "H",
+        "roberta KNN": "A",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "H",
+        "vadar KNN": "H",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "H",
+        "w/o KNN": "A",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-07-11T17:30:00Z",
         "HomeTeam": "Sheffield United",
@@ -8600,6 +9432,11 @@
         "AR": "0"
     },
     {
+        "Game": "Brighton vs Man City",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "A",
+        "w/o KNN": "A",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-07-11T20:00:00Z",
         "HomeTeam": "Brighton",
@@ -8625,6 +9462,19 @@
         "AR": "0"
     },
     {
+        "Game": "Wolves vs Everton",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "H",
+        "roberta KNN": "H",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "H",
+        "vadar KNN": "H",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "D",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-12T12:00:00Z",
         "HomeTeam": "Wolves",
@@ -8650,6 +9500,19 @@
         "AR": "0"
     },
     {
+        "Game": "Aston Villa vs Crystal Palace",
+        "roberta Naive Bayes": "D",
+        "roberta L Regress": "H",
+        "roberta KNN": "D",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "D",
+        "vadar L Regress": "H",
+        "vadar KNN": "H",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "D",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-12T14:15:00Z",
         "HomeTeam": "Aston Villa",
@@ -8675,6 +9538,19 @@
         "AR": "1"
     },
     {
+        "Game": "Tottenham vs Arsenal",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "H",
+        "roberta KNN": "H",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "H",
+        "vadar KNN": "H",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-12T16:30:00Z",
         "HomeTeam": "Tottenham",
@@ -8700,6 +9576,11 @@
         "AR": "0"
     },
     {
+        "Game": "Bournemouth vs Leicester",
+        "w/o Naive Bayes": "D",
+        "w/o L Regress": "D",
+        "w/o KNN": "D",
+        "w/o SVM": "D",
         "Season": "2019-20",
         "DateTime": "2020-07-12T19:00:00Z",
         "HomeTeam": "Bournemouth",
@@ -8725,6 +9606,19 @@
         "AR": "1"
     },
     {
+        "Game": "Man United vs Southampton",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "A",
+        "roberta KNN": "H",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "A",
+        "vadar KNN": "D",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "D",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-13T20:00:00Z",
         "HomeTeam": "Man United",
@@ -8750,6 +9644,19 @@
         "AR": "0"
     },
     {
+        "Game": "Chelsea vs Norwich",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "H",
+        "roberta KNN": "H",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "H",
+        "vadar KNN": "H",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-14T20:15:00Z",
         "HomeTeam": "Chelsea",
@@ -8775,6 +9682,11 @@
         "AR": "0"
     },
     {
+        "Game": "Burnley vs Wolves",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "A",
+        "w/o KNN": "A",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-07-15T18:00:00Z",
         "HomeTeam": "Burnley",
@@ -8800,6 +9712,11 @@
         "AR": "0"
     },
     {
+        "Game": "Man City vs Bournemouth",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "H",
+        "w/o KNN": "A",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-15T18:00:00Z",
         "HomeTeam": "Man City",
@@ -8825,6 +9742,19 @@
         "AR": "0"
     },
     {
+        "Game": "Newcastle vs Tottenham",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "H",
+        "roberta KNN": "H",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "H",
+        "vadar KNN": "H",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "A",
+        "w/o KNN": "D",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-15T18:00:00Z",
         "HomeTeam": "Newcastle",
@@ -8850,6 +9780,19 @@
         "AR": "0"
     },
     {
+        "Game": "Arsenal vs Liverpool",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "A",
+        "roberta KNN": "A",
+        "roberta SVM": "A",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "A",
+        "vadar KNN": "A",
+        "vadar SVM": "A",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "A",
+        "w/o KNN": "A",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-07-15T20:15:00Z",
         "HomeTeam": "Arsenal",
@@ -8875,6 +9818,19 @@
         "AR": "0"
     },
     {
+        "Game": "Everton vs Aston Villa",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "H",
+        "roberta KNN": "H",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "H",
+        "vadar KNN": "H",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "H",
+        "w/o KNN": "D",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-16T18:00:00Z",
         "HomeTeam": "Everton",
@@ -8900,6 +9856,19 @@
         "AR": "0"
     },
     {
+        "Game": "Leicester vs Sheffield United",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "H",
+        "roberta KNN": "H",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "H",
+        "vadar KNN": "H",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-16T18:00:00Z",
         "HomeTeam": "Leicester",
@@ -8925,6 +9894,19 @@
         "AR": "0"
     },
     {
+        "Game": "Crystal Palace vs Man United",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "H",
+        "roberta KNN": "H",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "H",
+        "vadar KNN": "H",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-16T20:15:00Z",
         "HomeTeam": "Crystal Palace",
@@ -8950,6 +9932,11 @@
         "AR": "0"
     },
     {
+        "Game": "Southampton vs Brighton",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-16T20:15:00Z",
         "HomeTeam": "Southampton",
@@ -8975,6 +9962,11 @@
         "AR": "0"
     },
     {
+        "Game": "West Ham vs Watford",
+        "w/o Naive Bayes": "D",
+        "w/o L Regress": "D",
+        "w/o KNN": "D",
+        "w/o SVM": "D",
         "Season": "2019-20",
         "DateTime": "2020-07-17T20:00:00Z",
         "HomeTeam": "West Ham",
@@ -9000,6 +9992,11 @@
         "AR": "0"
     },
     {
+        "Game": "Norwich vs Burnley",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "A",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-18T17:30:00Z",
         "HomeTeam": "Norwich",
@@ -9025,6 +10022,11 @@
         "AR": "0"
     },
     {
+        "Game": "Bournemouth vs Southampton",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "A",
+        "w/o KNN": "A",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-07-19T14:00:00Z",
         "HomeTeam": "Bournemouth",
@@ -9050,6 +10052,19 @@
         "AR": "0"
     },
     {
+        "Game": "Tottenham vs Leicester",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "A",
+        "roberta KNN": "A",
+        "roberta SVM": "A",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "A",
+        "vadar KNN": "A",
+        "vadar SVM": "A",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "H",
+        "w/o KNN": "A",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-19T16:00:00Z",
         "HomeTeam": "Tottenham",
@@ -9075,6 +10090,11 @@
         "AR": "0"
     },
     {
+        "Game": "Brighton vs Newcastle",
+        "w/o Naive Bayes": "D",
+        "w/o L Regress": "D",
+        "w/o KNN": "D",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-20T18:00:00Z",
         "HomeTeam": "Brighton",
@@ -9100,6 +10120,19 @@
         "AR": "0"
     },
     {
+        "Game": "Sheffield United vs Everton",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "A",
+        "roberta KNN": "D",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "A",
+        "vadar KNN": "A",
+        "vadar SVM": "A",
+        "w/o Naive Bayes": "D",
+        "w/o L Regress": "A",
+        "w/o KNN": "D",
+        "w/o SVM": "D",
         "Season": "2019-20",
         "DateTime": "2020-07-20T18:00:00Z",
         "HomeTeam": "Sheffield United",
@@ -9125,6 +10158,19 @@
         "AR": "0"
     },
     {
+        "Game": "Wolves vs Crystal Palace",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "H",
+        "roberta KNN": "H",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "H",
+        "vadar KNN": "H",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "D",
+        "w/o L Regress": "H",
+        "w/o KNN": "D",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-20T20:15:00Z",
         "HomeTeam": "Wolves",
@@ -9150,6 +10196,19 @@
         "AR": "0"
     },
     {
+        "Game": "Watford vs Man City",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "A",
+        "roberta KNN": "A",
+        "roberta SVM": "A",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "A",
+        "vadar KNN": "A",
+        "vadar SVM": "A",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "A",
+        "w/o KNN": "A",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-07-21T18:00:00Z",
         "HomeTeam": "Watford",
@@ -9175,6 +10234,19 @@
         "AR": "0"
     },
     {
+        "Game": "Aston Villa vs Arsenal",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "H",
+        "roberta KNN": "H",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "H",
+        "vadar KNN": "H",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "D",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-21T20:15:00Z",
         "HomeTeam": "Aston Villa",
@@ -9200,6 +10272,19 @@
         "AR": "0"
     },
     {
+        "Game": "Man United vs West Ham",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "H",
+        "roberta KNN": "H",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "H",
+        "vadar KNN": "H",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "D",
+        "w/o L Regress": "D",
+        "w/o KNN": "H",
+        "w/o SVM": "D",
         "Season": "2019-20",
         "DateTime": "2020-07-22T18:00:00Z",
         "HomeTeam": "Man United",
@@ -9225,6 +10310,19 @@
         "AR": "0"
     },
     {
+        "Game": "Liverpool vs Chelsea",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "H",
+        "roberta KNN": "H",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "H",
+        "vadar KNN": "H",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-22T20:15:00Z",
         "HomeTeam": "Liverpool",
@@ -9250,6 +10348,11 @@
         "AR": "0"
     },
     {
+        "Game": "Arsenal vs Watford",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "D",
+        "w/o KNN": "A",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-07-26T16:00:00Z",
         "HomeTeam": "Arsenal",
@@ -9275,6 +10378,11 @@
         "AR": "0"
     },
     {
+        "Game": "Burnley vs Brighton",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "A",
+        "w/o KNN": "A",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-07-26T16:00:00Z",
         "HomeTeam": "Burnley",
@@ -9300,6 +10408,19 @@
         "AR": "0"
     },
     {
+        "Game": "Chelsea vs Wolves",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "H",
+        "roberta KNN": "H",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "H",
+        "vadar KNN": "H",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "D",
+        "w/o L Regress": "D",
+        "w/o KNN": "A",
+        "w/o SVM": "D",
         "Season": "2019-20",
         "DateTime": "2020-07-26T16:00:00Z",
         "HomeTeam": "Chelsea",
@@ -9325,6 +10446,19 @@
         "AR": "0"
     },
     {
+        "Game": "Crystal Palace vs Tottenham",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "H",
+        "roberta KNN": "H",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "H",
+        "vadar KNN": "H",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "D",
+        "w/o L Regress": "D",
+        "w/o KNN": "A",
+        "w/o SVM": "D",
         "Season": "2019-20",
         "DateTime": "2020-07-26T16:00:00Z",
         "HomeTeam": "Crystal Palace",
@@ -9350,6 +10484,11 @@
         "AR": "0"
     },
     {
+        "Game": "Everton vs Bournemouth",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "A",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-26T16:00:00Z",
         "HomeTeam": "Everton",
@@ -9375,6 +10514,19 @@
         "AR": "0"
     },
     {
+        "Game": "Leicester vs Man United",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "H",
+        "roberta KNN": "A",
+        "roberta SVM": "A",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "H",
+        "vadar KNN": "A",
+        "vadar SVM": "A",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "A",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-07-26T16:00:00Z",
         "HomeTeam": "Leicester",
@@ -9400,6 +10552,19 @@
         "AR": "0"
     },
     {
+        "Game": "Man City vs Norwich",
+        "roberta Naive Bayes": "H",
+        "roberta L Regress": "H",
+        "roberta KNN": "H",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "H",
+        "vadar L Regress": "H",
+        "vadar KNN": "H",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "H",
+        "w/o L Regress": "H",
+        "w/o KNN": "H",
+        "w/o SVM": "H",
         "Season": "2019-20",
         "DateTime": "2020-07-26T16:00:00Z",
         "HomeTeam": "Man City",
@@ -9425,6 +10590,19 @@
         "AR": "0"
     },
     {
+        "Game": "Newcastle vs Liverpool",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "A",
+        "roberta KNN": "D",
+        "roberta SVM": "A",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "A",
+        "vadar KNN": "H",
+        "vadar SVM": "A",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "A",
+        "w/o KNN": "A",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-07-26T16:00:00Z",
         "HomeTeam": "Newcastle",
@@ -9450,6 +10628,19 @@
         "AR": "0"
     },
     {
+        "Game": "Southampton vs Sheffield United",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "H",
+        "roberta KNN": "H",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "H",
+        "vadar KNN": "H",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "D",
+        "w/o L Regress": "D",
+        "w/o KNN": "D",
+        "w/o SVM": "D",
         "Season": "2019-20",
         "DateTime": "2020-07-26T16:00:00Z",
         "HomeTeam": "Southampton",
@@ -9475,6 +10666,19 @@
         "AR": "0"
     },
     {
+        "Game": "West Ham vs Aston Villa",
+        "roberta Naive Bayes": "A",
+        "roberta L Regress": "A",
+        "roberta KNN": "D",
+        "roberta SVM": "H",
+        "vadar Naive Bayes": "A",
+        "vadar L Regress": "A",
+        "vadar KNN": "H",
+        "vadar SVM": "H",
+        "w/o Naive Bayes": "A",
+        "w/o L Regress": "A",
+        "w/o KNN": "H",
+        "w/o SVM": "A",
         "Season": "2019-20",
         "DateTime": "2020-07-26T16:00:00Z",
         "HomeTeam": "West Ham",
