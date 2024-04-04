@@ -116,6 +116,9 @@
   display: flex;
   flex-wrap: wrap; /* Allow items to wrap on smaller screens */
   gap: 10px; /* Add some space between items */
+  padding-bottom: 45px;
+  padding-left: 45px;
+  padding-right: 45px;
 }
 
 .prediction-result {

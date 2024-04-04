@@ -1,5 +1,3 @@
-/* Dashboard.css */
-
 .app {
   display: flex;
   flex-direction: column;
@@ -7,9 +5,12 @@
   justify-content: center;
   min-height: 100vh;
   background-color: #111;
-  color: #fff;
 }
-
+.dashboard-title {
+  font-size: 2rem; /* Adjust font size as needed */
+  margin-bottom: 20px; /* Add some space below the title */
+  color: white; /* Choose your preferred text color */
+}
 .dashboard-container {
   display: flex;
   flex-wrap: wrap;
@@ -18,20 +19,29 @@
 }
 
 .chart-container {
-  width: 35%;
+  width: 45%; /* Adjusted for more space around elements */
   margin-bottom: 20px;
   padding: 20px;
-  border: 1px solid #ccc;
+  border: 1px solid black;
   border-radius: 5px;
   box-shadow: 0 2px 4px rgba(0, 0, 0, 0.1);
+  background-color: #f6f4f4;
+  display: flex; /* Added for internal flex layout */
+  flex-direction: column; /* Stack child elements vertically */
+  align-items: center; /* Center-align the child elements */
 }
 
 .chart-title {
   margin-bottom: 10px;
   font-size: 1.2rem;
   font-weight: bold;
+  color:black;
+
 }
 
+.sort-label{
+  color:black;
+}
 .full-screen-chart-container {
   position: fixed;
   top: 50%;
@@ -55,4 +65,72 @@
 
 .toggle-buttons button {
   margin-right: 10px;
+}
+.model-accuracy-cards-container {
+  /* Make sure the container is wide enough to fit four cards */
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-around; /* This will space out the cards evenly */
+  align-items: stretch; /* This will ensure the cards stretch to fill available vertical space */
+  margin-bottom: 20px;
+}
+
+.accuracy-card {
+  /* Adjust the width to fit four cards per row with appropriate margins */
+  width: calc(25% - 20px);
+  margin: 10px;
+  padding: 20px;
+  background-color: #222;
+  color: #fff;
+  border-radius: 5px;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.2);
+  text-align: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center; /* Center the content vertically */
+  align-items: center; /* Center the content horizontally */
+  box-sizing: border-box;
+  min-height: 120px; /* Adjust min-height to fit content */
+  overflow: hidden; /* Hide any overflow */
+}
+
+/* Style for the model name specifically */
+.accuracy-card h3 {
+  font-size: 0.9rem; /* Smaller font size for the model name */
+  margin-bottom: 0.5rem; /* Space between the name and the accuracy percentage */
+}
+
+/* Style for the accuracy percentage specifically */
+.accuracy-card p {
+  font-size: 1rem; /* Adjust if needed */
+  white-space: nowrap; /* Ensure the percentage is in one line */
+  overflow: hidden; /* Hide the overflow content */
+  text-overflow: ellipsis;
+}
+.accuracy-card:hover {
+  /* Add a more pronounced shadow for a hover effect */
+  box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
+  transform: translateY(-5px); /* Lift the card up slightly */
+  transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
+}
+
+/* Responsive adjustments for smaller screens */
+@media (max-width: 1200px) {
+  .accuracy-card {
+    width: calc(33.33% - 20px); /* Adjust for three cards per row */
+  }
+}
+
+@media (max-width: 900px) {
+  .accuracy-card {
+    width: calc(50% - 20px); /* Adjust for two cards per row */
+  }
+}
+
+@media (max-width: 600px) {
+  .accuracy-card {
+    width: 100%; /* Full width for very small screens, one card per row */
+    margin: 10px 0; /* Adjusted margin for better spacing */
+  }
 }

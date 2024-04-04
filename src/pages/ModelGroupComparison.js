@@ -98,7 +98,7 @@ const ModelGroupComparison = ({ dataset }) => {
   return (
     <div className="chart-container" ref={chartContainerRef}>
       <h2 className="chart-title">Model Groups Comparison</h2>
-      <button onClick={toggleFullScreen}>{isFullScreen ? 'Exit Full Screen' : 'Toggle Full Screen'}</button>
+      <button onClick={toggleFullScreen}>{isFullScreen ? 'Exit' : 'Full Screen'}</button>
       {chartData.datasets.length > 0 && (
         <Bar data={chartData} options={{}} />
       )}

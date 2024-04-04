@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 import ResultsTable from '../components/ResultsTable';
 import PacmanLoader from "react-spinners/PacmanLoader";
 import BackButton from '../components/BackButton';
-import jsonData from '../data/mlmodels/collated_games_data.json'; // Import the JSON data
+import jsonData from '../data/mlmodels/collated_games_data_1.json'; // Import the JSON data
 
 function TotalScores() {
   const [loading, setLoading] = useState(false);

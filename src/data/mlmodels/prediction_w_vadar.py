@@ -43,7 +43,7 @@ X.dropna(inplace=True)
 y = df.loc[X.index, 'FTR']  # Update target variable accordingly
 
 # Splitting the data based on time (first 70% training, last 30% testing)
-train_size = int(len(X) * 0.7)
+train_size = int(len(X) * 0.6)
 X_train, X_test = X.iloc[:train_size], X.iloc[train_size:]
 y_train, y_test = y.iloc[:train_size], y.iloc[train_size:]
 

@@ -23,10 +23,10 @@ function Home() {
                 <img className='home-img' src={Dashboard} alt="DashboardImg" />
                 <p>Dashboard</p>
               </a>
-              <a href="/learning_centre" className="main-button">
+              {/* <a href="/learning_centre" className="main-button">
                 <img className='home-img' src={LearningCentre} alt="Learning Centre Thumbnail" />
                 <p>Learning Centre</p>
-              </a>
+              </a> */}
             </div>
           </div>
         </main>

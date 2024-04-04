@@ -45,5 +45,5 @@ for game in results_dict:
 print(collated_data[0])
 
 # Optionally, save the collated data to a new JSON file
-with open('collated_games_data.json', 'w') as outfile:
+with open('collated_games_data_1.json', 'w') as outfile:
     json.dump(collated_data, outfile, indent=4)

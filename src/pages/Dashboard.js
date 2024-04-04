@@ -1,9 +1,12 @@
 import React, { useState, useEffect } from 'react';
-import { Line, Bar } from 'react-chartjs-2';
+import { Line} from 'react-chartjs-2';
 import { Chart as ChartJS, CategoryScale, LinearScale, LineElement, PointElement, Title, Tooltip, Legend } from 'chart.js'; // Import LineElement
-import dataset from '../data/mlmodels/collated_games_data.json';
+import dataset from '../data/mlmodels/collated_games_data_1.json';
 import './Dashboard.css'; // Import CSS file for styling
+import { ModelAccuracyCards } from '../components/ModelAccuracyComponents';
+import BackButton from '../components/BackButton';
 import ModelGroupComparison from './ModelGroupComparison';
+
 ChartJS.register(CategoryScale, LinearScale, LineElement, PointElement, Title, Tooltip, Legend); // Register LineElement
 
 const ChartContainer = ({ title, chartData, options }) => {
@@ -52,7 +55,7 @@ const ChartContainer = ({ title, chartData, options }) => {
   return (
     <div className="chart-container" id={`${title.toLowerCase().replace(/\s/g, '-')}-chart`}>
       <h2 className="chart-title">{title}</h2>
-      <button onClick={toggleFullScreen}>{isFullScreen ? 'Exit Full Screen' : 'Toggle Full Screen'}</button>
+      <button onClick={toggleFullScreen}>{isFullScreen ? 'Exit' : 'Full Screen'}</button>
       {chartData.datasets.length > 0 && (
         <Line data={chartData} options={options} />
       )}
@@ -226,13 +229,16 @@ const Dashboard = () => {
     });
     setModels(extractedModels);
   }, []);
-
+  
   return (
     <div className='app'>
+      <BackButton />
+      <h1 className="dashboard-title">Dashboard</h1>
       <div className="dashboard-container">
         <ModelAccuracyChart dataset={dataset} />
         <TotalAccuracyOverTimeChart dataset={dataset} models={models} />
         <ModelGroupComparison dataset={dataset} />
+        <ModelAccuracyCards dataset={dataset} />
       </div>
     </div>
   );
