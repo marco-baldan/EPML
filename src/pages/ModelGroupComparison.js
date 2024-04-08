@@ -1,7 +1,6 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Bar } from 'react-chartjs-2';
 import { Chart, BarElement, CategoryScale, LinearScale } from 'chart.js'; // Corrected import
-import dataset from '../data/mlmodels/collated_games_data.json';
 import './Dashboard.css'; // Import CSS file for styling
 
 Chart.register(BarElement, CategoryScale, LinearScale);

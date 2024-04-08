@@ -23,12 +23,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1121217742,
         "HomeTeamScoreRoberta": 0.1451612903,
         "HomeTeamPosts": 124,
-        "AwayTeamScoreVader": 0.2590818182,
         "AwayTeamScoreRoberta": 0.3636363636,
-        "AwayTeamPosts": 11
+        "AwayTeamPosts": 11,
+        "HomeTeamScoreVadar": 0.1121217742,
+        "AwayTeamScoreVadar": 0.2590818182
     },
     {
         "Season": "2019-20",
@@ -54,12 +54,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.2831611111,
         "HomeTeamScoreRoberta": -0.1111111111,
         "HomeTeamPosts": 18,
-        "AwayTeamScoreVader": 0.1784571429,
         "AwayTeamScoreRoberta": 0.0714285714,
-        "AwayTeamPosts": 14
+        "AwayTeamPosts": 14,
+        "HomeTeamScoreVadar": 0.2831611111,
+        "AwayTeamScoreVadar": 0.1784571429
     },
     {
         "Season": "2019-20",
@@ -135,12 +135,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "1",
-        "HomeTeamScoreVader": -0.101925,
         "HomeTeamScoreRoberta": -0.125,
         "HomeTeamPosts": 8,
-        "AwayTeamScoreVader": 0.0456870968,
         "AwayTeamScoreRoberta": -0.064516129,
-        "AwayTeamPosts": 31
+        "AwayTeamPosts": 31,
+        "HomeTeamScoreVadar": -0.101925,
+        "AwayTeamScoreVadar": 0.0456870968
     },
     {
         "Season": "2019-20",
@@ -191,12 +191,12 @@
         "AY": "0",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.0793672414,
         "HomeTeamScoreRoberta": 0.1896551724,
         "HomeTeamPosts": 58,
-        "AwayTeamScoreVader": 0.2936578947,
         "AwayTeamScoreRoberta": 0.1578947368,
-        "AwayTeamPosts": 19
+        "AwayTeamPosts": 19,
+        "HomeTeamScoreVadar": 0.0793672414,
+        "AwayTeamScoreVadar": 0.2936578947
     },
     {
         "Season": "2019-20",
@@ -247,12 +247,12 @@
         "AY": "3",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.3639888889,
         "HomeTeamScoreRoberta": -0.1111111111,
         "HomeTeamPosts": 9,
-        "AwayTeamScoreVader": 0.1030776471,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 85
+        "AwayTeamPosts": 85,
+        "HomeTeamScoreVadar": 0.3639888889,
+        "AwayTeamScoreVadar": 0.1030776471
     },
     {
         "Season": "2019-20",
@@ -278,12 +278,12 @@
         "AY": "4",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.2366815126,
         "HomeTeamScoreRoberta": 0.1428571429,
         "HomeTeamPosts": 119,
-        "AwayTeamScoreVader": 0.2223233333,
         "AwayTeamScoreRoberta": 0.2,
-        "AwayTeamPosts": 30
+        "AwayTeamPosts": 30,
+        "HomeTeamScoreVadar": 0.2366815126,
+        "AwayTeamScoreVadar": 0.2223233333
     },
     {
         "Season": "2019-20",
@@ -409,12 +409,12 @@
         "AY": "3",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.15996,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 5,
-        "AwayTeamScoreVader": 0.1032833333,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 6
+        "AwayTeamPosts": 6,
+        "HomeTeamScoreVadar": 0.15996,
+        "AwayTeamScoreVadar": 0.1032833333
     },
     {
         "Season": "2019-20",
@@ -440,12 +440,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1882,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 4,
-        "AwayTeamScoreVader": 0.1373508197,
         "AwayTeamScoreRoberta": 0.0655737705,
-        "AwayTeamPosts": 61
+        "AwayTeamPosts": 61,
+        "HomeTeamScoreVadar": 0.1882,
+        "AwayTeamScoreVadar": 0.1373508197
     },
     {
         "Season": "2019-20",
@@ -471,12 +471,12 @@
         "AY": "0",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": -0.029335,
         "HomeTeamScoreRoberta": 0.2,
         "HomeTeamPosts": 20,
-        "AwayTeamScoreVader": 0.1543130435,
         "AwayTeamScoreRoberta": 0.1304347826,
-        "AwayTeamPosts": 23
+        "AwayTeamPosts": 23,
+        "HomeTeamScoreVadar": -0.029335,
+        "AwayTeamScoreVadar": 0.1543130435
     },
     {
         "Season": "2019-20",
@@ -502,12 +502,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.2033333333,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 6,
-        "AwayTeamScoreVader": 0.07846,
         "AwayTeamScoreRoberta": 0.2,
-        "AwayTeamPosts": 5
+        "AwayTeamPosts": 5,
+        "HomeTeamScoreVadar": 0.2033333333,
+        "AwayTeamScoreVadar": 0.07846
     },
     {
         "Season": "2019-20",
@@ -533,12 +533,12 @@
         "AY": "0",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1148297297,
         "HomeTeamScoreRoberta": 0.1621621622,
         "HomeTeamPosts": 37,
-        "AwayTeamScoreVader": 0.01822,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 5
+        "AwayTeamPosts": 5,
+        "HomeTeamScoreVadar": 0.1148297297,
+        "AwayTeamScoreVadar": 0.01822
     },
     {
         "Season": "2019-20",
@@ -564,12 +564,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.485525,
         "HomeTeamScoreRoberta": 0.5,
         "HomeTeamPosts": 4,
-        "AwayTeamScoreVader": 0.2136918033,
         "AwayTeamScoreRoberta": 0.0491803279,
-        "AwayTeamPosts": 61
+        "AwayTeamPosts": 61,
+        "HomeTeamScoreVadar": 0.485525,
+        "AwayTeamScoreVadar": 0.2136918033
     },
     {
         "Season": "2019-20",
@@ -595,12 +595,12 @@
         "AY": "3",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": -5.71429e-05,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 7,
-        "AwayTeamScoreVader": 0.0890166667,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 12
+        "AwayTeamPosts": 12,
+        "HomeTeamScoreVadar": -5.71429e-05,
+        "AwayTeamScoreVadar": 0.0890166667
     },
     {
         "Season": "2019-20",
@@ -626,12 +626,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.373025,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 4,
-        "AwayTeamScoreVader": 0.1502166667,
         "AwayTeamScoreRoberta": 0.0416666667,
-        "AwayTeamPosts": 24
+        "AwayTeamPosts": 24,
+        "HomeTeamScoreVadar": 0.373025,
+        "AwayTeamScoreVadar": 0.1502166667
     },
     {
         "Season": "2019-20",
@@ -682,12 +682,12 @@
         "AY": "4",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.168842623,
         "HomeTeamScoreRoberta": -0.0163934426,
         "HomeTeamPosts": 61,
-        "AwayTeamScoreVader": 0.3101285714,
         "AwayTeamScoreRoberta": 0.1428571429,
-        "AwayTeamPosts": 7
+        "AwayTeamPosts": 7,
+        "HomeTeamScoreVadar": 0.168842623,
+        "AwayTeamScoreVadar": 0.3101285714
     },
     {
         "Season": "2019-20",
@@ -763,12 +763,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.0050773585,
         "HomeTeamScoreRoberta": 0.0943396226,
         "HomeTeamPosts": 53,
-        "AwayTeamScoreVader": 0.1435925926,
         "AwayTeamScoreRoberta": 0.0864197531,
-        "AwayTeamPosts": 81
+        "AwayTeamPosts": 81,
+        "HomeTeamScoreVadar": 0.0050773585,
+        "AwayTeamScoreVadar": 0.1435925926
     },
     {
         "Season": "2019-20",
@@ -819,12 +819,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.0676405405,
         "HomeTeamScoreRoberta": -0.1621621622,
         "HomeTeamPosts": 37,
-        "AwayTeamScoreVader": 0.2095833333,
         "AwayTeamScoreRoberta": -0.1666666667,
-        "AwayTeamPosts": 6
+        "AwayTeamPosts": 6,
+        "HomeTeamScoreVadar": 0.0676405405,
+        "AwayTeamScoreVadar": 0.2095833333
     },
     {
         "Season": "2019-20",
@@ -875,12 +875,12 @@
         "AY": "2",
         "HR": "1",
         "AR": "0",
-        "HomeTeamScoreVader": 0.308225,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 4,
-        "AwayTeamScoreVader": 0.191544,
         "AwayTeamScoreRoberta": 0.02,
-        "AwayTeamPosts": 50
+        "AwayTeamPosts": 50,
+        "HomeTeamScoreVadar": 0.308225,
+        "AwayTeamScoreVadar": 0.191544
     },
     {
         "Season": "2019-20",
@@ -1106,12 +1106,12 @@
         "AY": "5",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.0991793103,
         "HomeTeamScoreRoberta": 0.0431034483,
         "HomeTeamPosts": 116,
-        "AwayTeamScoreVader": 0.0905052632,
         "AwayTeamScoreRoberta": 0.0526315789,
-        "AwayTeamPosts": 38
+        "AwayTeamPosts": 38,
+        "HomeTeamScoreVadar": 0.0991793103,
+        "AwayTeamScoreVadar": 0.0905052632
     },
     {
         "Season": "2019-20",
@@ -1137,12 +1137,12 @@
         "AY": "0",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1198204545,
         "HomeTeamScoreRoberta": 0.0909090909,
         "HomeTeamPosts": 44,
-        "AwayTeamScoreVader": 0.175275,
         "AwayTeamScoreRoberta": -0.125,
-        "AwayTeamPosts": 8
+        "AwayTeamPosts": 8,
+        "HomeTeamScoreVadar": 0.1198204545,
+        "AwayTeamScoreVadar": 0.175275
     },
     {
         "Season": "2019-20",
@@ -1218,12 +1218,12 @@
         "AY": "1",
         "HR": "1",
         "AR": "0",
-        "HomeTeamScoreVader": 0.2711333333,
         "HomeTeamScoreRoberta": 0.1666666667,
         "HomeTeamPosts": 6,
-        "AwayTeamScoreVader": 0.382775,
         "AwayTeamScoreRoberta": 0.25,
-        "AwayTeamPosts": 4
+        "AwayTeamPosts": 4,
+        "HomeTeamScoreVadar": 0.2711333333,
+        "AwayTeamScoreVadar": 0.382775
     },
     {
         "Season": "2019-20",
@@ -1249,12 +1249,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.175456,
         "HomeTeamScoreRoberta": 0.2,
         "HomeTeamPosts": 25,
-        "AwayTeamScoreVader": 0.0592,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 5
+        "AwayTeamPosts": 5,
+        "HomeTeamScoreVadar": 0.175456,
+        "AwayTeamScoreVadar": 0.0592
     },
     {
         "Season": "2019-20",
@@ -1305,12 +1305,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1862428571,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 7,
-        "AwayTeamScoreVader": 0.0210058824,
         "AwayTeamScoreRoberta": 0.0588235294,
-        "AwayTeamPosts": 17
+        "AwayTeamPosts": 17,
+        "HomeTeamScoreVadar": 0.1862428571,
+        "AwayTeamScoreVadar": 0.0210058824
     },
     {
         "Season": "2019-20",
@@ -1386,12 +1386,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "1",
-        "HomeTeamScoreVader": 0.271,
         "HomeTeamScoreRoberta": 0.25,
         "HomeTeamPosts": 8,
-        "AwayTeamScoreVader": 0.15079,
         "AwayTeamScoreRoberta": -0.1,
-        "AwayTeamPosts": 10
+        "AwayTeamPosts": 10,
+        "HomeTeamScoreVadar": 0.271,
+        "AwayTeamScoreVadar": 0.15079
     },
     {
         "Season": "2019-20",
@@ -1442,12 +1442,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1570166667,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 6,
-        "AwayTeamScoreVader": 0.1949416667,
         "AwayTeamScoreRoberta": 0.125,
-        "AwayTeamPosts": 24
+        "AwayTeamPosts": 24,
+        "HomeTeamScoreVadar": 0.1570166667,
+        "AwayTeamScoreVadar": 0.1949416667
     },
     {
         "Season": "2019-20",
@@ -1598,12 +1598,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1990222222,
         "HomeTeamScoreRoberta": -0.1111111111,
         "HomeTeamPosts": 9,
-        "AwayTeamScoreVader": 0.1797026316,
         "AwayTeamScoreRoberta": -0.1315789474,
-        "AwayTeamPosts": 38
+        "AwayTeamPosts": 38,
+        "HomeTeamScoreVadar": 0.1990222222,
+        "AwayTeamScoreVadar": 0.1797026316
     },
     {
         "Season": "2019-20",
@@ -1629,12 +1629,12 @@
         "AY": "1",
         "HR": "1",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1503984615,
         "HomeTeamScoreRoberta": 0.0461538462,
         "HomeTeamPosts": 65,
-        "AwayTeamScoreVader": 0.2037714286,
         "AwayTeamScoreRoberta": 0.1428571429,
-        "AwayTeamPosts": 7
+        "AwayTeamPosts": 7,
+        "HomeTeamScoreVadar": 0.1503984615,
+        "AwayTeamScoreVadar": 0.2037714286
     },
     {
         "Season": "2019-20",
@@ -1660,12 +1660,12 @@
         "AY": "3",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.0443344828,
         "HomeTeamScoreRoberta": -0.0344827586,
         "HomeTeamPosts": 29,
-        "AwayTeamScoreVader": 0.1067638298,
         "AwayTeamScoreRoberta": 0.0425531915,
-        "AwayTeamPosts": 47
+        "AwayTeamPosts": 47,
+        "HomeTeamScoreVadar": 0.0443344828,
+        "AwayTeamScoreVadar": 0.1067638298
     },
     {
         "Season": "2019-20",
@@ -1791,12 +1791,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.096,
         "HomeTeamScoreRoberta": -0.5,
         "HomeTeamPosts": 4,
-        "AwayTeamScoreVader": -0.0855,
         "AwayTeamScoreRoberta": -0.4,
-        "AwayTeamPosts": 5
+        "AwayTeamPosts": 5,
+        "HomeTeamScoreVadar": 0.096,
+        "AwayTeamScoreVadar": -0.0855
     },
     {
         "Season": "2019-20",
@@ -1872,12 +1872,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": -0.0451583333,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 12,
-        "AwayTeamScoreVader": 0.0314263158,
         "AwayTeamScoreRoberta": 0.0526315789,
-        "AwayTeamPosts": 19
+        "AwayTeamPosts": 19,
+        "HomeTeamScoreVadar": -0.0451583333,
+        "AwayTeamScoreVadar": 0.0314263158
     },
     {
         "Season": "2019-20",
@@ -1903,12 +1903,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "1",
-        "HomeTeamScoreVader": 0.0267555556,
         "HomeTeamScoreRoberta": -0.1111111111,
         "HomeTeamPosts": 9,
-        "AwayTeamScoreVader": 0.3947142857,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 7
+        "AwayTeamPosts": 7,
+        "HomeTeamScoreVadar": 0.0267555556,
+        "AwayTeamScoreVadar": 0.3947142857
     },
     {
         "Season": "2019-20",
@@ -1934,12 +1934,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1001662162,
         "HomeTeamScoreRoberta": -0.0945945946,
         "HomeTeamPosts": 74,
-        "AwayTeamScoreVader": 0.1464079545,
         "AwayTeamScoreRoberta": 0.0909090909,
-        "AwayTeamPosts": 88
+        "AwayTeamPosts": 88,
+        "HomeTeamScoreVadar": 0.1001662162,
+        "AwayTeamScoreVadar": 0.1464079545
     },
     {
         "Season": "2019-20",
@@ -2015,12 +2015,12 @@
         "AY": "4",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1433276596,
         "HomeTeamScoreRoberta": 0.0638297872,
         "HomeTeamPosts": 47,
-        "AwayTeamScoreVader": 0.25654,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 5
+        "AwayTeamPosts": 5,
+        "HomeTeamScoreVadar": 0.1433276596,
+        "AwayTeamScoreVadar": 0.25654
     },
     {
         "Season": "2019-20",
@@ -2196,12 +2196,12 @@
         "AY": "3",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.3974545455,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 11,
-        "AwayTeamScoreVader": 0.164423913,
         "AwayTeamScoreRoberta": -0.1739130435,
-        "AwayTeamPosts": 46
+        "AwayTeamPosts": 46,
+        "HomeTeamScoreVadar": 0.3974545455,
+        "AwayTeamScoreVadar": 0.164423913
     },
     {
         "Season": "2019-20",
@@ -2227,12 +2227,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.202025,
         "HomeTeamScoreRoberta": 0.125,
         "HomeTeamPosts": 8,
-        "AwayTeamScoreVader": -0.0695666667,
         "AwayTeamScoreRoberta": -0.1666666667,
-        "AwayTeamPosts": 6
+        "AwayTeamPosts": 6,
+        "HomeTeamScoreVadar": 0.202025,
+        "AwayTeamScoreVadar": -0.0695666667
     },
     {
         "Season": "2019-20",
@@ -2308,12 +2308,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.2708388889,
         "HomeTeamScoreRoberta": 0.0555555556,
         "HomeTeamPosts": 18,
-        "AwayTeamScoreVader": 0.38962,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 5
+        "AwayTeamPosts": 5,
+        "HomeTeamScoreVadar": 0.2708388889,
+        "AwayTeamScoreVadar": 0.38962
     },
     {
         "Season": "2019-20",
@@ -2364,12 +2364,12 @@
         "AY": "3",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1153,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 18,
-        "AwayTeamScoreVader": 0.0,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 4
+        "AwayTeamPosts": 4,
+        "HomeTeamScoreVadar": 0.1153,
+        "AwayTeamScoreVadar": 0.0
     },
     {
         "Season": "2019-20",
@@ -2420,12 +2420,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": -0.14985,
         "HomeTeamScoreRoberta": -0.25,
         "HomeTeamPosts": 4,
-        "AwayTeamScoreVader": -0.07535,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 16
+        "AwayTeamPosts": 16,
+        "HomeTeamScoreVadar": -0.14985,
+        "AwayTeamScoreVadar": -0.07535
     },
     {
         "Season": "2019-20",
@@ -2451,12 +2451,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.2349731343,
         "HomeTeamScoreRoberta": 0.1044776119,
         "HomeTeamPosts": 67,
-        "AwayTeamScoreVader": 0.1846766234,
         "AwayTeamScoreRoberta": 0.0649350649,
-        "AwayTeamPosts": 77
+        "AwayTeamPosts": 77,
+        "HomeTeamScoreVadar": 0.2349731343,
+        "AwayTeamScoreVadar": 0.1846766234
     },
     {
         "Season": "2019-20",
@@ -2507,12 +2507,12 @@
         "AY": "0",
         "HR": "1",
         "AR": "0",
-        "HomeTeamScoreVader": 0.0519833333,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 6,
-        "AwayTeamScoreVader": 0.1022538462,
         "AwayTeamScoreRoberta": 0.0769230769,
-        "AwayTeamPosts": 13
+        "AwayTeamPosts": 13,
+        "HomeTeamScoreVadar": 0.0519833333,
+        "AwayTeamScoreVadar": 0.1022538462
     },
     {
         "Season": "2019-20",
@@ -2538,12 +2538,12 @@
         "AY": "1",
         "HR": "1",
         "AR": "0",
-        "HomeTeamScoreVader": 0.0988272727,
         "HomeTeamScoreRoberta": 0.1818181818,
         "HomeTeamPosts": 11,
-        "AwayTeamScoreVader": 0.183325,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 4
+        "AwayTeamPosts": 4,
+        "HomeTeamScoreVadar": 0.0988272727,
+        "AwayTeamScoreVadar": 0.183325
     },
     {
         "Season": "2019-20",
@@ -2719,12 +2719,12 @@
         "AY": "3",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.0786896552,
         "HomeTeamScoreRoberta": 0.1379310345,
         "HomeTeamPosts": 29,
-        "AwayTeamScoreVader": -0.0290666667,
         "AwayTeamScoreRoberta": 0.1333333333,
-        "AwayTeamPosts": 15
+        "AwayTeamPosts": 15,
+        "HomeTeamScoreVadar": 0.0786896552,
+        "AwayTeamScoreVadar": -0.0290666667
     },
     {
         "Season": "2019-20",
@@ -2825,12 +2825,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.04966,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 5,
-        "AwayTeamScoreVader": -0.0665514286,
         "AwayTeamScoreRoberta": 0.0285714286,
-        "AwayTeamPosts": 35
+        "AwayTeamPosts": 35,
+        "HomeTeamScoreVadar": 0.04966,
+        "AwayTeamScoreVadar": -0.0665514286
     },
     {
         "Season": "2019-20",
@@ -2931,12 +2931,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.2330666667,
         "HomeTeamScoreRoberta": -0.3333333333,
         "HomeTeamPosts": 6,
-        "AwayTeamScoreVader": 0.1988666667,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 6
+        "AwayTeamPosts": 6,
+        "HomeTeamScoreVadar": 0.2330666667,
+        "AwayTeamScoreVadar": 0.1988666667
     },
     {
         "Season": "2019-20",
@@ -3012,12 +3012,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "1",
-        "HomeTeamScoreVader": 0.1872,
         "HomeTeamScoreRoberta": -0.2,
         "HomeTeamPosts": 5,
-        "AwayTeamScoreVader": 0.0088727273,
         "AwayTeamScoreRoberta": -0.1818181818,
-        "AwayTeamPosts": 11
+        "AwayTeamPosts": 11,
+        "HomeTeamScoreVadar": 0.1872,
+        "AwayTeamScoreVadar": 0.0088727273
     },
     {
         "Season": "2019-20",
@@ -3268,12 +3268,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1406657534,
         "HomeTeamScoreRoberta": 0.095890411,
         "HomeTeamPosts": 73,
-        "AwayTeamScoreVader": 0.0937217391,
         "AwayTeamScoreRoberta": 0.0869565217,
-        "AwayTeamPosts": 23
+        "AwayTeamPosts": 23,
+        "HomeTeamScoreVadar": 0.1406657534,
+        "AwayTeamScoreVadar": 0.0937217391
     },
     {
         "Season": "2019-20",
@@ -3299,12 +3299,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1191125,
         "HomeTeamScoreRoberta": 0.125,
         "HomeTeamPosts": 8,
-        "AwayTeamScoreVader": 0.0702814815,
         "AwayTeamScoreRoberta": 0.1111111111,
-        "AwayTeamPosts": 27
+        "AwayTeamPosts": 27,
+        "HomeTeamScoreVadar": 0.1191125,
+        "AwayTeamScoreVadar": 0.0702814815
     },
     {
         "Season": "2019-20",
@@ -3480,12 +3480,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.08005,
         "HomeTeamScoreRoberta": -0.2857142857,
         "HomeTeamPosts": 14,
-        "AwayTeamScoreVader": 0.0649740741,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 27
+        "AwayTeamPosts": 27,
+        "HomeTeamScoreVadar": 0.08005,
+        "AwayTeamScoreVadar": 0.0649740741
     },
     {
         "Season": "2019-20",
@@ -3511,12 +3511,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": -0.03558,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 5,
-        "AwayTeamScoreVader": 0.3422487179,
         "AwayTeamScoreRoberta": 0.1025641026,
-        "AwayTeamPosts": 39
+        "AwayTeamPosts": 39,
+        "HomeTeamScoreVadar": -0.03558,
+        "AwayTeamScoreVadar": 0.3422487179
     },
     {
         "Season": "2019-20",
@@ -3542,12 +3542,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.14479,
         "HomeTeamScoreRoberta": 0.1,
         "HomeTeamPosts": 10,
-        "AwayTeamScoreVader": 0.45266,
         "AwayTeamScoreRoberta": 0.2,
-        "AwayTeamPosts": 5
+        "AwayTeamPosts": 5,
+        "HomeTeamScoreVadar": 0.14479,
+        "AwayTeamScoreVadar": 0.45266
     },
     {
         "Season": "2019-20",
@@ -3623,12 +3623,12 @@
         "AY": "3",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.253508,
         "HomeTeamScoreRoberta": 0.24,
         "HomeTeamPosts": 25,
-        "AwayTeamScoreVader": 0.2026714286,
         "AwayTeamScoreRoberta": 0.1428571429,
-        "AwayTeamPosts": 7
+        "AwayTeamPosts": 7,
+        "HomeTeamScoreVadar": 0.253508,
+        "AwayTeamScoreVadar": 0.2026714286
     },
     {
         "Season": "2019-20",
@@ -3779,12 +3779,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.3103571429,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 7,
-        "AwayTeamScoreVader": 0.1709,
         "AwayTeamScoreRoberta": 0.0909090909,
-        "AwayTeamPosts": 11
+        "AwayTeamPosts": 11,
+        "HomeTeamScoreVadar": 0.3103571429,
+        "AwayTeamScoreVadar": 0.1709
     },
     {
         "Season": "2019-20",
@@ -3810,12 +3810,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.2684,
         "HomeTeamScoreRoberta": 0.1612903226,
         "HomeTeamPosts": 31,
-        "AwayTeamScoreVader": 0.28498,
         "AwayTeamScoreRoberta": -0.2,
-        "AwayTeamPosts": 5
+        "AwayTeamPosts": 5,
+        "HomeTeamScoreVadar": 0.2684,
+        "AwayTeamScoreVadar": 0.28498
     },
     {
         "Season": "2019-20",
@@ -3891,12 +3891,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.2123941176,
         "HomeTeamScoreRoberta": 0.2941176471,
         "HomeTeamPosts": 17,
-        "AwayTeamScoreVader": 0.21364,
         "AwayTeamScoreRoberta": -0.2,
-        "AwayTeamPosts": 5
+        "AwayTeamPosts": 5,
+        "HomeTeamScoreVadar": 0.2123941176,
+        "AwayTeamScoreVadar": 0.21364
     },
     {
         "Season": "2019-20",
@@ -3947,12 +3947,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1939927273,
         "HomeTeamScoreRoberta": 0.0181818182,
         "HomeTeamPosts": 55,
-        "AwayTeamScoreVader": 0.25493,
         "AwayTeamScoreRoberta": 0.2333333333,
-        "AwayTeamPosts": 30
+        "AwayTeamPosts": 30,
+        "HomeTeamScoreVadar": 0.1939927273,
+        "AwayTeamScoreVadar": 0.25493
     },
     {
         "Season": "2019-20",
@@ -4003,12 +4003,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.50826,
         "HomeTeamScoreRoberta": 0.2,
         "HomeTeamPosts": 5,
-        "AwayTeamScoreVader": 0.146875,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 4
+        "AwayTeamPosts": 4,
+        "HomeTeamScoreVadar": 0.50826,
+        "AwayTeamScoreVadar": 0.146875
     },
     {
         "Season": "2019-20",
@@ -4034,12 +4034,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.2166725806,
         "HomeTeamScoreRoberta": 0.1774193548,
         "HomeTeamPosts": 62,
-        "AwayTeamScoreVader": 0.1448111111,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 9
+        "AwayTeamPosts": 9,
+        "HomeTeamScoreVadar": 0.2166725806,
+        "AwayTeamScoreVadar": 0.1448111111
     },
     {
         "Season": "2019-20",
@@ -4065,12 +4065,12 @@
         "AY": "0",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.591025,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 4,
-        "AwayTeamScoreVader": 0.0815571429,
         "AwayTeamScoreRoberta": 0.1428571429,
-        "AwayTeamPosts": 7
+        "AwayTeamPosts": 7,
+        "HomeTeamScoreVadar": 0.591025,
+        "AwayTeamScoreVadar": 0.0815571429
     },
     {
         "Season": "2019-20",
@@ -4121,12 +4121,12 @@
         "AY": "0",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": -0.0898636364,
         "HomeTeamScoreRoberta": -0.0909090909,
         "HomeTeamPosts": 11,
-        "AwayTeamScoreVader": 0.1474833333,
         "AwayTeamScoreRoberta": 0.0833333333,
-        "AwayTeamPosts": 12
+        "AwayTeamPosts": 12,
+        "HomeTeamScoreVadar": -0.0898636364,
+        "AwayTeamScoreVadar": 0.1474833333
     },
     {
         "Season": "2019-20",
@@ -4227,12 +4227,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.20694,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 15,
-        "AwayTeamScoreVader": 0.2499,
         "AwayTeamScoreRoberta": 0.3333333333,
-        "AwayTeamPosts": 27
+        "AwayTeamPosts": 27,
+        "HomeTeamScoreVadar": 0.20694,
+        "AwayTeamScoreVadar": 0.2499
     },
     {
         "Season": "2019-20",
@@ -4533,12 +4533,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.3201378378,
         "HomeTeamScoreRoberta": 0.3243243243,
         "HomeTeamPosts": 37,
-        "AwayTeamScoreVader": 0.4821,
         "AwayTeamScoreRoberta": 0.5,
-        "AwayTeamPosts": 4
+        "AwayTeamPosts": 4,
+        "HomeTeamScoreVadar": 0.3201378378,
+        "AwayTeamScoreVadar": 0.4821
     },
     {
         "Season": "2019-20",
@@ -4589,12 +4589,12 @@
         "AY": "4",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.2431305556,
         "HomeTeamScoreRoberta": 0.0833333333,
         "HomeTeamPosts": 36,
-        "AwayTeamScoreVader": 0.5592166667,
         "AwayTeamScoreRoberta": 0.5,
-        "AwayTeamPosts": 6
+        "AwayTeamPosts": 6,
+        "HomeTeamScoreVadar": 0.2431305556,
+        "AwayTeamScoreVadar": 0.5592166667
     },
     {
         "Season": "2019-20",
@@ -4645,12 +4645,12 @@
         "AY": "3",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.0315928571,
         "HomeTeamScoreRoberta": 0.1428571429,
         "HomeTeamPosts": 14,
-        "AwayTeamScoreVader": 0.2245403846,
         "AwayTeamScoreRoberta": 0.0961538462,
-        "AwayTeamPosts": 52
+        "AwayTeamPosts": 52,
+        "HomeTeamScoreVadar": 0.0315928571,
+        "AwayTeamScoreVadar": 0.2245403846
     },
     {
         "Season": "2019-20",
@@ -4801,12 +4801,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1047857143,
         "HomeTeamScoreRoberta": 0.2857142857,
         "HomeTeamPosts": 7,
-        "AwayTeamScoreVader": 0.3599714286,
         "AwayTeamScoreRoberta": 0.4285714286,
-        "AwayTeamPosts": 7
+        "AwayTeamPosts": 7,
+        "HomeTeamScoreVadar": 0.1047857143,
+        "AwayTeamScoreVadar": 0.3599714286
     },
     {
         "Season": "2019-20",
@@ -4857,12 +4857,12 @@
         "AY": "3",
         "HR": "1",
         "AR": "0",
-        "HomeTeamScoreVader": 0.10530625,
         "HomeTeamScoreRoberta": -0.125,
         "HomeTeamPosts": 16,
-        "AwayTeamScoreVader": 0.048855,
         "AwayTeamScoreRoberta": 0.2,
-        "AwayTeamPosts": 20
+        "AwayTeamPosts": 20,
+        "HomeTeamScoreVadar": 0.10530625,
+        "AwayTeamScoreVadar": 0.048855
     },
     {
         "Season": "2019-20",
@@ -5063,12 +5063,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.2693545455,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 22,
-        "AwayTeamScoreVader": 0.4698571429,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 7
+        "AwayTeamPosts": 7,
+        "HomeTeamScoreVadar": 0.2693545455,
+        "AwayTeamScoreVadar": 0.4698571429
     },
     {
         "Season": "2019-20",
@@ -5169,12 +5169,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.2364625,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 8,
-        "AwayTeamScoreVader": 0.04069,
         "AwayTeamScoreRoberta": 0.1,
-        "AwayTeamPosts": 10
+        "AwayTeamPosts": 10,
+        "HomeTeamScoreVadar": 0.2364625,
+        "AwayTeamScoreVadar": 0.04069
     },
     {
         "Season": "2019-20",
@@ -5275,12 +5275,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": -0.0917,
         "HomeTeamScoreRoberta": 0.2,
         "HomeTeamPosts": 5,
-        "AwayTeamScoreVader": 0.1493125,
         "AwayTeamScoreRoberta": 0.25,
-        "AwayTeamPosts": 8
+        "AwayTeamPosts": 8,
+        "HomeTeamScoreVadar": -0.0917,
+        "AwayTeamScoreVadar": 0.1493125
     },
     {
         "Season": "2019-20",
@@ -5331,12 +5331,12 @@
         "AY": "4",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.18107375,
         "HomeTeamScoreRoberta": 0.2,
         "HomeTeamPosts": 80,
-        "AwayTeamScoreVader": 0.0910666667,
         "AwayTeamScoreRoberta": 0.2666666667,
-        "AwayTeamPosts": 15
+        "AwayTeamPosts": 15,
+        "HomeTeamScoreVadar": 0.18107375,
+        "AwayTeamScoreVadar": 0.0910666667
     },
     {
         "Season": "2019-20",
@@ -5537,12 +5537,12 @@
         "AY": "4",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.16584,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 10,
-        "AwayTeamScoreVader": -0.0357222222,
         "AwayTeamScoreRoberta": 0.1111111111,
-        "AwayTeamPosts": 9
+        "AwayTeamPosts": 9,
+        "HomeTeamScoreVadar": 0.16584,
+        "AwayTeamScoreVadar": -0.0357222222
     },
     {
         "Season": "2019-20",
@@ -5618,12 +5618,12 @@
         "AY": "0",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.0931777778,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 45,
-        "AwayTeamScoreVader": 0.0666234043,
         "AwayTeamScoreRoberta": -0.0425531915,
-        "AwayTeamPosts": 47
+        "AwayTeamPosts": 47,
+        "HomeTeamScoreVadar": 0.0931777778,
+        "AwayTeamScoreVadar": 0.0666234043
     },
     {
         "Season": "2019-20",
@@ -5674,12 +5674,12 @@
         "AY": "0",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.2798,
         "HomeTeamScoreRoberta": 0.5,
         "HomeTeamPosts": 6,
-        "AwayTeamScoreVader": 0.2867,
         "AwayTeamScoreRoberta": 0.125,
-        "AwayTeamPosts": 8
+        "AwayTeamPosts": 8,
+        "HomeTeamScoreVadar": 0.2798,
+        "AwayTeamScoreVadar": 0.2867
     },
     {
         "Season": "2019-20",
@@ -5855,12 +5855,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1166588235,
         "HomeTeamScoreRoberta": -0.0588235294,
         "HomeTeamPosts": 17,
-        "AwayTeamScoreVader": 0.192595082,
         "AwayTeamScoreRoberta": 0.1639344262,
-        "AwayTeamPosts": 61
+        "AwayTeamPosts": 61,
+        "HomeTeamScoreVadar": 0.1166588235,
+        "AwayTeamScoreVadar": 0.192595082
     },
     {
         "Season": "2019-20",
@@ -5911,12 +5911,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.0905875,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 8,
-        "AwayTeamScoreVader": 0.2506375,
         "AwayTeamScoreRoberta": 0.125,
-        "AwayTeamPosts": 8
+        "AwayTeamPosts": 8,
+        "HomeTeamScoreVadar": 0.0905875,
+        "AwayTeamScoreVadar": 0.2506375
     },
     {
         "Season": "2019-20",
@@ -6092,12 +6092,12 @@
         "AY": "0",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.2389125,
         "HomeTeamScoreRoberta": 0.125,
         "HomeTeamPosts": 8,
-        "AwayTeamScoreVader": 0.2331166667,
         "AwayTeamScoreRoberta": 0.1666666667,
-        "AwayTeamPosts": 6
+        "AwayTeamPosts": 6,
+        "HomeTeamScoreVadar": 0.2389125,
+        "AwayTeamScoreVadar": 0.2331166667
     },
     {
         "Season": "2019-20",
@@ -6123,12 +6123,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.2116666667,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 6,
-        "AwayTeamScoreVader": 0.2575681818,
         "AwayTeamScoreRoberta": -0.0454545455,
-        "AwayTeamPosts": 22
+        "AwayTeamPosts": 22,
+        "HomeTeamScoreVadar": 0.2116666667,
+        "AwayTeamScoreVadar": 0.2575681818
     },
     {
         "Season": "2019-20",
@@ -6179,12 +6179,12 @@
         "AY": "3",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.2207163265,
         "HomeTeamScoreRoberta": 0.2040816327,
         "HomeTeamPosts": 49,
-        "AwayTeamScoreVader": 0.0907,
         "AwayTeamScoreRoberta": -0.1228070175,
-        "AwayTeamPosts": 57
+        "AwayTeamPosts": 57,
+        "HomeTeamScoreVadar": 0.2207163265,
+        "AwayTeamScoreVadar": 0.0907
     },
     {
         "Season": "2019-20",
@@ -6260,12 +6260,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.0,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 4,
-        "AwayTeamScoreVader": -0.02106,
         "AwayTeamScoreRoberta": 0.2,
-        "AwayTeamPosts": 5
+        "AwayTeamPosts": 5,
+        "HomeTeamScoreVadar": 0.0,
+        "AwayTeamScoreVadar": -0.02106
     },
     {
         "Season": "2019-20",
@@ -6291,12 +6291,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.02482,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 10,
-        "AwayTeamScoreVader": 0.2060733333,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 15
+        "AwayTeamPosts": 15,
+        "HomeTeamScoreVadar": 0.02482,
+        "AwayTeamScoreVadar": 0.2060733333
     },
     {
         "Season": "2019-20",
@@ -6322,12 +6322,12 @@
         "AY": "3",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.0193,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 4,
-        "AwayTeamScoreVader": 0.0526875,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 8
+        "AwayTeamPosts": 8,
+        "HomeTeamScoreVadar": 0.0193,
+        "AwayTeamScoreVadar": 0.0526875
     },
     {
         "Season": "2019-20",
@@ -6353,12 +6353,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "1",
-        "HomeTeamScoreVader": -0.0191894737,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 19,
-        "AwayTeamScoreVader": 0.2503083333,
         "AwayTeamScoreRoberta": 0.125,
-        "AwayTeamPosts": 48
+        "AwayTeamPosts": 48,
+        "HomeTeamScoreVadar": -0.0191894737,
+        "AwayTeamScoreVadar": 0.2503083333
     },
     {
         "Season": "2019-20",
@@ -6384,12 +6384,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.32282,
         "HomeTeamScoreRoberta": 0.2,
         "HomeTeamPosts": 5,
-        "AwayTeamScoreVader": 0.0931333333,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 6
+        "AwayTeamPosts": 6,
+        "HomeTeamScoreVadar": 0.32282,
+        "AwayTeamScoreVadar": 0.0931333333
     },
     {
         "Season": "2019-20",
@@ -6490,12 +6490,12 @@
         "AY": "0",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1898416667,
         "HomeTeamScoreRoberta": 0.0833333333,
         "HomeTeamPosts": 12,
-        "AwayTeamScoreVader": -0.0238615385,
         "AwayTeamScoreRoberta": -0.1730769231,
-        "AwayTeamPosts": 52
+        "AwayTeamPosts": 52,
+        "HomeTeamScoreVadar": 0.1898416667,
+        "AwayTeamScoreVadar": -0.0238615385
     },
     {
         "Season": "2019-20",
@@ -6521,12 +6521,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": -0.1330888889,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 9,
-        "AwayTeamScoreVader": -0.0722,
         "AwayTeamScoreRoberta": -0.2222222222,
-        "AwayTeamPosts": 18
+        "AwayTeamPosts": 18,
+        "HomeTeamScoreVadar": -0.1330888889,
+        "AwayTeamScoreVadar": -0.0722
     },
     {
         "Season": "2019-20",
@@ -6602,12 +6602,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1870815789,
         "HomeTeamScoreRoberta": 0.0263157895,
         "HomeTeamPosts": 38,
-        "AwayTeamScoreVader": -0.050575,
         "AwayTeamScoreRoberta": 0.25,
-        "AwayTeamPosts": 4
+        "AwayTeamPosts": 4,
+        "HomeTeamScoreVadar": 0.1870815789,
+        "AwayTeamScoreVadar": -0.050575
     },
     {
         "Season": "2019-20",
@@ -6758,12 +6758,12 @@
         "AY": "3",
         "HR": "0",
         "AR": "1",
-        "HomeTeamScoreVader": 0.2226894737,
         "HomeTeamScoreRoberta": 0.1578947368,
         "HomeTeamPosts": 19,
-        "AwayTeamScoreVader": 0.1496833333,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 12
+        "AwayTeamPosts": 12,
+        "HomeTeamScoreVadar": 0.2226894737,
+        "AwayTeamScoreVadar": 0.1496833333
     },
     {
         "Season": "2019-20",
@@ -6864,12 +6864,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "1",
-        "HomeTeamScoreVader": 0.291975,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 4,
-        "AwayTeamScoreVader": 0.0028,
         "AwayTeamScoreRoberta": -0.25,
-        "AwayTeamPosts": 8
+        "AwayTeamPosts": 8,
+        "HomeTeamScoreVadar": 0.291975,
+        "AwayTeamScoreVadar": 0.0028
     },
     {
         "Season": "2019-20",
@@ -6945,12 +6945,12 @@
         "AY": "0",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": -0.1955875,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 8,
-        "AwayTeamScoreVader": 0.1668894737,
         "AwayTeamScoreRoberta": 0.1578947368,
-        "AwayTeamPosts": 19
+        "AwayTeamPosts": 19,
+        "HomeTeamScoreVadar": -0.1955875,
+        "AwayTeamScoreVadar": 0.1668894737
     },
     {
         "Season": "2019-20",
@@ -7001,12 +7001,12 @@
         "AY": "3",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.136747619,
         "HomeTeamScoreRoberta": -0.0714285714,
         "HomeTeamPosts": 42,
-        "AwayTeamScoreVader": 0.2117538462,
         "AwayTeamScoreRoberta": -0.1282051282,
-        "AwayTeamPosts": 39
+        "AwayTeamPosts": 39,
+        "HomeTeamScoreVadar": 0.136747619,
+        "AwayTeamScoreVadar": 0.2117538462
     },
     {
         "Season": "2019-20",
@@ -7032,12 +7032,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1059375,
         "HomeTeamScoreRoberta": -0.0625,
         "HomeTeamPosts": 16,
-        "AwayTeamScoreVader": -0.12765,
         "AwayTeamScoreRoberta": -0.3333333333,
-        "AwayTeamPosts": 6
+        "AwayTeamPosts": 6,
+        "HomeTeamScoreVadar": 0.1059375,
+        "AwayTeamScoreVadar": -0.12765
     },
     {
         "Season": "2019-20",
@@ -7063,12 +7063,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": -0.0388066667,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 15,
-        "AwayTeamScoreVader": -0.0806043478,
         "AwayTeamScoreRoberta": 0.1304347826,
-        "AwayTeamPosts": 23
+        "AwayTeamPosts": 23,
+        "HomeTeamScoreVadar": -0.0388066667,
+        "AwayTeamScoreVadar": -0.0806043478
     },
     {
         "Season": "2019-20",
@@ -7169,12 +7169,12 @@
         "AY": "4",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.0,
         "HomeTeamScoreRoberta": 0.25,
         "HomeTeamPosts": 4,
-        "AwayTeamScoreVader": 0.04456,
         "AwayTeamScoreRoberta": 0.2,
-        "AwayTeamPosts": 5
+        "AwayTeamPosts": 5,
+        "HomeTeamScoreVadar": 0.0,
+        "AwayTeamScoreVadar": 0.04456
     },
     {
         "Season": "2019-20",
@@ -7275,12 +7275,12 @@
         "AY": "4",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1585206897,
         "HomeTeamScoreRoberta": 0.2413793103,
         "HomeTeamPosts": 29,
-        "AwayTeamScoreVader": 0.1118111111,
         "AwayTeamScoreRoberta": 0.3333333333,
-        "AwayTeamPosts": 9
+        "AwayTeamPosts": 9,
+        "HomeTeamScoreVadar": 0.1585206897,
+        "AwayTeamScoreVadar": 0.1118111111
     },
     {
         "Season": "2019-20",
@@ -7306,12 +7306,12 @@
         "AY": "3",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.0918424242,
         "HomeTeamScoreRoberta": 0.0303030303,
         "HomeTeamPosts": 33,
-        "AwayTeamScoreVader": -0.0427,
         "AwayTeamScoreRoberta": 0.1111111111,
-        "AwayTeamPosts": 9
+        "AwayTeamPosts": 9,
+        "HomeTeamScoreVadar": 0.0918424242,
+        "AwayTeamScoreVadar": -0.0427
     },
     {
         "Season": "2019-20",
@@ -7487,12 +7487,12 @@
         "AY": "4",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.3176,
         "HomeTeamScoreRoberta": 0.1666666667,
         "HomeTeamPosts": 6,
-        "AwayTeamScoreVader": 0.3559782609,
         "AwayTeamScoreRoberta": 0.2173913043,
-        "AwayTeamPosts": 46
+        "AwayTeamPosts": 46,
+        "HomeTeamScoreVadar": 0.3176,
+        "AwayTeamScoreVadar": 0.3559782609
     },
     {
         "Season": "2019-20",
@@ -7568,12 +7568,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.257648,
         "HomeTeamScoreRoberta": 0.04,
         "HomeTeamPosts": 25,
-        "AwayTeamScoreVader": 0.3875,
         "AwayTeamScoreRoberta": 0.5,
-        "AwayTeamPosts": 4
+        "AwayTeamPosts": 4,
+        "HomeTeamScoreVadar": 0.257648,
+        "AwayTeamScoreVadar": 0.3875
     },
     {
         "Season": "2019-20",
@@ -7649,12 +7649,12 @@
         "AY": "3",
         "HR": "1",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1298,
         "HomeTeamScoreRoberta": 0.25,
         "HomeTeamPosts": 4,
-        "AwayTeamScoreVader": -0.005925,
         "AwayTeamScoreRoberta": 0.25,
-        "AwayTeamPosts": 4
+        "AwayTeamPosts": 4,
+        "HomeTeamScoreVadar": 0.1298,
+        "AwayTeamScoreVadar": -0.005925
     },
     {
         "Season": "2019-20",
@@ -7730,12 +7730,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1052409091,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 22,
-        "AwayTeamScoreVader": 0.09878,
         "AwayTeamScoreRoberta": 0.2,
-        "AwayTeamPosts": 5
+        "AwayTeamPosts": 5,
+        "HomeTeamScoreVadar": 0.1052409091,
+        "AwayTeamScoreVadar": 0.09878
     },
     {
         "Season": "2019-20",
@@ -7761,12 +7761,12 @@
         "AY": "4",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.3202676471,
         "HomeTeamScoreRoberta": 0.1176470588,
         "HomeTeamPosts": 34,
-        "AwayTeamScoreVader": 0.15886,
         "AwayTeamScoreRoberta": 0.3,
-        "AwayTeamPosts": 10
+        "AwayTeamPosts": 10,
+        "HomeTeamScoreVadar": 0.3202676471,
+        "AwayTeamScoreVadar": 0.15886
     },
     {
         "Season": "2019-20",
@@ -7817,12 +7817,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1325235294,
         "HomeTeamScoreRoberta": 0.1176470588,
         "HomeTeamPosts": 17,
-        "AwayTeamScoreVader": 0.41571,
         "AwayTeamScoreRoberta": -0.1,
-        "AwayTeamPosts": 10
+        "AwayTeamPosts": 10,
+        "HomeTeamScoreVadar": 0.1325235294,
+        "AwayTeamScoreVadar": 0.41571
     },
     {
         "Season": "2019-20",
@@ -7848,12 +7848,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "1",
-        "HomeTeamScoreVader": 0.0376137931,
         "HomeTeamScoreRoberta": 0.0689655172,
         "HomeTeamPosts": 29,
-        "AwayTeamScoreVader": 0.1127115789,
         "AwayTeamScoreRoberta": 0.1368421053,
-        "AwayTeamPosts": 95
+        "AwayTeamPosts": 95,
+        "HomeTeamScoreVadar": 0.0376137931,
+        "AwayTeamScoreVadar": 0.1127115789
     },
     {
         "Season": "2019-20",
@@ -7879,12 +7879,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": -0.04194,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 5,
-        "AwayTeamScoreVader": 0.3600111111,
         "AwayTeamScoreRoberta": 0.1111111111,
-        "AwayTeamPosts": 9
+        "AwayTeamPosts": 9,
+        "HomeTeamScoreVadar": -0.04194,
+        "AwayTeamScoreVadar": 0.3600111111
     },
     {
         "Season": "2019-20",
@@ -7910,12 +7910,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1323125,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 40,
-        "AwayTeamScoreVader": 0.21436,
         "AwayTeamScoreRoberta": 0.08,
-        "AwayTeamPosts": 50
+        "AwayTeamPosts": 50,
+        "HomeTeamScoreVadar": 0.1323125,
+        "AwayTeamScoreVadar": 0.21436
     },
     {
         "Season": "2019-20",
@@ -8041,12 +8041,12 @@
         "AY": "0",
         "HR": "0",
         "AR": "1",
-        "HomeTeamScoreVader": 0.0843,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 5,
-        "AwayTeamScoreVader": 0.04185,
         "AwayTeamScoreRoberta": -0.125,
-        "AwayTeamPosts": 8
+        "AwayTeamPosts": 8,
+        "HomeTeamScoreVadar": 0.0843,
+        "AwayTeamScoreVadar": 0.04185
     },
     {
         "Season": "2019-20",
@@ -8072,12 +8072,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1438,
         "HomeTeamScoreRoberta": 0.1666666667,
         "HomeTeamPosts": 6,
-        "AwayTeamScoreVader": 0.1895366667,
         "AwayTeamScoreRoberta": 0.3333333333,
-        "AwayTeamPosts": 30
+        "AwayTeamPosts": 30,
+        "HomeTeamScoreVadar": 0.1438,
+        "AwayTeamScoreVadar": 0.1895366667
     },
     {
         "Season": "2019-20",
@@ -8103,12 +8103,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.31659,
         "HomeTeamScoreRoberta": 0.2,
         "HomeTeamPosts": 10,
-        "AwayTeamScoreVader": 0.1849,
         "AwayTeamScoreRoberta": 0.1527777778,
-        "AwayTeamPosts": 72
+        "AwayTeamPosts": 72,
+        "HomeTeamScoreVadar": 0.31659,
+        "AwayTeamScoreVadar": 0.1849
     },
     {
         "Season": "2019-20",
@@ -8134,12 +8134,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": -0.0286357143,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 14,
-        "AwayTeamScoreVader": -0.44185,
         "AwayTeamScoreRoberta": -0.5,
-        "AwayTeamPosts": 4
+        "AwayTeamPosts": 4,
+        "HomeTeamScoreVadar": -0.0286357143,
+        "AwayTeamScoreVadar": -0.44185
     },
     {
         "Season": "2019-20",
@@ -8190,12 +8190,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.0957947368,
         "HomeTeamScoreRoberta": -0.1052631579,
         "HomeTeamPosts": 19,
-        "AwayTeamScoreVader": -0.09964,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 5
+        "AwayTeamPosts": 5,
+        "HomeTeamScoreVadar": 0.0957947368,
+        "AwayTeamScoreVadar": -0.09964
     },
     {
         "Season": "2019-20",
@@ -8221,12 +8221,12 @@
         "AY": "0",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1884684211,
         "HomeTeamScoreRoberta": 0.0175438596,
         "HomeTeamPosts": 57,
-        "AwayTeamScoreVader": 0.5792,
         "AwayTeamScoreRoberta": 0.1666666667,
-        "AwayTeamPosts": 6
+        "AwayTeamPosts": 6,
+        "HomeTeamScoreVadar": 0.1884684211,
+        "AwayTeamScoreVadar": 0.5792
     },
     {
         "Season": "2019-20",
@@ -8252,12 +8252,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.14367,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 10,
-        "AwayTeamScoreVader": 0.4562,
         "AwayTeamScoreRoberta": -0.25,
-        "AwayTeamPosts": 4
+        "AwayTeamPosts": 4,
+        "HomeTeamScoreVadar": 0.14367,
+        "AwayTeamScoreVadar": 0.4562
     },
     {
         "Season": "2019-20",
@@ -8283,12 +8283,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.012775,
         "HomeTeamScoreRoberta": -0.25,
         "HomeTeamPosts": 4,
-        "AwayTeamScoreVader": 0.2228166667,
         "AwayTeamScoreRoberta": 0.3333333333,
-        "AwayTeamPosts": 18
+        "AwayTeamPosts": 18,
+        "HomeTeamScoreVadar": 0.012775,
+        "AwayTeamScoreVadar": 0.2228166667
     },
     {
         "Season": "2019-20",
@@ -8339,12 +8339,12 @@
         "AY": "0",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.2517560976,
         "HomeTeamScoreRoberta": 0.1219512195,
         "HomeTeamPosts": 41,
-        "AwayTeamScoreVader": -0.3986571429,
         "AwayTeamScoreRoberta": -0.2857142857,
-        "AwayTeamPosts": 7
+        "AwayTeamPosts": 7,
+        "HomeTeamScoreVadar": 0.2517560976,
+        "AwayTeamScoreVadar": -0.3986571429
     },
     {
         "Season": "2019-20",
@@ -8395,12 +8395,12 @@
         "AY": "2",
         "HR": "1",
         "AR": "0",
-        "HomeTeamScoreVader": -0.067825,
         "HomeTeamScoreRoberta": -0.5,
         "HomeTeamPosts": 4,
-        "AwayTeamScoreVader": 0.0866752809,
         "AwayTeamScoreRoberta": 0.0224719101,
-        "AwayTeamPosts": 89
+        "AwayTeamPosts": 89,
+        "HomeTeamScoreVadar": -0.067825,
+        "AwayTeamScoreVadar": 0.0866752809
     },
     {
         "Season": "2019-20",
@@ -8426,12 +8426,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "1",
-        "HomeTeamScoreVader": 0.1338307692,
         "HomeTeamScoreRoberta": 0.1923076923,
         "HomeTeamPosts": 52,
-        "AwayTeamScoreVader": 0.143747619,
         "AwayTeamScoreRoberta": -0.1428571429,
-        "AwayTeamPosts": 21
+        "AwayTeamPosts": 21,
+        "HomeTeamScoreVadar": 0.1338307692,
+        "AwayTeamScoreVadar": 0.143747619
     },
     {
         "Season": "2019-20",
@@ -8607,12 +8607,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.0778,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 15,
-        "AwayTeamScoreVader": 0.0828166667,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 6
+        "AwayTeamPosts": 6,
+        "HomeTeamScoreVadar": 0.0778,
+        "AwayTeamScoreVadar": 0.0828166667
     },
     {
         "Season": "2019-20",
@@ -8638,12 +8638,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1355545455,
         "HomeTeamScoreRoberta": -0.0909090909,
         "HomeTeamPosts": 11,
-        "AwayTeamScoreVader": 0.1086052632,
         "AwayTeamScoreRoberta": 0.0175438596,
-        "AwayTeamPosts": 57
+        "AwayTeamPosts": 57,
+        "HomeTeamScoreVadar": 0.1355545455,
+        "AwayTeamScoreVadar": 0.1086052632
     },
     {
         "Season": "2019-20",
@@ -8669,12 +8669,12 @@
         "AY": "0",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.21204,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 5,
-        "AwayTeamScoreVader": 0.1819259259,
         "AwayTeamScoreRoberta": 0.1481481481,
-        "AwayTeamPosts": 27
+        "AwayTeamPosts": 27,
+        "HomeTeamScoreVadar": 0.21204,
+        "AwayTeamScoreVadar": 0.1819259259
     },
     {
         "Season": "2019-20",
@@ -8700,12 +8700,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1929828571,
         "HomeTeamScoreRoberta": 0.2857142857,
         "HomeTeamPosts": 35,
-        "AwayTeamScoreVader": 0.2477988764,
         "AwayTeamScoreRoberta": 0.1460674157,
-        "AwayTeamPosts": 89
+        "AwayTeamPosts": 89,
+        "HomeTeamScoreVadar": 0.1929828571,
+        "AwayTeamScoreVadar": 0.2477988764
     },
     {
         "Season": "2019-20",
@@ -8806,12 +8806,12 @@
         "AY": "4",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.4182285714,
         "HomeTeamScoreRoberta": 0.1428571429,
         "HomeTeamPosts": 7,
-        "AwayTeamScoreVader": 0.1195976744,
         "AwayTeamScoreRoberta": 0.0813953488,
-        "AwayTeamPosts": 86
+        "AwayTeamPosts": 86,
+        "HomeTeamScoreVadar": 0.4182285714,
+        "AwayTeamScoreVadar": 0.1195976744
     },
     {
         "Season": "2019-20",
@@ -8887,12 +8887,12 @@
         "AY": "0",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.3788,
         "HomeTeamScoreRoberta": 0.1428571429,
         "HomeTeamPosts": 7,
-        "AwayTeamScoreVader": 0.0093142857,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 7
+        "AwayTeamPosts": 7,
+        "HomeTeamScoreVadar": 0.3788,
+        "AwayTeamScoreVadar": 0.0093142857
     },
     {
         "Season": "2019-20",
@@ -8918,12 +8918,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1768403509,
         "HomeTeamScoreRoberta": 0.1228070175,
         "HomeTeamPosts": 57,
-        "AwayTeamScoreVader": 0.2674857143,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 7
+        "AwayTeamPosts": 7,
+        "HomeTeamScoreVadar": 0.1768403509,
+        "AwayTeamScoreVadar": 0.2674857143
     },
     {
         "Season": "2019-20",
@@ -8949,12 +8949,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.01104,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 5,
-        "AwayTeamScoreVader": -0.0520444444,
         "AwayTeamScoreRoberta": -0.1111111111,
-        "AwayTeamPosts": 18
+        "AwayTeamPosts": 18,
+        "HomeTeamScoreVadar": 0.01104,
+        "AwayTeamScoreVadar": -0.0520444444
     },
     {
         "Season": "2019-20",
@@ -8980,12 +8980,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.106172093,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 43,
-        "AwayTeamScoreVader": 0.1206764706,
         "AwayTeamScoreRoberta": 0.1764705882,
-        "AwayTeamPosts": 17
+        "AwayTeamPosts": 17,
+        "HomeTeamScoreVadar": 0.106172093,
+        "AwayTeamScoreVadar": 0.1206764706
     },
     {
         "Season": "2019-20",
@@ -9011,12 +9011,12 @@
         "AY": "0",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": -0.0059875,
         "HomeTeamScoreRoberta": -0.25,
         "HomeTeamPosts": 8,
-        "AwayTeamScoreVader": 0.0508935484,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 62
+        "AwayTeamPosts": 62,
+        "HomeTeamScoreVadar": -0.0059875,
+        "AwayTeamScoreVadar": 0.0508935484
     },
     {
         "Season": "2019-20",
@@ -9092,12 +9092,12 @@
         "AY": "0",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.2152461538,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 26,
-        "AwayTeamScoreVader": 0.0669833333,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 6
+        "AwayTeamPosts": 6,
+        "HomeTeamScoreVadar": 0.2152461538,
+        "AwayTeamScoreVadar": 0.0669833333
     },
     {
         "Season": "2019-20",
@@ -9248,12 +9248,12 @@
         "AY": "3",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.0664894737,
         "HomeTeamScoreRoberta": -0.3684210526,
         "HomeTeamPosts": 19,
-        "AwayTeamScoreVader": 0.3703915254,
         "AwayTeamScoreRoberta": 0.1016949153,
-        "AwayTeamPosts": 59
+        "AwayTeamPosts": 59,
+        "HomeTeamScoreVadar": 0.0664894737,
+        "AwayTeamScoreVadar": 0.3703915254
     },
     {
         "Season": "2019-20",
@@ -9354,12 +9354,12 @@
         "AY": "0",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.2618125,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 8,
-        "AwayTeamScoreVader": 0.2329089286,
         "AwayTeamScoreRoberta": 0.1428571429,
-        "AwayTeamPosts": 56
+        "AwayTeamPosts": 56,
+        "HomeTeamScoreVadar": 0.2618125,
+        "AwayTeamScoreVadar": 0.2329089286
     },
     {
         "Season": "2019-20",
@@ -9410,12 +9410,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.0705571429,
         "HomeTeamScoreRoberta": 0.1428571429,
         "HomeTeamPosts": 7,
-        "AwayTeamScoreVader": 0.1763125,
         "AwayTeamScoreRoberta": 0.125,
-        "AwayTeamPosts": 8
+        "AwayTeamPosts": 8,
+        "HomeTeamScoreVadar": 0.0705571429,
+        "AwayTeamScoreVadar": 0.1763125
     },
     {
         "Season": "2019-20",
@@ -9441,12 +9441,12 @@
         "AY": "4",
         "HR": "0",
         "AR": "1",
-        "HomeTeamScoreVader": 0.164275,
         "HomeTeamScoreRoberta": -0.1666666667,
         "HomeTeamPosts": 12,
-        "AwayTeamScoreVader": -0.1616555556,
         "AwayTeamScoreRoberta": -0.3333333333,
-        "AwayTeamPosts": 9
+        "AwayTeamPosts": 9,
+        "HomeTeamScoreVadar": 0.164275,
+        "AwayTeamScoreVadar": -0.1616555556
     },
     {
         "Season": "2019-20",
@@ -9472,12 +9472,12 @@
         "AY": "3",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.0191611111,
         "HomeTeamScoreRoberta": -0.0833333333,
         "HomeTeamPosts": 36,
-        "AwayTeamScoreVader": 0.1013417722,
         "AwayTeamScoreRoberta": 0.0759493671,
-        "AwayTeamPosts": 79
+        "AwayTeamPosts": 79,
+        "HomeTeamScoreVadar": 0.0191611111,
+        "AwayTeamScoreVadar": 0.1013417722
     },
     {
         "Season": "2019-20",
@@ -9528,12 +9528,12 @@
         "AY": "3",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.2306914634,
         "HomeTeamScoreRoberta": 0.0365853659,
         "HomeTeamPosts": 82,
-        "AwayTeamScoreVader": 0.37895,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 8
+        "AwayTeamPosts": 8,
+        "HomeTeamScoreVadar": 0.2306914634,
+        "AwayTeamScoreVadar": 0.37895
     },
     {
         "Season": "2019-20",
@@ -9559,12 +9559,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.2210473684,
         "HomeTeamScoreRoberta": 0.0701754386,
         "HomeTeamPosts": 57,
-        "AwayTeamScoreVader": 0.41065,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 4
+        "AwayTeamPosts": 4,
+        "HomeTeamScoreVadar": 0.2210473684,
+        "AwayTeamScoreVadar": 0.41065
     },
     {
         "Season": "2019-20",
@@ -9640,12 +9640,12 @@
         "AY": "3",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.34418,
         "HomeTeamScoreRoberta": 0.2,
         "HomeTeamPosts": 5,
-        "AwayTeamScoreVader": 0.1711290323,
         "AwayTeamScoreRoberta": 0.0322580645,
-        "AwayTeamPosts": 31
+        "AwayTeamPosts": 31,
+        "HomeTeamScoreVadar": 0.34418,
+        "AwayTeamScoreVadar": 0.1711290323
     },
     {
         "Season": "2019-20",
@@ -9671,12 +9671,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.06475,
         "HomeTeamScoreRoberta": 0.0096153846,
         "HomeTeamPosts": 104,
-        "AwayTeamScoreVader": 0.1854637931,
         "AwayTeamScoreRoberta": 0.0689655172,
-        "AwayTeamPosts": 58
+        "AwayTeamPosts": 58,
+        "HomeTeamScoreVadar": 0.06475,
+        "AwayTeamScoreVadar": 0.1854637931
     },
     {
         "Season": "2019-20",
@@ -9702,12 +9702,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.2130363636,
         "HomeTeamScoreRoberta": 0.0909090909,
         "HomeTeamPosts": 11,
-        "AwayTeamScoreVader": 0.1776375,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 8
+        "AwayTeamPosts": 8,
+        "HomeTeamScoreVadar": 0.2130363636,
+        "AwayTeamScoreVadar": 0.1776375
     },
     {
         "Season": "2019-20",
@@ -9733,12 +9733,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.140175,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 8,
-        "AwayTeamScoreVader": 0.152775,
         "AwayTeamScoreRoberta": -0.25,
-        "AwayTeamPosts": 4
+        "AwayTeamPosts": 4,
+        "HomeTeamScoreVadar": 0.140175,
+        "AwayTeamScoreVadar": 0.152775
     },
     {
         "Season": "2019-20",
@@ -9764,12 +9764,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.30435,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 8,
-        "AwayTeamScoreVader": 0.2863395833,
         "AwayTeamScoreRoberta": 0.0625,
-        "AwayTeamPosts": 48
+        "AwayTeamPosts": 48,
+        "HomeTeamScoreVadar": 0.30435,
+        "AwayTeamScoreVadar": 0.2863395833
     },
     {
         "Season": "2019-20",
@@ -9895,12 +9895,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1727151515,
         "HomeTeamScoreRoberta": 0.0606060606,
         "HomeTeamPosts": 33,
-        "AwayTeamScoreVader": 0.21783,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 10
+        "AwayTeamPosts": 10,
+        "HomeTeamScoreVadar": 0.1727151515,
+        "AwayTeamScoreVadar": 0.21783
     },
     {
         "Season": "2019-20",
@@ -9951,12 +9951,12 @@
         "AY": "3",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.4023,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 6,
-        "AwayTeamScoreVader": 0.6893,
         "AwayTeamScoreRoberta": 0.1666666667,
-        "AwayTeamPosts": 6
+        "AwayTeamPosts": 6,
+        "HomeTeamScoreVadar": 0.4023,
+        "AwayTeamScoreVadar": 0.6893
     },
     {
         "Season": "2019-20",
@@ -9982,12 +9982,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.2469,
         "HomeTeamScoreRoberta": 0.25,
         "HomeTeamPosts": 4,
-        "AwayTeamScoreVader": 0.47122,
         "AwayTeamScoreRoberta": 0.4,
-        "AwayTeamPosts": 5
+        "AwayTeamPosts": 5,
+        "HomeTeamScoreVadar": 0.2469,
+        "AwayTeamScoreVadar": 0.47122
     },
     {
         "Season": "2019-20",
@@ -10013,12 +10013,12 @@
         "AY": "0",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.06545,
         "HomeTeamScoreRoberta": -0.25,
         "HomeTeamPosts": 4,
-        "AwayTeamScoreVader": 0.2620304348,
         "AwayTeamScoreRoberta": 0.2173913043,
-        "AwayTeamPosts": 23
+        "AwayTeamPosts": 23,
+        "HomeTeamScoreVadar": 0.06545,
+        "AwayTeamScoreVadar": 0.2620304348
     },
     {
         "Season": "2019-20",
@@ -10044,12 +10044,12 @@
         "AY": "4",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.3515307692,
         "HomeTeamScoreRoberta": 0.3846153846,
         "HomeTeamPosts": 13,
-        "AwayTeamScoreVader": 0.101625,
         "AwayTeamScoreRoberta": 0.0735294118,
-        "AwayTeamPosts": 68
+        "AwayTeamPosts": 68,
+        "HomeTeamScoreVadar": 0.3515307692,
+        "AwayTeamScoreVadar": 0.101625
     },
     {
         "Season": "2019-20",
@@ -10075,12 +10075,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1770719298,
         "HomeTeamScoreRoberta": 0.2105263158,
         "HomeTeamPosts": 57,
-        "AwayTeamScoreVader": 0.54152,
         "AwayTeamScoreRoberta": 0.6,
-        "AwayTeamPosts": 5
+        "AwayTeamPosts": 5,
+        "HomeTeamScoreVadar": 0.1770719298,
+        "AwayTeamScoreVadar": 0.54152
     },
     {
         "Season": "2019-20",
@@ -10106,12 +10106,12 @@
         "AY": "0",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.2536134921,
         "HomeTeamScoreRoberta": 0.3174603175,
         "HomeTeamPosts": 126,
-        "AwayTeamScoreVader": 0.2195745763,
         "AwayTeamScoreRoberta": 0.0847457627,
-        "AwayTeamPosts": 59
+        "AwayTeamPosts": 59,
+        "HomeTeamScoreVadar": 0.2536134921,
+        "AwayTeamScoreVadar": 0.2195745763
     },
     {
         "Season": "2019-20",
@@ -10187,12 +10187,12 @@
         "AY": "3",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1198324675,
         "HomeTeamScoreRoberta": 0.1168831169,
         "HomeTeamPosts": 77,
-        "AwayTeamScoreVader": -0.1480857143,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 7
+        "AwayTeamPosts": 7,
+        "HomeTeamScoreVadar": 0.1198324675,
+        "AwayTeamScoreVadar": -0.1480857143
     },
     {
         "Season": "2019-20",
@@ -10218,12 +10218,12 @@
         "AY": "2",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.41318,
         "HomeTeamScoreRoberta": 0.6,
         "HomeTeamPosts": 5,
-        "AwayTeamScoreVader": 0.2071117647,
         "AwayTeamScoreRoberta": -0.0294117647,
-        "AwayTeamPosts": 34
+        "AwayTeamPosts": 34,
+        "HomeTeamScoreVadar": 0.41318,
+        "AwayTeamScoreVadar": 0.2071117647
     },
     {
         "Season": "2019-20",
@@ -10274,12 +10274,12 @@
         "AY": "4",
         "HR": "1",
         "AR": "0",
-        "HomeTeamScoreVader": 0.1680714286,
         "HomeTeamScoreRoberta": 0.0,
         "HomeTeamPosts": 7,
-        "AwayTeamScoreVader": 0.2184305556,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 36
+        "AwayTeamPosts": 36,
+        "HomeTeamScoreVadar": 0.1680714286,
+        "AwayTeamScoreVadar": 0.2184305556
     },
     {
         "Season": "2019-20",
@@ -10305,12 +10305,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.2682888889,
         "HomeTeamScoreRoberta": 0.2222222222,
         "HomeTeamPosts": 18,
-        "AwayTeamScoreVader": -0.056575,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 4
+        "AwayTeamPosts": 4,
+        "HomeTeamScoreVadar": 0.2682888889,
+        "AwayTeamScoreVadar": -0.056575
     },
     {
         "Season": "2019-20",
@@ -10336,12 +10336,12 @@
         "AY": "0",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.0383428571,
         "HomeTeamScoreRoberta": 0.1428571429,
         "HomeTeamPosts": 7,
-        "AwayTeamScoreVader": 0.259746,
         "AwayTeamScoreRoberta": 0.22,
-        "AwayTeamPosts": 50
+        "AwayTeamPosts": 50,
+        "HomeTeamScoreVadar": 0.0383428571,
+        "AwayTeamScoreVadar": 0.259746
     },
     {
         "Season": "2019-20",
@@ -10367,12 +10367,12 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.3539,
         "HomeTeamScoreRoberta": 0.1666666667,
         "HomeTeamPosts": 6,
-        "AwayTeamScoreVader": 0.00645,
         "AwayTeamScoreRoberta": 0.0,
-        "AwayTeamPosts": 4
+        "AwayTeamPosts": 4,
+        "HomeTeamScoreVadar": 0.3539,
+        "AwayTeamScoreVadar": 0.00645
     },
     {
         "Season": "2019-20",
@@ -10398,11 +10398,11 @@
         "AY": "1",
         "HR": "0",
         "AR": "0",
-        "HomeTeamScoreVader": 0.4527,
         "HomeTeamScoreRoberta": 0.2857142857,
         "HomeTeamPosts": 7,
-        "AwayTeamScoreVader": 0.0336777778,
         "AwayTeamScoreRoberta": -0.1666666667,
-        "AwayTeamPosts": 18
+        "AwayTeamPosts": 18,
+        "HomeTeamScoreVadar": 0.4527,
+        "AwayTeamScoreVadar": 0.0336777778
     }
 ]

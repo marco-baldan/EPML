@@ -1,7 +1,9 @@
-import pandas as pd
+"""This module performs predictions using various machine learning models on football match 
+data."""
 import json
+import pandas as pd
 from sklearn.preprocessing import LabelEncoder, StandardScaler
-from sklearn.metrics import accuracy_score
+from sklearn.metrics import accuracy_score, precision_score, recall_score, f1_score
 from sklearn.naive_bayes import GaussianNB
 from sklearn.linear_model import LogisticRegression
 from sklearn.neighbors import KNeighborsClassifier
@@ -9,7 +11,7 @@ from sklearn.svm import SVC
 from sklearn.model_selection import GridSearchCV
 
 # Load the data
-file_path = 'results_2019-20_with_sentiment.json'  # Make sure to use your correct file path
+file_path = 'results_2019-20_with_sentiment.json' 
 df = pd.read_json(file_path)
 
 # Preprocessing
@@ -20,7 +22,7 @@ df['DayOfWeek'] = df['DateTime'].dt.dayofweek
 # Selecting relevant features
 features = [
     'HomeTeam', 'AwayTeam', 'Referee', 'HS', 'AS', 'HST', 'AST', 
-    'HC', 'AC', 'HF', 'AF', 'HY', 'AY', 'HR', 'AR', 'Month', 'DayOfWeek'
+    'HC', 'AC', 'HF', 'AF', 'HY', 'AY', 'HR'
 ]
 X = df[features]
 
@@ -39,16 +41,27 @@ y_train, y_test = y.iloc[:train_size], y.iloc[train_size:]
 
 # Feature scaling
 scaler = StandardScaler()
-X_train_scaled = scaler.fit_transform(X_train.to_numpy())
-X_test_scaled = scaler.transform(X_test.to_numpy())
-
-# Initialize models
+X_train_scaled = scaler.fit_transform(X_train)
+X_test_scaled = scaler.transform(X_test)
+print("# Naive Bayes")
 nb_classifier = GaussianNB()
 nb_classifier.fit(X_train_scaled, y_train)
-knn_classifier = KNeighborsClassifier()
-svm_classifier = SVC()
 
-# Hyperparameter tuning for Logistic Regression using GridSearchCV
+nb_predictions = nb_classifier.predict(X_test_scaled)
+
+nb_accuracy = accuracy_score(y_test, nb_predictions)
+print("Accuracy:", nb_accuracy)
+
+nb_precision = precision_score(y_test, nb_predictions, average='weighted')
+print("Precision:", nb_precision)
+
+nb_recall = recall_score(y_test, nb_predictions, average='weighted')
+print("Recall:", nb_recall)
+
+nb_f1 = f1_score(y_test, nb_predictions, average='weighted')
+print("F1 Score:", nb_f1)
+
+print("# Logistic Regression")
 param_grid = {
     'C': [0.001, 0.01, 0.1, 1, 10, 100],
     'penalty': ['l1', 'l2']
@@ -56,28 +69,63 @@ param_grid = {
 lr = LogisticRegression(max_iter=1000, solver='liblinear')
 grid_search = GridSearchCV(lr, param_grid, cv=5, scoring='accuracy')
 grid_search.fit(X_train_scaled, y_train)
-
-# Best parameters and score
-print("Best parameters for Logistic Regression:", grid_search.best_params_)
-print("Best cross-validated score:", grid_search.best_score_)
-
-# Retrain Logistic Regression with best parameters on the entire training set
+lr = LogisticRegression(max_iter=1000, solver='liblinear')
 best_lr = grid_search.best_estimator_
 best_lr.fit(X_train_scaled, y_train)
+
+lr_predictions = best_lr.predict(X_test_scaled)
+
+lr_accuracy = accuracy_score(y_test, lr_predictions)
+print("Accuracy:", lr_accuracy)
+
+lr_precision = precision_score(y_test, lr_predictions, average='weighted')
+print("Precision:", lr_precision)
+
+lr_recall = recall_score(y_test, lr_predictions, average='weighted')
+print("Recall:", lr_recall)
+
+lr_f1 = f1_score(y_test, lr_predictions, average='weighted')
+print("F1 Score:", lr_f1)
+
+# K-Nearest Neighbors
+print("# K-Nearest Neighbors")
+knn_classifier = KNeighborsClassifier()
 knn_classifier.fit(X_train_scaled, y_train)
+
+knn_predictions = knn_classifier.predict(X_test_scaled)
+
+knn_accuracy = accuracy_score(y_test, knn_predictions)
+print("Accuracy:", knn_accuracy)
+
+knn_precision = precision_score(y_test, knn_predictions, average='weighted')
+print("Precision:", knn_precision)
+
+knn_recall = recall_score(y_test, knn_predictions, average='weighted')
+print("Recall:", knn_recall)
+
+knn_f1 = f1_score(y_test, knn_predictions, average='weighted')
+print("F1 Score:", knn_f1)
+
+# Support Vector Machine
+print("# Support Vector Machine")
+svm_classifier = SVC()
 svm_classifier.fit(X_train_scaled, y_train)
 
-# Team mapping for decoding team names
+svm_predictions = svm_classifier.predict(X_test_scaled)
+
+svm_accuracy = accuracy_score(y_test, svm_predictions)
+print("Accuracy:", svm_accuracy)
+
+svm_precision = precision_score(y_test, svm_predictions, average='weighted')
+print("Precision:", svm_precision)
+
+svm_recall = recall_score(y_test, svm_predictions, average='weighted')
+print("Recall:", svm_recall)
+
+svm_f1 = f1_score(y_test, svm_predictions, average='weighted')
+print("F1 Score:", svm_f1)
 team_encoder = LabelEncoder().fit(df['HomeTeam'])
 team_mapping = {index: label for index, label in enumerate(team_encoder.classes_)}
-
-# Function to update models with new data
-def update_model(model, X_new, y_new, is_lr=False):
-    if is_lr:
-        if len(set(y_new)) > 1:
-            model.fit(X_new, y_new)
-    else:
-        model.partial_fit(X_new, y_new)
 
 # Function to collect predictions and determine correctness
 def collect_predictions(X_data, y_data, nb_model, lr_model, knn_model, svm_model, scaler):
@@ -87,7 +135,6 @@ def collect_predictions(X_data, y_data, nb_model, lr_model, knn_model, svm_model
         game_unscaled = X_data.iloc[i]
         game_scaled = scaler.transform([game_unscaled.values])
 
-        actual_result = y_data.iloc[i]
         nb_pred = nb_model.predict(game_scaled)[0]
         lr_pred = lr_model.predict(game_scaled)[0]
         knn_pred = knn_model.predict(game_scaled)[0]
@@ -96,16 +143,21 @@ def collect_predictions(X_data, y_data, nb_model, lr_model, knn_model, svm_model
         home_team = team_mapping[game_unscaled['HomeTeam']]
         away_team = team_mapping[game_unscaled['AwayTeam']]
 
-        correct_models = []
-        if actual_result == nb_pred:
-            correct_models.append("NB")
-        if actual_result == lr_pred:
-            correct_models.append("LR")
-        if actual_result == knn_pred:
-         correct_models.append("KNN")    
-        if actual_result == svm_pred:
-            correct_models.append("SVM")
-        correct_models_str = ' and '.join(correct_models) if correct_models else "No"
+        if i < len(y_data):
+            actual_result = y_data.iloc[i]
+            correct_models = []
+            if actual_result == nb_pred:
+                correct_models.append("NB")
+            if actual_result == lr_pred:
+                correct_models.append("LR")
+            if actual_result == knn_pred:
+                correct_models.append("KNN")    
+            if actual_result == svm_pred:
+                correct_models.append("SVM")
+            correct_models_str = ' and '.join(correct_models) if correct_models else "No"
+        else:
+            actual_result = "Unknown"
+            correct_models_str = "Data mismatch"
         
         game_details.append({
             "Game": f"{home_team} vs {away_team}",
@@ -118,11 +170,13 @@ def collect_predictions(X_data, y_data, nb_model, lr_model, knn_model, svm_model
     return game_details
 
 # Collect predictions
-game_predictions = collect_predictions(X_test, y_test, nb_classifier, best_lr, knn_classifier, svm_classifier, scaler)
-
+game_predictions = collect_predictions(X_test, y_test, nb_classifier, 
+                                       best_lr, knn_classifier, svm_classifier, scaler)
 # Save the results to a JSON file
 output_file = 'predictions_results_without_sent.json'
 with open(output_file, 'w') as f:
     json.dump(game_predictions, f)
 
 print("Predictions results saved to:", output_file)
+
+
