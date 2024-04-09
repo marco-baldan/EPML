@@ -1,20 +1,20 @@
 import React, { useState, useEffect, useRef } from 'react';
 import { Bar } from 'react-chartjs-2';
-import { Chart, BarElement, CategoryScale, LinearScale } from 'chart.js'; // Corrected import
-import './Dashboard.css'; // Import CSS file for styling
+import { Chart, BarElement, CategoryScale, LinearScale } from 'chart.js'; 
+import '../../pages/Dashboard.css'; 
 
 Chart.register(BarElement, CategoryScale, LinearScale);
 
-const ModelGroupComparison = ({ dataset }) => {
+const ModelGroupAccuracyChart = ({ dataset }) => {
   const [chartData, setChartData] = useState({
     labels: [],
     datasets: [],
   });
   const [isFullScreen, setIsFullScreen] = useState(false);
-  const chartContainerRef = useRef(null); // Use ref for direct DOM access
+  const chartContainerRef = useRef(null); 
 
   const toggleFullScreen = () => {
-    const chartContainer = chartContainerRef.current; // Use ref here
+    const chartContainer = chartContainerRef.current; 
     const handleFullScreenChange = () => {
       setIsFullScreen(document.fullscreenElement != null);
     };
@@ -105,4 +105,4 @@ const ModelGroupComparison = ({ dataset }) => {
   );
 };
 
-export default ModelGroupComparison;
+export default ModelGroupAccuracyChart;

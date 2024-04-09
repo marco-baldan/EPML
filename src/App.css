@@ -6,13 +6,15 @@
   height: 100vh;
   background-color: #111;
   color: #fff;
+  text-align: center;
+
 }
 
 .home-img {
   border-radius: 50%;
-  width: 100px; /* Adjust the width as desired */
+  width: 100px; 
   height: auto;
-  margin: 10px; /* Add margin between the images */
+  margin: 10px;
 }
 
 .header {
@@ -31,14 +33,14 @@
   flex-direction: column;
   align-items: center;
   justify-content: center;
-  margin-bottom: 20px; /* Add margin at the bottom */
+  margin-bottom: 20px; 
 }
 
 .button-container {
   display: flex;
-  flex-wrap: wrap; /* Allow wrapping of buttons */
+  flex-wrap: wrap; 
   justify-content: center;
-  margin-bottom: 10px; /* Add some margin at the bottom */
+  margin-bottom: 10px; 
 }
 
 .main-button {
@@ -54,7 +56,7 @@
   display: flex;
   justify-content: center;
   align-items: center;
-  text-decoration: none; /* Add text-decoration: none */
+  text-decoration: none;
 }
 
 .main-button:hover {
@@ -63,13 +65,6 @@
 
 .main-button:focus {
   outline: none;
-}
-
-
-
-/* Existing styles... */
-.App {
-  text-align: center;
 }
 
 .navbar {

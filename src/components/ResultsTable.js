@@ -29,14 +29,14 @@ const PredictionResult = ({ model, prediction, actual }) => {
   const isCorrect = prediction === actual;
   const iconSrc = isCorrect ? yesIcon : noIcon;
   const modelName = model
-    .replace('roberta', 'roBERTA') // Capitalize roBERTA correctly
-    .replace('vadar', 'VADAR') // Capitalize VADAR correctly
-    .replace(/_/g, ' ') // Replace underscores with spaces
+    .replace('roberta', 'roBERTA') 
+    .replace('vadar', 'VADAR') 
+    .replace(/_/g, ' ') 
     .replace('Naive Bayes', 'Naive Bayes')
     .replace('L Regress', 'Logistic Regression')
     .replace('KNN', 'K-Nearest Neighbors')
     .replace('SVM', 'Support Vector Machine')
-    .replace('w/o ', ''); // Remove the 'w/o' prefix
+    .replace('w/o ', '');
 
   return (
     <div className="prediction-result">
@@ -46,7 +46,7 @@ const PredictionResult = ({ model, prediction, actual }) => {
   );
 };
 
-// Mapping object for team logos
+
 const teamLogos = {
   'Man United': manchesterUnitedLogo,
   'Liverpool': liverpoolLogo,
@@ -70,9 +70,9 @@ const teamLogos = {
   'Watford': watfordLogo
 };
 
-// Function to get the team logo based on the team name
+
 const getTeamLogo = (teamName) => {
-  return teamLogos[teamName] || ''; // Return the corresponding logo, or an empty string if not found
+  return teamLogos[teamName] || ''; 
 };
 
 const MatchCard = ({ match, showSentimentFeatures, showMLModels }) => {
@@ -81,9 +81,8 @@ const MatchCard = ({ match, showSentimentFeatures, showMLModels }) => {
     return `${date.getDate()}/${date.getMonth() + 1}/${date.getFullYear()}`;
   };
 
-  const resultActual = match.FTR; // Actual result from the match
+  const resultActual = match.FTR; 
   
-  // You've already filtered models by category, let's define modelGroups directly:
   const modelGroups = {
     'roBERTA additional feature': Object.keys(match).filter(key => key.startsWith('roberta ')),
     'VADAR additional feature': Object.keys(match).filter(key => key.startsWith('vadar ')),
@@ -110,14 +109,13 @@ const MatchCard = ({ match, showSentimentFeatures, showMLModels }) => {
   
   return (
     <div className="match-card">
-      {/* Display training/testing sign */}
       {isTrainingData ? (
         <img src={trainingIcon} alt="Training Data" className="data-type-icon" />
       ) : (
         <img src={testingIcon} alt="Testing Data" className="data-type-icon" />
       )}
       
-      {/* Match details */}
+
       <div className="match-details">
         <div className="match-date">{formatDate(match.DateTime)}</div>
         <div className="team-container">
@@ -134,7 +132,6 @@ const MatchCard = ({ match, showSentimentFeatures, showMLModels }) => {
         </div>
         <hr className="horizontal-line" />
       </div>
-      {/* Prediction results */}
       <div className="prediction-results-container">
         {Object.entries(modelGroups).map(([groupName, modelKeys]) => (
           <div className="prediction-group" key={groupName}>
@@ -170,7 +167,7 @@ const ResultsTable = ({ data, showSentimentFeatures, showMLModels }) => {
               match={match}
               showSentimentFeatures={showSentimentFeatures}
               showMLModels={showMLModels}
-              isTrainingData={false} // Assuming the default is testing data
+              isTrainingData={false} 
             />
           ))}
         </div>

@@ -1,6 +1,5 @@
 import React from 'react';
 import Dashboard from '../media/pawn.jpg';
-import LearningCentre from '../media/wik.jpg';
 import TotalScores from '../media/ball.jpg';
 import './App.css'
 
@@ -23,10 +22,6 @@ function Home() {
                 <img className='home-img' src={Dashboard} alt="DashboardImg" />
                 <p>Dashboard</p>
               </a>
-              {/* <a href="/learning_centre" className="main-button">
-                <img className='home-img' src={LearningCentre} alt="Learning Centre Thumbnail" />
-                <p>Learning Centre</p>
-              </a> */}
             </div>
           </div>
         </main>

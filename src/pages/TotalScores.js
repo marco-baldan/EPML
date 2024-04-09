@@ -2,16 +2,16 @@ import React, { useState, useEffect } from 'react';
 import ResultsTable from '../components/ResultsTable';
 import PacmanLoader from "react-spinners/PacmanLoader";
 import BackButton from '../components/BackButton';
-import jsonData from '../data/mlmodels/collated_games_data_1.json'; // Import the JSON data
+import jsonData from '../data/mlmodels/collated_games_data_1.json';
 
 function TotalScores() {
   const [loading, setLoading] = useState(false);
   const [selectedYear, setSelectedYear] = useState('');
   const [filteredData, setFilteredData] = useState([]);
   const [yearSelected, setYearSelected] = useState(false);
-  const [showSentimentFeatures, setShowSentimentFeatures] = useState(true); // Set to true initially
-  const [showMLModels, setShowMLModels] = useState(true); // Set to true initially
-  const [isBoxWidened, setIsBoxWidened] = useState(false); // Track if the box is widened
+  const [showSentimentFeatures, setShowSentimentFeatures] = useState(true); 
+  const [showMLModels, setShowMLModels] = useState(true); 
+  const [isBoxWidened, setIsBoxWidened] = useState(false); 
 
   const filterDataByYear = (year) => {
     setLoading(true);
@@ -54,10 +54,8 @@ function TotalScores() {
     <div className="appdatahub">
     <BackButton />
     <div className={`text-box ${isBoxWidened ? 'text-box-widen' : ''}`}>
-      {/* Heading always centered */}
       <h2>TotalScores</h2>
       
-      {/* This paragraph will only show when the box is not widened */}
       {!isBoxWidened && (
         <p style={{ textAlign: "center" }}>
           Select the season to view EPL statistics.<br />2019-20 is powered by sentiment analysis insights
@@ -74,9 +72,7 @@ function TotalScores() {
           </select>
         </div>
 
-        {/* Checkboxes for sentiment features and ML models */}
         <div className="checkboxes">
-  {/* Group checkboxes together in a single container */}
   <div className="checkbox-container">
     <input
       type="checkbox"

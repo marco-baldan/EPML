@@ -6,7 +6,7 @@ const BackButton = () => {
     const navigate = useNavigate();
     
     const goBack = () => {
-        navigate(-1); // This is equivalent to history.goBack()
+        navigate(-1);
     }
 
     return (
