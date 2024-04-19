@@ -76,6 +76,7 @@
 }
 
 .accuracy-card {
+  position: relative;
   width: calc(25% - 20px);
   margin: 10px;
   padding: 20px;
@@ -86,27 +87,38 @@
   text-align: center;
   display: flex;
   flex-direction: column;
-  justify-content: center; 
-  align-items: center; 
+  justify-content: center;
+  align-items: center;
   box-sizing: border-box;
-  min-height: 120px; 
-  overflow: hidden; 
+  min-height: 120px;
+  overflow: hidden;
+}
+
+.accuracy-card .sentiment-sticker {
+  position: absolute;
+  top: 0;
+  right: 0;
+  background-color: #4CAF50; 
+  color: white;
+  padding: 5px 10px;
+  border-radius: 0 0 0 5px;
 }
 
 .accuracy-card h3 {
-  font-size: 0.9rem; 
-  margin-bottom: 0.5rem; 
+  font-size: 0.9rem;
+  margin-bottom: 0.5rem;
 }
 
 .accuracy-card p {
-  font-size: 1rem; 
-  white-space: nowrap; 
-  overflow: hidden; 
+  font-size: 1rem;
+  white-space: nowrap;
+  overflow: hidden;
   text-overflow: ellipsis;
 }
+
 .accuracy-card:hover {
   box-shadow: 0 8px 16px rgba(0, 0, 0, 0.3);
-  transform: translateY(-5px); 
+  transform: translateY(-5px);
   transition: transform 0.2s ease-in-out, box-shadow 0.2s ease-in-out;
 }
 
@@ -118,20 +130,20 @@
 
 @media (max-width: 900px) {
   .accuracy-card {
-    width: calc(50% - 20px); 
+    width: calc(50% - 20px);
   }
 }
 
 @media (max-width: 600px) {
   .chart-container {
-    width: calc(100% - 20px); 
+    width: calc(100% - 20px);
     min-height: 180px;
   }
 
   .accuracy-card {
-    width: calc(50%-15px); 
+    width: calc(50%-15px);
 
-    margin: 10px 0; 
-    min-height: 160px; 
+    margin: 10px 0;
+    min-height: 160px;
   }
 }

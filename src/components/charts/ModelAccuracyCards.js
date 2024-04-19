@@ -2,13 +2,33 @@ import React, { useState, useEffect } from 'react';
 import '../../pages/Dashboard.css';
 
 const ModelAccuracyCard = ({ modelName, accuracy }) => {
+  let mainModelName = modelName.split(' ').slice(1).join(' ');
+  if (mainModelName === 'L Regress') {
+    mainModelName = 'Logistic regression';
+  } else if (mainModelName === 'SVM') {
+    mainModelName = 'Support Vector Machine';
+  } else if (mainModelName === 'KNN') {
+    mainModelName = 'K-Nearest Neighbours';
+  }
+  
+  let sentimentModel = modelName.split(' ')[0];
+  if (sentimentModel === 'vadar') {
+    sentimentModel = 'VADER';
+  } else if (sentimentModel === 'roberta') {
+    sentimentModel = 'roBERTa';
+  }
+
   return (
     <div className="accuracy-card">
-      <h3>{modelName}</h3>
+      {sentimentModel === 'w/o' ? null : (
+        <div className="sentiment-sticker">{sentimentModel}</div>
+      )}
+      <h3>{mainModelName}</h3>
       <p>{accuracy.toFixed(2)}%</p>
     </div>
   );
 };
+
 
 // Determine the number of accuracy cards to show based on screen width
 const determineNumberOfCardsToShow = (width) => {
