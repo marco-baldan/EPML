@@ -39,7 +39,35 @@ const ModelAccuracyChart = ({ dataset }) => {
 
   const updateChartData = (accuracies) => {
     setChartData({
-      labels: accuracies.map(a => a.model),
+      labels: accuracies.map(a => {
+        let label = a.model;
+        if (a.model === "w/o KNN") {
+          label = "KNN";
+        } else if (a.model === "vadar KNN") {
+          label = "KNN + VADER";
+        } else if (a.model === "roberta KNN") {
+          label = "KNN + roBERTa";
+        } else if (a.model === "w/o Naive Bayes") {
+          label = "NB";
+        } else if (a.model === "vadar Naive Bayes") {
+          label = "NB + VADER";
+        } else if (a.model === "roberta Naive Bayes") {
+          label = "NB + roBERTa";
+        } else if (a.model === "w/o L Regress") {
+          label = "LR";
+        } else if (a.model === "vadar L Regress") {
+          label = "LR + VADER";
+        } else if (a.model === "roberta L Regress") {
+          label = "LR + roBERTa";
+        } else if (a.model === "w/o SVM") {
+          label = "SVM";
+        } else if (a.model === "vadar SVM") {
+          label = "SVM + VADER";
+        } else if (a.model === "roberta SVM") {
+          label = "SVM + roBERTa";
+        }
+        return label;
+      }),
       datasets: [
         {
           label: 'Model Accuracy (%)',

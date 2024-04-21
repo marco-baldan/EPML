@@ -58,8 +58,34 @@ const TotalAccuracyOverTimeChart = ({ dataset, models }) => {
             const accuracy = accuracyByModelAndMonth[model][month] || { correct: 0, total: 0 };
             return accuracy ? (accuracy.correct / totalPredictions) * 100 : 0;
           });
+          let label = model;
+          if (model === "w/o KNN") {
+            label = "KNN";
+          } else if (model === "vadar KNN") {
+            label = "KNN + VADER";
+          } else if (model === "roberta KNN") {
+            label = "KNN + roBERTa";
+          } else if (model === "w/o Naive Bayes") {
+            label = "NB";
+          } else if (model === "vadar Naive Bayes") {
+            label = "NB + VADER";
+          } else if (model === "roberta Naive Bayes") {
+            label = "NB + roBERTa";
+          } else if (model === "w/o L Regress") {
+            label = "LR";
+          } else if (model === "vadar L Regress") {
+            label = "LR + VADER";
+          } else if (model === "roberta L Regress") {
+            label = "LR + roBERTa";
+          } else if (model === "w/o SVM") {
+            label = "SVM";
+          } else if (model === "vadar SVM") {
+            label = "SVM + VADER";
+          } else if (model === "roberta SVM") {
+            label = "SVM + roBERTa";
+          } 
           return {
-            label: model,
+            label,
             data,
             fill: false,
             borderColor: getRandomColor(index),

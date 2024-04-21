@@ -48,28 +48,28 @@ const ModelGroupAccuracyChart = ({ dataset }) => {
     }
 
     const modelGroups = {
-      'roBERTA': { total: 0, correct: 0 },
-      'VADAR': { total: 0, correct: 0 },
-      'w/o': { total: 0, correct: 0 },
+      'ML Models + roBERTA': { total: 0, correct: 0 }, 
+      'ML Models + VADER': { total: 0, correct: 0 }, 
+      'ML Models': { total: 0, correct: 0 }, 
     };
 
     data.forEach(game => {
       const actualResult = game.FTR;
       Object.entries(game).forEach(([model, prediction]) => {
         if (model.includes('roberta')) {
-          modelGroups['roBERTA'].total++;
+          modelGroups['ML Models + roBERTA'].total++;
           if (prediction === actualResult) {
-            modelGroups['roBERTA'].correct++;
+            modelGroups['ML Models + roBERTA'].correct++;
           }
         } else if (model.includes('vadar')) {
-          modelGroups['VADAR'].total++;
+          modelGroups['ML Models + VADER'].total++;
           if (prediction === actualResult) {
-            modelGroups['VADAR'].correct++;
+            modelGroups['ML Models + VADER'].correct++;
           }
-        } else if (model.includes('w/o')) {
-          modelGroups['w/o'].total++;
+        } else if (model.includes('w/o')) { 
+          modelGroups['ML Models'].total++;
           if (prediction === actualResult) {
-            modelGroups['w/o'].correct++;
+            modelGroups['ML Models'].correct++;
           }
         }
       });
@@ -88,7 +88,7 @@ const ModelGroupAccuracyChart = ({ dataset }) => {
     }];
 
     return { labels, datasets };
-  };
+};
 
   const updateChartData = (modelGroupsComparisonData) => {
     setChartData(modelGroupsComparisonData);
