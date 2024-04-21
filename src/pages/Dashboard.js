@@ -4,7 +4,8 @@ import ModelGroupAccuracyChart from '../components/charts/ModelGroupAccuracyChar
 import ModelAccuracyChart from '../components/charts/ModelAccuracyChart';
 import BackButton from '../components/BackButton';
 import { ModelAccuracyCards } from '../components/charts/ModelAccuracyCards';
-import dataset from '../data/mlmodels/collated_games_data_1.json';
+import dataset from '../data/mlmodels/collated_games_data.json';
+import metricsdataset from '../data/mlmodels/merged_metrics.json';
 import './Dashboard.css'; 
 
 const Dashboard = () => {
@@ -32,7 +33,7 @@ const Dashboard = () => {
         <ModelAccuracyChart dataset={dataset} />
         <TotalAccuracyOverTimeChart dataset={dataset} models={models} />
         <ModelGroupAccuracyChart dataset={dataset} />
-        <ModelAccuracyCards dataset={dataset} />
+        <ModelAccuracyCards dataset={metricsdataset} />
       </div>
     </div>
   );

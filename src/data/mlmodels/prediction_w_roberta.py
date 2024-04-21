@@ -9,6 +9,9 @@ from sklearn.linear_model import LogisticRegression
 from sklearn.neighbors import KNeighborsClassifier
 from sklearn.svm import SVC
 from sklearn.model_selection import GridSearchCV
+import warnings
+warnings.filterwarnings("ignore", message="X does not have valid feature names")
+warnings.filterwarnings("ignore", message=".*Scoring failed.*")
 
 # pylint: disable=E1101
 
@@ -52,7 +55,7 @@ X_test_scaled = scaler.transform(X_test)
 
 # Naive Bayes
 print("# Naive Bayes")
-nb_classifier = GaussianNB()
+nb_classifier = GaussianNB(var_smoothing=1e-9)
 nb_classifier.fit(X_train_scaled, y_train)
 
 nb_predictions = nb_classifier.predict(X_test_scaled)
@@ -73,7 +76,8 @@ print("F1 Score:", nb_f1)
 print("# Logistic Regression")
 param_grid = {
     'C': [0.001, 0.01, 0.1, 1, 10, 100],
-    'penalty': ['l1', 'l2']
+    'penalty': ['l1', 'l2'],
+    'class_weight': [None, 'balanced'] 
 }
 lr = LogisticRegression(max_iter=1000, solver='liblinear')
 grid_search = GridSearchCV(lr, param_grid, cv=5, scoring='accuracy')
@@ -96,12 +100,19 @@ print("Recall:", lr_recall)
 lr_f1 = f1_score(y_test, lr_predictions, average='weighted')
 print("F1 Score:", lr_f1)
 
-# K-Nearest Neighbors
 print("# K-Nearest Neighbors")
-knn_classifier = KNeighborsClassifier()
-knn_classifier.fit(X_train_scaled, y_train)
-
-knn_predictions = knn_classifier.predict(X_test_scaled)
+knn_param_grid = {
+    'n_neighbors': [3, 5, 7, 9, 11],
+    'weights': ['uniform', 'distance'],
+    'metric': ['euclidean', 'manhattan'],
+    'algorithm': ['auto', 'ball_tree', 'kd_tree', 'brute'],
+    'leaf_size': [20, 30, 40]
+}
+knn_grid_search = GridSearchCV(KNeighborsClassifier(), knn_param_grid, cv=5, scoring='accuracy')
+knn_grid_search.fit(X_train_scaled, y_train)
+best_knn = knn_grid_search.best_estimator_
+best_knn.fit(X_train_scaled, y_train)
+knn_predictions = best_knn.predict(X_test_scaled)
 
 knn_accuracy = accuracy_score(y_test, knn_predictions)
 print("Accuracy:", knn_accuracy)
@@ -117,10 +128,18 @@ print("F1 Score:", knn_f1)
 
 # Support Vector Machine
 print("# Support Vector Machine")
-svm_classifier = SVC()
-svm_classifier.fit(X_train_scaled, y_train)
+svm_param_grid = {
+    'C': [0.001, 0.01, 0.1, 1, 10, 100],
+    'kernel': ['rbf'],
+    'gamma': ['scale', 'auto'],
+    'degree': [2, 3, 4]
+}
+svm_grid_search = GridSearchCV(SVC(), svm_param_grid, cv=5, scoring='accuracy')
+svm_grid_search.fit(X_train_scaled, y_train)
+best_svm = svm_grid_search.best_estimator_
+best_svm.fit(X_train_scaled, y_train)
 
-svm_predictions = svm_classifier.predict(X_test_scaled)
+svm_predictions = best_svm.predict(X_test_scaled)
 
 svm_accuracy = accuracy_score(y_test, svm_predictions)
 print("Accuracy:", svm_accuracy)
@@ -133,6 +152,8 @@ print("Recall:", svm_recall)
 
 svm_f1 = f1_score(y_test, svm_predictions, average='weighted')
 print("F1 Score:", svm_f1)
+
+
 team_encoder = LabelEncoder().fit(df['HomeTeam'])
 team_mapping = {index: label for index, label in enumerate(team_encoder.classes_)}
 def collect_predictions(X_data, y_data, nb_model, lr_model, knn_model, svm_model, scaler):
@@ -177,7 +198,7 @@ def collect_predictions(X_data, y_data, nb_model, lr_model, knn_model, svm_model
     return game_details
 # Collect predictions
 game_predictions = collect_predictions(X_test, y_test, nb_classifier, 
-                                       best_lr, knn_classifier, svm_classifier, scaler)
+                                       best_lr, best_knn, best_svm, scaler)
 
 # Save the results to a JSON file
 output_file = 'predictions_results_with_roberta.json'
@@ -185,3 +206,36 @@ with open(output_file, 'w') as f:
     json.dump(game_predictions, f)
 
 print("Predictions results saved to:", output_file)
+
+metrics_dict = {
+    "Naive Bayes": {
+        "Accuracy": nb_accuracy,
+        "Precision": nb_precision,
+        "Recall": nb_recall,
+        "F1 Score": nb_f1
+    },
+    "Logistic Regression": {
+        "Accuracy": lr_accuracy,
+        "Precision": lr_precision,
+        "Recall": lr_recall,
+        "F1 Score": lr_f1
+    },
+    "K-Nearest Neighbors": {
+        "Accuracy": knn_accuracy,
+        "Precision": knn_precision,
+        "Recall": knn_recall,
+        "F1 Score": knn_f1
+    },
+    "Support Vector Machine": {
+        "Accuracy": svm_accuracy,
+        "Precision": svm_precision,
+        "Recall": svm_recall,
+        "F1 Score": svm_f1
+    }
+}
+
+METRICS_OUTPUT_FILE = 'metrics_results_w_roberta.json'
+with open(METRICS_OUTPUT_FILE, 'w') as f:
+    json.dump(metrics_dict, f, indent=4)
+
+print("Metrics results saved to:", METRICS_OUTPUT_FILE)

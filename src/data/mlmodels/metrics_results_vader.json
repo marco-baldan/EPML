@@ -1,0 +1,26 @@
+{
+    "Naive Bayes": {
+        "Accuracy": 0.6271186440677966,
+        "Precision": 0.6324027916251246,
+        "Recall": 0.6271186440677966,
+        "F1 Score": 0.62791154535277
+    },
+    "Logistic Regression": {
+        "Accuracy": 0.6271186440677966,
+        "Precision": 0.5296814869401457,
+        "Recall": 0.6271186440677966,
+        "F1 Score": 0.569177409855376
+    },
+    "K-Nearest Neighbors": {
+        "Accuracy": 0.6101694915254238,
+        "Precision": 0.5797661279726711,
+        "Recall": 0.6101694915254238,
+        "F1 Score": 0.5816187800235656
+    },
+    "Support Vector Machine": {
+        "Accuracy": 0.6271186440677966,
+        "Precision": 0.5191741847627849,
+        "Recall": 0.6271186440677966,
+        "F1 Score": 0.5680626936395116
+    }
+}
