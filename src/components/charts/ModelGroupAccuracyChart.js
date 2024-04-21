@@ -48,7 +48,7 @@ const ModelGroupAccuracyChart = ({ dataset }) => {
     }
 
     const modelGroups = {
-      'ML Models + roBERTA': { total: 0, correct: 0 }, 
+      'ML Models + RoBERTA': { total: 0, correct: 0 }, 
       'ML Models + VADER': { total: 0, correct: 0 }, 
       'ML Models': { total: 0, correct: 0 }, 
     };
@@ -57,9 +57,9 @@ const ModelGroupAccuracyChart = ({ dataset }) => {
       const actualResult = game.FTR;
       Object.entries(game).forEach(([model, prediction]) => {
         if (model.includes('roberta')) {
-          modelGroups['ML Models + roBERTA'].total++;
+          modelGroups['ML Models + RoBERTA'].total++;
           if (prediction === actualResult) {
-            modelGroups['ML Models + roBERTA'].correct++;
+            modelGroups['ML Models + RoBERTA'].correct++;
           }
         } else if (model.includes('vadar')) {
           modelGroups['ML Models + VADER'].total++;

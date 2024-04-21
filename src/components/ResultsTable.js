@@ -29,8 +29,8 @@ const PredictionResult = ({ model, prediction, actual }) => {
   const isCorrect = prediction === actual;
   const iconSrc = isCorrect ? yesIcon : noIcon;
   const modelName = model
-    .replace('roberta', 'roBERTA') 
-    .replace('vadar', 'VADAR') 
+    .replace('roberta', 'roBERTa') 
+    .replace('vadar', 'VADER') 
     .replace(/_/g, ' ') 
     .replace('Naive Bayes', 'Naive Bayes')
     .replace('L Regress', 'Logistic Regression')
@@ -84,8 +84,8 @@ const MatchCard = ({ match, showSentimentFeatures, showMLModels }) => {
   const resultActual = match.FTR; 
   
   const modelGroups = {
-    'roBERTA additional feature': Object.keys(match).filter(key => key.startsWith('roberta ')),
-    'VADAR additional feature': Object.keys(match).filter(key => key.startsWith('vadar ')),
+    'roBERTa additional feature': Object.keys(match).filter(key => key.startsWith('roberta ')),
+    'VADER additional feature': Object.keys(match).filter(key => key.startsWith('vadar ')),
     'without sentiment analysis': Object.keys(match).filter(key => key.startsWith('w/o '))
   };
 
